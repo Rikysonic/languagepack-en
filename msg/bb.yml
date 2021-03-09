@@ -1,0 +1,1880 @@
+﻿- id: 3018
+  en: >-
+    Cogsworth went ahead to
+
+    the master´s chamber.{:clear }Please, Sora, go with him to{:theme 0A}
+
+    see the master{:reset}. He´s all alone.
+- id: 3019
+  en: >-
+    We will not tolerate suspicious persons
+
+    roaming freely about the castle!{:clear }Of course you, on the other hand,
+
+    are welcome anytime.
+- id: 3020
+  en: >-
+    I´m sure the master
+
+    regrets what he said.{:clear }Please, {:theme 0A}
+
+    help him recover the rose{:reset}.
+- id: 3021
+  en: >-
+    That man in black ran out
+
+    {:theme 0A}into the garden{:reset}.{:clear }Please, prepare yourselves for
+
+    anything, and above all, be careful!
+- id: 3022
+  en: >-
+    The ballroom and the garden are
+
+    the highlights of this castle.{:clear }I only hope those intruders
+
+    don´t cause any damage...
+- id: 3023
+  en: >-
+    If I could, I´d like nothing more
+
+    than to serve you some tea...{:clear }At least try to get some rest.
+
+    This place seems safe enough.
+- id: 3024
+  en: >-
+    You should be able to get to
+
+    the undercroft from the {:theme 0A}west hall{:reset}.{:clear }Everyone´s probably locked up
+
+    in the dungeon beyond there.
+- id: 3025
+  en: >-
+    The Beast is really a kind person at heart.
+
+    I´m sure everything will go just fine.
+- id: 3026
+  en: >-
+    Please...
+
+    I just want to be left alone now...
+- id: 3027
+  en: >-
+    I´ll be waiting here.
+
+    Please go rescue the others!
+- id: 3028
+  en: >-
+    If you´re looking for Belle, she went
+
+    off in search of that man in black.{:clear }I´m worried about the master going all
+
+    alone. Would you help him {:theme 0A}find Belle{:reset}?
+- id: 3029
+  en: >-
+    This castle´s really livened up
+
+    ever since Belle came.
+- id: 3030
+  en: >-
+    I´m afraid Belle isn´t here.{:clear }Judging by her clothes,
+
+    I doubt she went outside.{:clear }Why don´t you try
+
+    {:theme 0A}the master´s room{:reset}?
+- id: 3031
+  en: >-
+    Belle´s been this way for far too long.{:clear }There´s nothing I can do to
+
+    cheer her up, though...
+- id: 3032
+  en: >-
+    Now that you mention it, I saw a
+
+    man dressed in black outside the window.{:clear }He may have been heading to the {:theme 0A}garden{:reset}.
+- id: 3033
+  en: >-
+    The suits of armor in the
+
+    west hall should let you pass, now.{:clear }Please, {:theme 0A}go see Belle{:reset},
+
+    and hurry!
+- id: 3034
+  en: >-
+    What´s going on?{:clear }Should we chase after Belle,
+
+    too?
+- id: 3035
+  en: Oh, this is just awful!{:clear }I believe the master is heading to {:theme 0A}his chamber{:reset}.
+- id: 3036
+  en: >-
+    So, those things that attacked us
+
+    were just a diversion!?
+- id: 3037
+  en: >-
+    I´ve never seen the master
+
+    in such a temper.{:clear }When the man in black said "something you
+
+    hold very dear," he couldn´t have meant...
+- id: 3038
+  en: >-
+    Did you know that Cogsworth
+
+    can make an alarm sound, too?{:clear }It´s so loud I bet it´d
+
+    wake up anybody!
+- id: 3039
+  en: >-
+    It seems all the statues in the
+
+    castle have become hostile.{:clear }Please be careful.
+- id: 3040
+  en: >-
+    Please talk to {:theme 0A}Cogsworth {:reset}upstairs
+
+    about the hidden passageway.
+- id: 3044
+  en: Defeat the Heartless!
+- id: 3046
+  en: Help Beast come to his senses!
+- id: 3049
+  en: Defeat all of the Nobodies!
+- id: 3050
+  en: Defeat all of the Nobodies!
+- id: 3066
+  en: Hey, what is this place?
+- id: 3067
+  en: It´s huge!
+- id: 3068
+  en: And sorta gloomy, don´t ya think?
+- id: 3069
+  en: I wonder who lives here.
+- id: 3070
+  en: ''
+- id: 3071
+  en: Hey, does anybody else recognize that?
+- id: 3072
+  en: Hey! That´s the Beast!
+- id: 3073
+  en: Yeah.
+- id: 3074
+  en: Maybe we should check up on him.
+- id: 3075
+  en: Look!
+- id: 3076
+  en: C´mon!
+- id: 3077
+  en: Where did it go?
+- id: 3078
+  en: Found it!
+- id: 3079
+  en: ''
+- id: 3080
+  en: Aw, c´mon, enough already.
+- id: 3081
+  en: Somebody help us!
+- id: 3082
+  en: Just in time!
+- id: 3083
+  en: Gee, do ya think he maybe forgot who we are?
+- id: 3084
+  en: >-
+    With this many Heartless around,
+
+    something must be up.
+- id: 3085
+  en: Why´d he have to do that?
+- id: 3086
+  en: ''
+- id: 3087
+  en: >-
+    {:unk13 5E 01 18 01}{:unk08 01 00 02}If the Beast is here,
+
+    shouldn´t Belle be
+
+    close by?
+- id: 3088
+  en: >-
+    {:unk13 18 01 2C 01}{:unk08 01 00 01}You´re right.
+
+    Belle might have some clue
+
+    about what´s going on.
+- id: 3089
+  en: '{:unk13 C8 00 5E 01}{:unk08 01 01 02}Let´s go find her!'
+- id: 3090
+  en: '{:unk13 9A 01 64 00}{:unk08 01 00 05}What is it?'
+- id: 3091
+  en: >-
+    {:unk13 9E 00 4F 00}{:unk08 01 01 05}I just know I saw
+
+    a lady at the
+
+    top of those stairs...
+- id: 3094
+  en: Donald!
+- id: 3095
+  en: Oh, I´m so happy you´re here!
+- id: 3096
+  en: Donald!
+- id: 3097
+  en: Sora! Goofy!
+- id: 3098
+  en: Hiya!
+- id: 3099
+  en: Put me down! Put me down!
+- id: 3100
+  en: What am I going to do?
+- id: 3101
+  en: Shhh!
+- id: 3102
+  en: Okay.
+- id: 3103
+  en: Hey! Who opened the door?
+- id: 3104
+  en: '{:unk13 9E 00 68 01}{:unk08 01 01 02}Where´s the Beast?'
+- id: 3105
+  en: >-
+    {:unk13 36 01 46 00}{:unk08 01 00 05}Oh, he must be in the west wing.
+
+    We don´t talk like we used to.
+- id: 3106
+  en: '{:unk13 91 00 4F 00}{:unk08 01 01 05}Did something happen?'
+- id: 3107
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}Yes.{:clear }Isn´t that why
+
+    you´re here?
+- id: 3108
+  en: >-
+    {:unk13 FA 00 32 00}{:unk08 01 00 05}Not exactly. But
+
+    we can still help!
+- id: 3109
+  en: '{:unk13 F7 00 25 00}{:unk08 01 01 06}Since we´re here and all.'
+- id: 3110
+  en: '{:unk13 EC 00 60 01}{:unk08 01 01 01}The Beast won´t talk to you?'
+- id: 3111
+  en: '{:unk13 4A 01 50 00}{:unk08 01 00 05}He´s been acting strange lately.'
+- id: 3112
+  en: >-
+    {:unk13 4A 01 46 00}{:unk08 01 00 05}The only ones who might
+
+    know why are locked
+
+    up in the dungeon.{:clear }I want to help
+
+    them, but...
+- id: 3113
+  en: >-
+    {:unk13 0E 01 3C 00}{:unk08 01 01 06}Wait a second.
+
+    Who locked who up?
+- id: 3114
+  en: >-
+    {:unk13 00 01 5A 01}{:unk08 01 00 01}The Beast locked
+
+    up his servants.
+- id: 3115
+  en: '{:unk13 78 01 27 01}{:unk08 01 00 00}But why?'
+- id: 3116
+  en: '{:unk13 FA 00 32 00}{:unk08 01 00 05}That´s what I don´t know.'
+- id: 3117
+  en: '{:unk13 48 01 67 01}{:unk08 01 00 00}Hmm.{:clear }Where´s this dungeon?'
+- id: 3118
+  en: >-
+    {:unk13 4A 01 46 00}{:unk08 01 00 05}You can get to the undercroft
+
+    from the west hall.
+
+    The dungeon is down there.
+- id: 3119
+  en: '{:unk13 32 01 68 01}{:unk08 01 00 00}West hall. Got it.'
+- id: 3120
+  en: '{:unk13 A0 00 46 00}{:unk08 01 01 06}Be careful!'
+- id: 3121
+  en: >-
+    {:unk13 E0 00 45 01}{:unk08 01 01 00}There should be a way
+
+    into the undercroft
+
+    around here...
+- id: 3122
+  en: '{:unk06 02}{:unk13 8C 00 C8 00}{:unk08 03 01 06}Here it is!'
+- id: 3123
+  en: >-
+    {:unk06 02}{:unk13 B4 00 46 00}{:unk08 03 01 06}Do you
+
+    MIND!?
+- id: 3124
+  en: >-
+    {:unk13 FA 00 AA 00}{:unk08 01 01 00}And I was just
+
+    starting to
+
+    get comfortable...
+- id: 3125
+  en: '{:unk13 7C 01 32 00}{:unk08 01 00 05}May I help you?'
+- id: 3126
+  en: >-
+    {:unk13 68 01 E6 00}{:unk08 01 00 01}Huh?{:clear }What?{:clear }Oh, right--
+
+    Belle needs us
+
+    to go to the dungeon.
+- id: 3127
+  en: >-
+    {:unk13 B4 00 64 00}{:unk08 01 01 06}Goodness!{:clear }You´re here
+
+    to help my friends?{:clear }Well, why didn´t
+
+    you say so?
+- id: 3128
+  en: '{:unk13 DC 00 5E 01}{:unk08 01 00 01}Er...'
+- id: 3129
+  en: >-
+    {:unk13 6F 01 ED 00}{:unk08 01 00 02}I´m sorry I
+
+    startled you.{:clear }Oh, I used to be
+
+    human, you know,{:clear }until the enchantress
+
+    cast her spell.
+- id: 3130
+  en: >-
+    {:unk13 07 01 5D 01}{:unk08 01 00 02}I was turned into a wardrobe when
+
+    the prince was turned into a beast.
+- id: 3131
+  en: '{:unk13 E1 00 26 00}{:unk08 01 00 06}The prince is the Beast!?'
+- id: 3132
+  en: '{:unk13 96 00 EB 00}{:unk08 01 01 00}The Beast is a prince!?'
+- id: 3133
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}That´s right.{:clear }Although his behavior was
+
+    far from princely at the time.
+- id: 3134
+  en: >-
+    {:unk13 7E 01 BD 00}{:unk08 01 00 00}What´s this
+
+    about a...spell?
+- id: 3135
+  en: >-
+    {:unk13 5E 01 3C 00}{:unk08 01 00 05}Well, it was a cold
+
+    winter´s night...
+- id: 3136
+  en: >-
+    {:unk13 BA 00 3C 00}{:unk08 01 01 07}And that´s enough for now.{:clear }You can hear the rest when
+
+    you´ve rescued the others.{:clear }It´ll give you something
+
+    to look forward to.
+- id: 3137
+  en: '{:unk13 FA 00 B4 00}{:unk08 01 00 05}Aww...'
+- id: 3138
+  en: >-
+    {:unk13 40 01 64 00}Hurry, now. The dungeon
+
+    is damp and chilly.{:clear }Certainly no place for a clock!
+- id: 3139
+  en: '{:unk13 E6 00 32 00}{:unk08 01 00 05}A clock?'
+- id: 3140
+  en: '{:unk13 D2 00 2E 00}{:unk08 01 01 06}You´ll find out soon enough.'
+- id: 3141
+  en: >-
+    {:unk13 66 01 D8 00}{:unk08 01 00 03}All right.
+
+    Let´s get going.
+- id: 3142
+  en: This must be it.
+- id: 3143
+  en: Uh-oh!
+- id: 3144
+  en: >-
+    {:unk13 61 01 A6 00}{:unk08 01 00 07}You think the dungeon´s
+
+    past this door?
+- id: 3145
+  en: >-
+    {:unk13 94 00 B4 00}{:unk08 01 01 05}C´mon, we gotta set
+
+    those servants free!
+- id: 3146
+  en: '{:unk13 5E 01 C8 00}{:unk08 01 00 05}He´s right. Let´s go.'
+- id: 3147
+  en: There´s nobody here.
+- id: 3148
+  en: You mean there´s nobody to rescue?
+- id: 3149
+  en: Did someone say "rescue"?
+- id: 3150
+  en: Shhh!{:delay 32 00}{:clear }{:delay 0F 00}{:clear }Keep quiet. It might be THEM.
+- id: 3151
+  en: Oh, they look like nice boys to me.
+- id: 3152
+  en: We are nice. We´re your friends.
+- id: 3153
+  en: Yeah.{:delay 19 00}{:clear }{:delay 1E 00}{:clear }Belle sent us to find you.
+- id: 3154
+  en: ''
+- id: 3155
+  en: I´m Sora.
+- id: 3156
+  en: Donald.
+- id: 3157
+  en: Goofy.
+- id: 3158
+  en: '...D-don´t touch! I-I am self-winding, sir!'
+- id: 3159
+  en: I´m glad you´re okay.
+- id: 3160
+  en: It is we who are overjoyed to see you!
+- id: 3161
+  en: Did somebody put a spell on you guys, too?
+- id: 3162
+  en: Yes, that´s right...{:delay 5F 00}{:clear }You´ve heard! It was the enchantress.
+- id: 3163
+  en: It seems so long ago...
+- id: 3164
+  en: It was a cold winter´s night...
+- id: 3165
+  en: >-
+    An old beggar woman came to the castle,
+
+    and asked for shelter.
+- id: 3166
+  en: >-
+    But the master of this castle,
+
+    that is of course, the prince...
+- id: 3167
+  en: Stop that! Put me down this instant!
+- id: 3168
+  en: >-
+    {:unk13 2C 01 46 00}{:unk08 01 01 06}The master turned her away.{:clear }All because of her, ahem,
+
+    meager appearance.
+- id: 3169
+  en: '{:unk13 9A 01 FA 00}{:unk08 01 00 05}That´s awful!'
+- id: 3170
+  en: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 05}Oui. He was a spoiled prince, so
+
+    selfish and...how shall I say...cruel.
+- id: 3171
+  en: '{:unk06 02}{:unk13 A4 01 FA 00}{:unk08 03 00 02}Lumiere!'
+- id: 3172
+  en: >-
+    {:unk13 C8 00 46 00}{:unk08 01 00 05}The old woman warned
+
+    our master not to be
+
+    deceived by appearances...{:clear }Still, he would not
+
+    take her in.
+- id: 3173
+  en: >-
+    {:unk13 2C 01 50 00}{:unk08 01 01 06}Then the old woman´s
+
+    ugliness melted away{:clear }to reveal a beautiful
+
+    enchantress.
+- id: 3174
+  en: >-
+    {:unk13 DC 00 46 00}{:unk08 01 00 05}She turned the prince into
+
+    a beast, a shape she thought
+
+    fitting for his cold heart.
+- id: 3175
+  en: >-
+    {:unk13 2C 01 4B 00}{:unk08 01 01 06}And to further punish him, everyone
+
+    in the castle was enchanted, too.
+- id: 3176
+  en: >-
+    {:unk13 90 01 2C 01}{:unk08 01 00 01}Wow...
+
+    That´s quite
+
+    a story.
+- id: 3177
+  en: >-
+    {:unk13 90 00 3C 00}{:unk08 01 01 05}Is there anything we
+
+    can do to help?
+- id: 3178
+  en: '{:unk06 02}{:unk13 58 01 B7 00}{:unk08 03 00 05}Let´s get the enchantress!'
+- id: 3179
+  en: '{:unk06 02}{:unk13 AA 00 78 00}{:unk08 03 00 05}Oh no, dear.'
+- id: 3180
+  en: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}We already know what needs
+
+    to be done, but with the
+
+    master out of sorts...
+- id: 3181
+  en: >-
+    {:unk13 DC 00 3C 00}{:unk08 01 01 06}He sure is
+
+    acting weird.
+- id: 3182
+  en: >-
+    {:unk13 E8 00 5B 00}{:unk08 01 01 04}It´s almost as if he´s forgotten
+
+    how to trust others.
+- id: 3183
+  en: >-
+    {:unk13 36 01 5A 00}{:unk08 01 01 06}You don´t suppose he´s been
+
+    turned into a Heartless, do you?
+- id: 3184
+  en: '{:unk06 02}{:unk13 18 01 A0 00}{:unk08 03 00 06}Heartless!?'
+- id: 3185
+  en: >-
+    {:unk13 D2 00 3C 00}{:unk08 01 01 06}If they´re a part of this, then
+
+    it´s a good thing we´re here.
+- id: 3186
+  en: >-
+    {:unk13 64 00 D7 00}{:unk08 01 01 06}Let´s go find
+
+    the Beast!
+- id: 3187
+  en: '{:unk06 02}{:unk13 72 01 46 00}{:unk08 03 00 06}Splendid!'
+- id: 3188
+  en: >-
+    {:unk13 FA 00 C8 00}{:unk08 01 00 06}Follow me, messieurs.
+
+    I know a shortcut.
+- id: 3189
+  en: >-
+    {:unk13 AA 00 C8 00}{:unk08 01 01 06}Allow our guests
+
+    to pass!
+- id: 3190
+  en: '{:unk13 A0 00 D2 00}{:unk08 01 01 05}After you.'
+- id: 3192
+  en: >-
+    {:unk13 96 00 78 00}{:unk08 01 01 06}Now, I must check on
+
+    the castle.{:clear }I fear my absence
+
+    has been too long.
+- id: 3193
+  en: >-
+    {:unk13 A0 00 D2 00}{:unk08 01 01 06}I´d best be off,
+
+    too, dears.
+- id: 3194
+  en: '{:unk13 FA 00 3C 00}{:unk08 01 01 06}Watch out for Heartless!'
+- id: 3195
+  en: >-
+    {:unk13 5E 01 96 00}{:unk08 01 00 05}The master´s room is
+
+    at the very end of
+
+    the west wing.{:clear }I shall go on ahead
+
+    and wait for you.
+- id: 3196
+  en: It´s time you dealt with Belle.
+- id: 3197
+  en: She´s scheming to take everything you have.
+- id: 3198
+  en: This castle, your precious rose.{:delay A0 00}{:clear }{:delay 32 00}{:clear }And then--your life.
+- id: 3199
+  en: Trust no one. Feed your anger!
+- id: 3200
+  en: Only anger will keep you strong.
+- id: 3201
+  en: >-
+    I´ve had enough of strength.
+
+    There´s only one thing I want--
+- id: 3202
+  en: What? To love, and be loved in return?{:delay D2 00}{:clear }{:delay 60 00}{:clear }Who could ever love a beast?
+- id: 3203
+  en: See? She has accomplices.
+- id: 3204
+  en: Hey, Prince!
+- id: 3205
+  en: Oh, dear! Master!
+- id: 3206
+  en: >-
+    Cogsworth...
+
+    what happened?
+- id: 3207
+  en: >-
+    Well, Master...ah, you see...that is...
+
+    How shall I say...ah, actually...mmm...
+- id: 3208
+  en: >-
+    Well, you put everybody down
+
+    there in that dungeon!
+- id: 3209
+  en: I did what?
+- id: 3210
+  en: Ah...you did!
+- id: 3211
+  en: Who was that guy you were talking to?{:delay 64 00}{:clear }{:delay 0A 00}{:clear }The one in black?
+- id: 3212
+  en: >-
+    Xaldin.{:delay 3C 00}{:clear }{:delay 28 00}{:clear }...That´s his name.{:delay 8C 00}{:clear }{:delay 34 00}{:clear }He came from the darkness... 
+
+    He...used my anger to control me.{:delay 20 01}
+- id: 3213
+  en: >-
+    He took all my sorrow, my sadness, my pain--
+
+    and turned it all into rage.
+- id: 3214
+  en: >-
+    There was nothing I could do... 
+
+    I could no longer see the truth.
+- id: 3215
+  en: >-
+    Well, I´ll be. That must be why you threw
+
+    all of your friends down there into the dungeon.
+- id: 3216
+  en: >-
+    You wanted to make sure that
+
+    you didn´t hurt ´em, right?
+- id: 3217
+  en: Was that it? Was it to protect them?
+- id: 3218
+  en: Sure. We know you´re good inside.
+- id: 3219
+  en: >-
+    He´s right, Master.
+
+    We´ve all seen how kind you can be.{:delay E6 00}{:clear } {:delay 14 00}{:clear }After all...
+- id: 3220
+  en: >-
+    Belle can see the goodness in your heart,
+
+    but I´m afraid you´ve yet to--
+- id: 3221
+  en: Belle!
+- id: 3222
+  en: >-
+    I´ve mistreated her...
+
+    I´ve mistreated her and been so selfish.
+- id: 3223
+  en: She didn´t say anything about that.
+- id: 3224
+  en: >-
+    She´d never tell anyone of my cruelty...
+
+    She´s too good.
+- id: 3225
+  en: >-
+    You see, I´m afraid he judges himself
+
+    far too harshly.
+- id: 3226
+  en: Why don´t you just go talk to her?
+- id: 3227
+  en: But...
+- id: 3228
+  en: No excuses! C´mon, we´ll go with you.
+- id: 3229
+  en: '{:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}Master!'
+- id: 3230
+  en: >-
+    {:unk13 7A 01 83 00}{:unk08 01 00 06}Everybody´s
+
+    safe now.
+- id: 3231
+  en: >-
+    {:unk13 5C 00 9C 00}{:unk08 01 01 02}Wonderful!
+
+    Thank you!
+- id: 3232
+  en: '{:unk13 5E 01 64 00}{:unk08 01 00 05}Where is Belle?'
+- id: 3233
+  en: >-
+    {:unk13 4A 01 DC 00}{:unk08 01 00 01}Why, she left in a hurry.
+
+    Something about going after
+
+    this...man in black.
+- id: 3234
+  en: >-
+    {:unk06 02}{:unk13 72 01 50 00}{:unk08 03 00 05}WHAT!?{:clear }Why doesn´t she do
+
+    as she´s told?
+- id: 3235
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 05}Temper, temper!{:clear }Her spirit is what
+
+    makes Belle so special.
+- id: 3236
+  en: >-
+    {:unk13 7C 01 50 00}{:unk08 01 01 05}We´d better go
+
+    find her!
+- id: 3237
+  en: I´m warning you! You´ll be sorry!
+- id: 3238
+  en: Belle! Where are you?
+- id: 3239
+  en: >-
+    Beast! Help!
+
+    I´m in the ballroom!
+- id: 3240
+  en: Belle!
+- id: 3241
+  en: I´m all right!
+- id: 3242
+  en: We did it!
+- id: 3243
+  en: So you think.
+- id: 3244
+  en: Xaldin!
+- id: 3245
+  en: Farewell.
+- id: 3246
+  en: What does he want here?
+- id: 3247
+  en: He must be with Organization {XIII}.
+- id: 3248
+  en: Ever heard of the Nobodies?
+- id: 3249
+  en: >-
+    When a strong-hearted person turns
+
+    into a Heartless, a Nobody´s created, too.
+- id: 3250
+  en: >-
+    See, the Organization...they´ve got
+
+    control of all the Nobodies.
+- id: 3251
+  en: >-
+    That´s right. And they were gonna make you
+
+    into a Heartless.{:delay DC 00}{:clear }That way, they could get that Nobody of yours
+
+    and have control over it.
+- id: 3252
+  en: You´re all right!
+- id: 3253
+  en: Belle!
+- id: 3254
+  en: Belle... I-I´m sorry--I...wasn´t myself.{:delay 13 01}{:clear }{:delay 14 00}{:clear }I hope I haven´t done anything to hurt you.
+- id: 3255
+  en: Forgive me.
+- id: 3256
+  en: >-
+    I know you weren´t yourself.
+
+    You don´t have to apologize.
+- id: 3257
+  en: >-
+    But I had hoped...
+
+    that you might have changed a little bit.
+- id: 3258
+  en: I wish you could start trusting me.
+- id: 3259
+  en: Oh, I am afraid time is running short.
+- id: 3260
+  en: What do you mean?
+- id: 3261
+  en: Remember the rose?
+- id: 3262
+  en: From the Beast´s room?
+- id: 3263
+  en: >-
+    Precisely.
+
+    You see, if the master can learn to love,{:delay F0 00}{:clear }and earn love in return,
+
+    before the last petal falls...
+- id: 3264
+  en: the spell will be broken.
+- id: 3265
+  en: Really? You think he´s gonna make it?
+- id: 3266
+  en: We think so.
+- id: 3267
+  en: Yep, I think you´re right.
+- id: 3268
+  en: I HOPE you´re right...
+- id: 3269
+  en: What happened?
+- id: 3270
+  en: The gate is open!
+- id: 3271
+  en: Do you have to go?
+- id: 3272
+  en: Yeah.
+- id: 3273
+  en: Now, no more arguin´, okay?
+- id: 3274
+  en: We´ll see to it.
+- id: 3275
+  en: Take care, dears.
+- id: 3276
+  en: You´re welcome here anytime!
+- id: 3277
+  en: >-
+    If you hear anything about Riku or the King,{:delay AA 00}{:clear } {:delay 05 00}{:clear }the Heartless, the Organization--
+
+    anything at all--let us know!
+- id: 3278
+  en: Okay, gotta go!
+- id: 3279
+  en: I hope tonight goes well.
+- id: 3280
+  en: So do I.{:delay 28 00}{:clear }{:delay 2E 00}{:clear }But I wonder why he´s so nervous.
+- id: 3281
+  en: The master does have his shy side, you know.
+- id: 3282
+  en: '{:unk06 02}{:unk13 64 00 40 01}{:unk08 03 00 05}Hey there!'
+- id: 3283
+  en: >-
+    {:unk13 52 01 07 01}{:unk08 01 00 05}No Heartless and
+
+    no Nobodies!
+- id: 3284
+  en: >-
+    {:unk13 94 00 A4 00}{:unk08 01 00 05}I think they´re
+
+    close, though...
+- id: 3285
+  en: '{:unk13 78 00 A0 00}{:unk08 01 01 06}Better watch out!'
+- id: 3286
+  en: >-
+    {:unk13 68 01 C8 00}{:unk08 01 00 05}What are you
+
+    so mad about?
+- id: 3287
+  en: '{:unk13 C8 00 3C 00}{:unk08 01 01 06}Why are you here?'
+- id: 3288
+  en: >-
+    {:unk13 96 00 5F 00}{:unk08 01 00 07}The Nobodies´ world
+
+    has to be out there
+
+    somewhere.{:clear }We´re looking for
+
+    a way in.
+- id: 3289
+  en: '{:unk13 7C 01 32 00}{:unk08 01 00 05}Hmph.'
+- id: 3290
+  en: Tonight is very important.
+- id: 3291
+  en: Uh, maybe we came at a bad time.
+- id: 3292
+  en: Well, there´s only one way to find out.
+- id: 3293
+  en: Donald!
+- id: 3294
+  en: >-
+    Now then, Monsieur, Mademoiselle.
+
+    Please, enjoy the evening.
+- id: 3295
+  en: >-
+    And of course, our honored guests
+
+    are welcome, too.
+- id: 3296
+  en: A welcome indeed.
+- id: 3297
+  en: The Organization!
+- id: 3298
+  en: You don´t know when to quit.
+- id: 3299
+  en: Oh yeah! We´ll show you!
+- id: 3300
+  en: Get out!
+- id: 3301
+  en: Not tonight!
+- id: 3302
+  en: >-
+    I´ve come to take something
+
+    you hold very dear.
+- id: 3303
+  en: Yes. Let your anger grow...
+- id: 3304
+  en: >-
+    Beast!
+
+    We have to get rid of these guys first!
+- id: 3305
+  en: >-
+    {:unk06 02}{:unk13 5E 01 64 00}{:unk08 03 01 06}Where´s
+
+    Belle!?
+- id: 3306
+  en: '{:unk06 02}{:unk13 64 00 32 00}{:unk08 03 00 05}Over here!'
+- id: 3307
+  en: >-
+    {:unk13 61 00 C7 00}{:unk08 01 01 00}Whew,
+
+    she´s okay.
+- id: 3308
+  en: >-
+    {:unk13 0E 01 46 00}{:unk08 01 01 07}Guess Xaldin didn´t
+
+    take anything after
+
+    all.
+- id: 3309
+  en: '{:unk13 B4 00 AA 00}{:unk08 01 00 01}What´s wrong?'
+- id: 3310
+  en: '{:unk13 96 00 0E 01}{:unk08 01 01 06}Belle?'
+- id: 3311
+  en: '{:unk13 DC 00 32 00}{:unk08 01 01 06}What´s with them?'
+- id: 3312
+  en: >-
+    {:unk13 C8 00 46 00}{:unk08 01 00 05}Maybe Belle isn´t the only thing
+
+    precious to the Beast.
+- id: 3313
+  en: '{:unk13 FA 00 FA 00}{:unk08 01 00 05}C´mon!'
+- id: 3314
+  en: What´s wrong?
+- id: 3315
+  en: Please, calm down!
+- id: 3316
+  en: Calm down!?
+- id: 3317
+  en: ''
+- id: 3318
+  en: >-
+    You just had to have a party, didn´t you?
+
+    Don´t you see what´s happened?
+- id: 3319
+  en: Hey. What´s with you?
+- id: 3320
+  en: The rose... My rose...
+- id: 3321
+  en: >-
+    What, that?
+
+    He took it?
+- id: 3322
+  en: But surely, you can find another rose...
+- id: 3323
+  en: Silence! You don´t know anything!
+- id: 3324
+  en: >-
+    That´s not fair, Beast.
+
+    Don´t take it out on Belle.{:delay BE 00}{:clear }{:delay 0F 00}{:clear }It´s not like she stole it!
+- id: 3325
+  en: I´m sorry.
+- id: 3326
+  en: You don´t have to apologize.
+- id: 3327
+  en: But...
+- id: 3328
+  en: >-
+    Belle... Sora...
+
+    I want you to leave the castle.
+- id: 3329
+  en: Look at me. Look. This is what I am.
+- id: 3330
+  en: >-
+    When you first got here,
+
+    I tried to change.
+- id: 3331
+  en: >-
+    But I was only fooling myself.
+
+    I can´t be any different.
+- id: 3332
+  en: >-
+    I´ll always be a beast.
+
+    So, I should live like a beast.{:delay EB 00}{:clear }{:delay 3C 00}{:clear }With no one, alone.
+- id: 3333
+  en: Good-bye, Belle.
+- id: 3334
+  en: You can´t mean that...
+- id: 3335
+  en: Aw, I think his mind´s all made up.
+- id: 3336
+  en: Yeah.
+- id: 3337
+  en: >-
+    Look, Belle. Leave this to us.{:delay 7D 00}{:clear }If we can get the Beast´s rose back,
+
+    he´ll calm down.
+- id: 3338
+  en: '{:unk13 36 01 C8 00}{:unk08 01 00 05}Poor child...'
+- id: 3339
+  en: >-
+    {:unk13 5E 01 8C 00}{:unk08 01 00 05}How could it have
+
+    come to this?
+- id: 3340
+  en: >-
+    {:unk13 5E 01 64 00}{:unk08 01 00 05}And they were so looking
+
+    forward to this evening...
+- id: 3341
+  en: >-
+    {:unk13 82 00 AA 00}{:unk08 01 01 05}Now, now--no need
+
+    to be so sad.
+- id: 3342
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 01 05}Once the rose is back safely,
+
+    this will all be over.
+- id: 3343
+  en: >-
+    {:unk13 36 01 78 00}{:unk08 01 00 06}What´s so special about
+
+    one rose, anyway?
+- id: 3344
+  en: >-
+    {:unk13 40 01 C8 00}{:unk08 01 00 02}If the master can love
+
+    and be loved in return,
+
+    the spell will be broken.{:clear }We´ll all be human again.
+- id: 3345
+  en: '{:unk13 82 00 E6 00}{:unk08 01 01 05}Yeah. You told us.'
+- id: 3346
+  en: >-
+    {:unk13 96 00 BB 00}{:unk08 01 01 02}But there is
+
+    a time limit.
+- id: 3347
+  en: >-
+    {:unk13 FA 00 4A 01}He must find his true
+
+    love before the last petal
+
+    falls from that rose.
+- id: 3348
+  en: '{:unk13 5E 01 46 00}Ah, but that is not all...'
+- id: 3349
+  en: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}Over time, caring for that rose
+
+    has become a cherished part
+
+    of the master´s daily life.
+- id: 3350
+  en: >-
+    {:unk13 F0 00 96 00}{:unk08 01 01 05}It´s as though all his
+
+    hopes and dreams are
+
+    tied to that single bloom...
+- id: 3351
+  en: '{:unk06 02}{:unk13 C8 00 32 00}{:unk08 03 01 06}Poor Beast!'
+- id: 3352
+  en: '{:unk13 B4 00 2D 00}{:unk08 01 01 06}Then we have to get it back.'
+- id: 3353
+  en: '{:unk13 5E 01 C8 00}{:unk08 01 00 05}Please do!'
+- id: 3354
+  en: >-
+    {:unk13 DC 00 3C 00}{:unk08 01 01 05}We can´t without the
+
+    Beast, though.{:clear }If it´s that important to him,
+
+    he´s got to do it himself.
+- id: 3355
+  en: Hey, Beast.
+- id: 3356
+  en: Leave me alone.
+- id: 3357
+  en: C´mon, you need to hear this.
+- id: 3358
+  en: >-
+    You used to be fearless.
+
+    You would have given your life to save Belle.
+- id: 3359
+  en: >-
+    Don´t you know what that meant to us?
+
+    You gave us all courage.
+- id: 3360
+  en: >-
+    Hmph, maybe you should
+
+    have kept some for yourself.
+- id: 3361
+  en: >-
+    I mean, are you really gonna throw
+
+    your happiness away?
+- id: 3362
+  en: The rose is your only hope, isn´t it?
+- id: 3363
+  en: >-
+    Well, it´s the only hope for Cogsworth
+
+    and the others, too.
+- id: 3364
+  en: >-
+    So, don´t throw away your last chance. {:delay 78 00}{:clear }{:delay 26 00}{:clear }Remember what it was like
+
+    before Belle lived here?
+- id: 3365
+  en: See?{:delay 28 00}{:clear }{:delay 23 00}{:clear }You can´t give up. Not now.
+- id: 3366
+  en: I know one thing.
+- id: 3367
+  en: What?
+- id: 3368
+  en: >-
+    This castle belongs to me.{:delay 78 00}{:clear }{:delay 3C 00}{:clear }Xaldin will never be
+
+    welcome here.
+- id: 3369
+  en: So, Beast...you came after all.
+- id: 3370
+  en: >-
+    You had me worried.
+
+    I was afraid you´d given up for good.
+- id: 3371
+  en: What do you guys really want?
+- id: 3372
+  en: '...Kingdom Hearts.'
+- id: 3373
+  en: >-
+    When Kingdom Hearts is ours, we can exist
+
+    fully and completely.
+- id: 3374
+  en: >-
+    So you see, Beast--that´s why we need
+
+    your Heartless AND your Nobody!
+- id: 3375
+  en: '{:unk13 64 00 3C 00}{:unk08 01 00 05}Belle...'
+- id: 3376
+  en: '{:unk13 C8 00 46 00}{:unk08 01 00 05}She´s been like this for hours.'
+- id: 3377
+  en: >-
+    {:unk13 B1 00 74 00}{:unk08 01 00 06}After what the Beast said
+
+    to her, I´m not surprised.
+- id: 3378
+  en: '{:unk13 2C 01 46 00}{:unk08 01 01 06}I´m sorry.'
+- id: 3379
+  en: >-
+    {:unk13 40 01 46 00}{:unk08 01 00 06}Belle, the Beast is going
+
+    to get the rose back.{:clear }Things will be right again
+
+    in no time, you´ll see.
+- id: 3380
+  en: >-
+    {:unk13 54 01 3C 00}{:unk08 01 00 05}No, Belle has suffered long
+
+    enough on my acco--
+- id: 3381
+  en: '{:unk13 64 00 FA 00}{:unk08 01 01 06}Shhh!'
+- id: 3382
+  en: >-
+    {:unk13 25 01 32 01}{:unk08 01 01 07}First we get the rose.
+
+    Then you can work the rest out.
+- id: 3383
+  en: Is that...
+- id: 3384
+  en: Look! It´s the rose!
+- id: 3385
+  en: Belle!
+- id: 3386
+  en: Hurry!
+- id: 3387
+  en: Huh?
+- id: 3388
+  en: You! Get out of my castle, now!
+- id: 3389
+  en: With pleasure, but I´d rather travel light...{:delay F0 00}{:clear }{:delay 46 00}{:clear }What shall I leave behind?
+- id: 3390
+  en: Belle?{:delay 3C 00}{:clear }{:delay 12 00}{:clear }Or the rose?
+- id: 3391
+  en: Belle!
+- id: 3392
+  en: (stunned GRUNT)
+- id: 3393
+  en: Good one, Belle!
+- id: 3394
+  en: Here. It´s yours again.
+- id: 3395
+  en: Belle...
+- id: 3396
+  en: >-
+    I know.
+
+    You want me to leave the castle.
+- id: 3397
+  en: >-
+    What matters is...
+
+    You weren´t hurt by Xaldin...{:delay F0 00}{:clear }{:delay 27 00}You´re safe.
+- id: 3398
+  en: >-
+    And... I´m very grateful to you...
+
+    for bringing the rose back to me.{:delay CC 01}{:clear }{:delay 56 00}{:clear }Thank you.
+- id: 3399
+  en: It´s the least I could do.{:delay 70 00}{:clear }You´ve been good to me.{:delay 64 00}{:clear }And you didn´t have to be.
+- id: 3400
+  en: Listen, Belle...
+- id: 3401
+  en: Yes?
+- id: 3402
+  en: Say it!
+- id: 3403
+  en: Go on!
+- id: 3404
+  en: C´mon!
+- id: 3405
+  en: You can do it!
+- id: 3406
+  en: We have confidence.
+- id: 3407
+  en: Don´t be bashful, now.
+- id: 3408
+  en: Belle, I´d like you to stay...
+- id: 3409
+  en: With me...
+- id: 3410
+  en: Please?
+- id: 3411
+  en: I will.
+- id: 3412
+  en: Maestro--music!
+- id: 3413
+  en: >-
+    Hey, did you see the look on Belle´s face
+
+    when she grabbed that rose?
+- id: 3414
+  en: Yep, she sure was havin´ fun, all right.
+- id: 3415
+  en: She is rather unique, isn´t she?
+- id: 3416
+  en: Always ready for a little adventure.
+- id: 3417
+  en: >-
+    The two of them do seem
+
+    made for each other.
+- id: 3418
+  en: Yeah, they sure do!
+- id: 7526
+  en: '{:unk13 4A 01 A0 00}{:unk08 01 00 05}Are we all set?'
+- id: 7527
+  en: >-
+    {:unk13 8C 00 8C 00}{:unk08 01 01 05}Oui. The secret door
+
+    should open now.
+- id: 7528
+  en: >-
+    {:unk13 7C 01 A0 00}{:unk08 01 01 05}But I don´t see
+
+    any secret door.
+- id: 7529
+  en: >-
+    {:unk13 4A 01 A0 00}{:unk08 01 01 05}No need
+
+    to worry.
+- id: 7530
+  en: >-
+    {:unk13 59 01 C3 00}{:unk08 01 01 05}Just push that
+
+    block over there--{:clear }the one that´s
+
+    sticking out.
+- id: 7531
+  en: '{:unk13 C8 00 A0 00}{:unk08 01 01 06}Got it.'
+- id: 7534
+  en: >-
+    {:unk13 E6 00 5A 00}{:unk08 01 01 05}Well...{:clear }If the Beast is here in
+
+    the castle, that lady
+
+    musta been Belle, right?
+- id: 7535
+  en: >-
+    {:unk13 52 01 44 00}{:unk08 01 00 07}Yeah, maybe so.{:clear }Belle might know what´s
+
+    happened to the Beast, too.
+- id: 7536
+  en: '{:unk13 B4 00 6E 00}{:unk08 01 01 06}C´mon! Let´s go find her!'
+- id: 7576
+  en: >-
+    {:unk13 96 00 64 00}{:unk08 01 01 05}All right, how do we
+
+    get out of here?
+- id: 7577
+  en: >-
+    {:unk13 FA 00 46 00}{:unk08 01 01 06}I´m afraid we won´t be
+
+    marching out that easily.{:clear }You see, the door leading to
+
+    the other side is concealed by
+
+    a sort of contraption.
+- id: 7578
+  en: >-
+    {:unk13 87 00 6E 00}{:unk08 01 01 05}What kind of
+
+    contraption?
+- id: 7579
+  en: '{:unk13 64 00 64 00}{:unk08 01 00 05}Observe.'
+- id: 7580
+  en: >-
+    {:unk13 78 00 0E 01}{:unk08 01 00 07}The lantern
+
+    came down!
+- id: 7581
+  en: >-
+    {:unk13 B4 00 78 00}{:unk08 01 01 05}Indeed it did.{:clear }If we could but light all
+
+    the lanterns in this passage,{:clear }the secret door would
+
+    open...
+- id: 7582
+  en: >-
+    {:unk13 40 01 82 00}{:unk08 01 00 06}But, as you can see, the
+
+    lanterns are already burning--
+
+    with an enchanted flame.
+- id: 7583
+  en: >-
+    {:unk13 13 01 6E 00}{:unk08 01 00 05}You must put out this enchanted
+
+    flame before I am able to
+
+    light the lanterns properly.
+- id: 7584
+  en: >-
+    {:unk13 77 01 BE 00}{:unk08 01 00 07}Can´t ya just throw
+
+    some water on ´em?
+- id: 7585
+  en: >-
+    {:unk13 18 01 8C 00}{:unk08 01 01 05}I´m afraid that´s
+
+    not enough.{:clear }But if you use the
+
+    power of light...
+- id: 7586
+  en: >-
+    {:unk13 D2 00 A0 00}{:unk08 01 01 05}Hmm...{:clear }How about I try using
+
+    the Keyblade?
+- id: 7587
+  en: '{:unk06 02}{:unk13 82 00 B4 00}{:unk08 03 01 06}Bravo!'
+- id: 7588
+  en: >-
+    Approach each lantern and use the reaction
+
+    command Sprinkle to put it out.
+- id: 7589
+  en: >-
+    {:unk13 4A 01 B4 00}{:unk08 01 00 06}Only three lanterns left!{:clear }If we work together, we´ll have
+
+    that door open in no time!
+- id: 7590
+  en: '{:unk13 7C 01 C8 00}{:unk08 01 00 04}Piece of cake!'
+- id: 7592
+  en: >-
+    {:unk06 02}{:unk13 BE 00 64 00}{:unk08 03 01 06}What? Why?
+
+    Lumiere! You--
+- id: 7593
+  en: >-
+    {:unk13 BE 00 82 00}{:unk08 01 01 05}If he gets tired and falls off,
+
+    all the unlit lanterns will rise
+
+    to the ceiling again.
+- id: 7594
+  en: >-
+    {:unk13 4A 01 82 00}{:unk08 01 00 06}Before you can continue, you
+
+    must see to Cogsworth.{:clear }Once he gets his strength
+
+    back, he´ll grasp the lever
+
+    again for you.
+- id: 7595
+  en: >-
+    Use the reaction command Restore to
+
+    help Cogsworth recover his strength.
+- id: 7596
+  en: '{:unk13 B4 00 78 00}{:unk08 01 01 06}Let´s give it a shot!'
+- id: 7597
+  en: >-
+    {:unk13 A0 00 AA 00}{:unk08 01 01 05}Again, it is not quite
+
+    so simple, mon ami.
+- id: 7598
+  en: >-
+    {:unk13 40 01 78 00}{:unk08 01 01 05}Certainly you cannot expect
+
+    Cogsworth to hang from that
+
+    handle forever?
+- id: 7599
+  en: '{:unk13 FF 00 80 00}Hanging on the handle'
+- id: 7600
+  en: '{:unk13 FF 00 80 00}The lantern comes down'
+- id: 7601
+  en: '{:unk13 FF 00 80 00}Reject motion'
+- id: 7743
+  en: >-
+    Help Beast come to his senses!
+
+    Work with Cogsworth to make
+
+    his alarm ring and snap Beast out of it!
+- id: 7744
+  en: >-
+    Defeat all of the Nobodies!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 7745
+  en: >-
+    Defeat all of the Nobodies!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 7746
+  en: Try moving the wardrobe!
+- id: 7747
+  en: Come back and try while it´s asleep. Be sure to be quiet.
+- id: 7748
+  en: Light all the lanterns!
+- id: 7749
+  en: Cogsworth is drained! Help him recover energy!
+- id: 7750
+  en: Two more lanterns to go!
+- id: 7751
+  en: One more lantern to go!
+- id: 8305
+  en: Help Cogsworth gather energy with successive Charges!
+- id: 8306
+  en: Take advantage of when he falters!
+- id: 12935
+  en: Everyone needs to help light the lantern!
+- id: 12936
+  en: He´s thirsty! Mrs. Potts can give him water!
+- id: 15718
+  en: >-
+    If you´re going to the {:theme 0A}dungeon{:reset},
+
+    you can get there through this door.{:clear }I´ll go back to Belle´s room.
+
+    Please help the others.
+- id: 15719
+  en: >-
+    Come on, guys.
+
+    There´s no need to lose hope.{:clear }Sora and his friends are here!
+
+    I´m sure they´ll do something!
+- id: 15720
+  en: >-
+    You´re traveling to all sorts of places,
+
+    aren´t you, Sora?{:clear }I wanna hear about all your
+
+    adventures sometime, okay?
+- id: 15721
+  en: >-
+    Oh, Lumiere doesn´t take
+
+    anything seriously!{:clear }If the spell is lifted, then I will
+
+    really put him to work.
+- id: 15722
+  en: >-
+    Without that rose, neither the master nor
+
+    any of us can ever become human again.{:clear }Please, steal back our only hope
+
+    from that man!
+- id: 15723
+  en: >-
+    It would be wonderful if we could
+
+    set up another nice evening,{:clear }seeing how we were so rudely
+
+    interrupted before.
+
+    Perhaps an elegant dinner is in order?
+
+    That would help the mood.
+- id: 15724
+  en: >-
+    Oh, my. What a terrible turn of events.{:clear }And Belle was so looking forward
+
+    to today´s dance...
+- id: 15725
+  en: >-
+    Thanks to you, the master and Belle
+
+    are on good terms again.{:clear }You have done so much for us.
+
+    Thank you.
+- id: 15726
+  en: >-
+    Why...
+
+    Why did this have to happen...?
+- id: 15727
+  en: >-
+    I´d like to return to my former appearance.{:clear }Although, to tell you the truth, I have
+
+    kind of taken a liking to my current look!
+- id: 15728
+  en: >-
+    I´m sure we´ll be able to put this whole
+
+    affair behind us soon enough.{:clear }Sure, it was scary at the time,
+
+    but I´ll be fine so long as{:clear }there´s someone who I can trust...
+- id: 15732
+  en: >-
+    Hey! Is something going on
+
+    in the castle today?{:clear }Belle looks really happy, and everyone
+
+    seems busy preparing for something.
+- id: 15733
+  en: >-
+    There´s no harm in preparing a little
+
+    atmosphere for those two.{:clear }This, of course, is only possible
+
+    because of me--the head steward!
+- id: 15734
+  en: >-
+    I have a good feeling
+
+    about today.{:clear }Not even the master could reject
+
+    Belle´s request.
+- id: 15735
+  en: >-
+    Well? {:theme 0A}How is the master{:reset}?{:clear }Hee hee... Knowing him,
+
+    he´s probably jittery as a bumblebee!
+- id: 15736
+  en: Why did the master yell at Belle?{:clear }Would you mind asking him that for me?
+- id: 15737
+  en: >-
+    Just when I thought the curse
+
+    might be lifted, this has to happen!
+- id: 15738
+  en: >-
+    The master can be a bit...
+
+    how shall I say...overdramatic, sometimes.{:clear }Would you mind {:theme 0A}speaking with him{:reset}
+
+    for us, please?
+- id: 15739
+  en: >-
+    I´m sure those two will be fine,
+
+    but still I worry...
+- id: 15742
+  en: >-
+    I´m so relieved everyone is all right.
+
+    Now there´s just the Beast...{:clear }I´d really like to go with you, but I´d just
+
+    get in the way. I´m counting on you, Sora!
+- id: 15743
+  en: >-
+    The master´s probably
+
+    in {:theme 0A}his room{:reset}.{:clear }Be careful, though.
+
+    He hasn´t quite been himself lately.
+- id: 15744
+  en: The door is locked.
+- id: 15746
+  en: The rose is gone.
+- id: 15747
+  en: >-
+    Someone must have torn
+
+    up the room.
+- id: 15749
+  en: The door is locked.
+- id: 15750
+  en: >-
+    At first, Belle and the master
+
+    barely spoke to each other.{:clear }Now they´re inseparable! Ah, sweet amour!
+
+    You never know where life will lead.
+- id: 15751
+  en: >-
+    It seems someone dreadful
+
+    was after the master.{:clear }I know you have a hard task before
+
+    you, but try not to overdo it.
+- id: 15752
+  en: >-
+    Did you find Belle?{:clear }What? Her scream was heard from the
+
+    {:theme 0A}ballroom{:reset}? Oh no! You´ve got to go help!
+- id: 15753
+  en: >-
+    What´s this!?
+
+    Belle needs our help!?{:clear }Then we must not keep her waiting!
+
+    Let´s be off to the {:theme 0A}ballroom{:reset}, quickly!
+- id: 15762
+  en: >-
+    I heard Belle´s scream coming
+
+    from the {:theme 0A}ballroom{:reset}!{:clear }She must be in trouble!
+
+    What should we do, Sora!?
+- id: 15763
+  en: >-
+    A maiden in distress.
+
+    This is your time for action, Master!
+- id: 15764
+  en: >-
+    I know you don´t want to waste any time,
+
+    but you don´t know what´s waiting for you.{:clear }You must prepare yourselves
+
+    before going.
+- id: 15766
+  en: >-
+    I wasn´t supposed to, but I kind of snuck
+
+    along. I´m glad the master´s better.{:clear }Now if you´ll just {:theme 0A}talk to Belle{:reset},
+
+    I´m sure they´ll get back together again.
+- id: 16664
+  en: >-
+    That weird-looking wardrobe
+
+    is blocking our way!{:clear }Hmm... It looks like we might be able
+
+    to move it if we {:theme 0A}push from the left side{:reset}.
+- id: 16665
+  en: >-
+    Yup. That´s the door to the {:theme 0A}undercroft{:reset}
+
+    behind the wardrobe, all right.{:clear }But we´d better be careful to move
+
+    the wardrobe without waking it.
+- id: 16666
+  en: >-
+    Cogsworth will lower the lantern, and then
+
+    you can remove the curse with the Keyblade!{:clear }After that, Mrs. Potts and Lumiere
+
+    will light the lantern.
+- id: 16667
+  en: >-
+    That wooden box is getting in everyone´s
+
+    way, so let´s break it and clear a path.{:clear }If Cogsworth gets tired, come back
+
+    and have Mrs. Potts take care of him.
+- id: 16793
+  en: >-
+    All right!
+
+    The master´s his old self again!{:clear }Now we just have to {:theme 0A}go see Belle{:reset}.
+
+    Come on, let´s go see her!
+- id: 16865
+  en: >-
+    So that´s what happened. I suspected
+
+    something was wrong by the look of Belle.{:clear }I hate to keep dragging you into this,
+
+    but could you please {:theme 0A}talk to the master{:reset}?
+- id: 16960
+  en: >-
+    It´s hard to tell who is portrayed
+
+    in this torn portrait.
+- id: 16961
+  en: This rose emits a mysterious light.
+- id: 16962
+  en: A strangely shaped wardrobe.
+- id: 16963
+  en: >-
+    Its protrusions make it impossible
+
+    to move from this side.
+- id: 16964
+  en: These suits of armor appear impassable.
+- id: 16965
+  en: The armor suits stand idly by.
+- id: 16966
+  en: These suits of armor appear impassable.
+- id: 16967
+  en: The armor suits stand idly by.
+- id: 16968
+  en: The gate is locked.
+- id: 17323
+  en: Not enough Charges! You need to Charge quicker!
+- id: 17627
+  en: >-
+    {:unk0f 03 0F 00 6D 01}{:color #00F0F080}The Party Command has been added.{:reset}
+
+    This Command allows a quick exchange of Party Members.{:clear }Use this Command to switch Party Members
+
+    during battles where menus can't be opened.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:unk16 02} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Sora's MP
+
+    and are executed with Party Members.
+- id: 17628
+  en: >-
+    {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:unk16 02} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Sora's MP
+
+    and are executed with Party Members.
+- id: 17709
+  en: >-
+    I saw some thick, black smoke
+
+    clinging to those statues.{:clear }Is that what´s making them move?{:clear }With them jumping out at
+
+    people like that, I´m scared!
+- id: 17710
+  en: >-
+    Now you can get to the dungeon from
+
+    the west hall! To think, though...{:clear }that wardrobe was blocking the door!
+
+    It mustn´t have been easy for you.
+- id: 18733
+  en: >-
+    Defeat the Heartless that´s
+
+    possessing the door!
+- id: 18734
+  en: >-
+    Defeat the Heartless!
+
+    When it´s hiding, attack it
+
+    and then use a reaction command!
+- id: 18735
+  en: >-
+    Defeat the Heartless!
+
+    When it disappears, use
+
+    the powerful reaction command!
+- id: 18736
+  en: >-
+    Defeat Xaldin of Organization {XIII}!
+
+    Using Jump, obtained from Learn,
+
+    will make the battle easier!
+- id: 18753
+  en: The wardrobe is blocking the door again.
+- id: 18754
+  en: >-
+    {:unk08 02 00 06}Move the wardrobe?
+
+    {:chardelay 33 00}Leave it alone.
+
+    {:chardelay 09 00}Move it!
+- id: 19077
+  en: >-
+    The fireplace is intricately crafted.
+
+    It must have cost a fortune.
+- id: 19078
+  en: >-
+    The lantern-hanging pulley
+
+    can no longer be moved.
+- id: 19079
+  en: >-
+    The lantern burns strongly, and
+
+    shouldn´t go out anytime soon.
+- id: 19208
+  en: >-
+    That man who ran out to the garden looked
+
+    pretty tough, Sora. Will you be okay?{:clear }Well, I guess if you acted tough, you
+
+    might be able to scare him.
+- id: 19750
+  en: ''
+- id: 19873
+  en: ''
+- id: 19882
+  en: ''
+- id: 19883
+  en: ''
+- id: 19886
+  en: ''
+- id: 20186
+  en: >-
+    {:unk08 02 00 06}It's an Absent Silhouette, a shadowy presence
+
+    within an emblem.
+
+
+    {:chardelay 33 00}Who cares?
+
+    {:chardelay A1 00}Let's check it out!
+- id: 20602
+  en: Press {:icon button-triangle} to begin the duel! Collect the items that drop!
+- id: 21494
+  en: "{:delayandfade 07 B4} \nAccording to Belle, Beast hasn't been\nhimself lately. He's even locked up all the\nresidents of the castle in the undercroft.\n \nSora and his friends head to the west hall\nto discover a wardrobe blocking the door\nleading downstairs. After a brief\nconversation, they learn she used to be\nhuman, but was magically transformed\nby an evil spell.\n"
+- id: 21495
+  en: "{:delayandfade 07 B4} \nShe goes on to explain that Beast was also\nonce human, and prince of the castle. If\nSora wants to know more, his servants\nhave more details they can share.\n \nCurious to find out the truth, Sora heads\ndownstairs.\n \n \n \n"
+- id: 21496
+  en: "{:delayandfade 07 B4} \nAlthough the old woman begged him to let\nher stay the night, the selfish prince\nturned her away.\n \nLittle did he know that the old woman was\nreally a witch. She magically transformed\nhim into a beast, his servants also\nvictims of her spell.\n \n \n"
+- id: 21497
+  en: "{:delayandfade 07 B4} \nSora and the gang save Belle, managing to\nprotect \"something they hold very dear.\"\n \nOr so they thought, until they see Beast\nrun off, leaving Belle behind. What could\nbe more important to him than Belle?\n \n \n \n \n"
+- id: 21498
+  en: "{:delayandfade 07 B4} \nBeast treasured the rose with his life\nbecause it was his only hope of undoing\nthe spell cast upon himself and the others\nin the castle.\n \nIt's up to Sora to convince Beast to\nretrieve the precious flower for everyone's\nsake.\n \n \n"
+- id: 21631
+  en: "{:delayandfade 07 B4} \nIn order to help everyone return to the\nway they were, Beast must first come to\nhis senses.\n \nGuided by the castle's servants, Sora and\nhis friends head to Beast's chambers.\nThere's no time to lose!\n \n \n \n"

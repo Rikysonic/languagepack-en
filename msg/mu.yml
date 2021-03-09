@@ -1,0 +1,1772 @@
+﻿- id: 4105
+  en: What is it? Giving up on the mission?
+- id: 4106
+  en: >-
+    {:unk13 00 01 40 01}{:unk08 02 00 06}Should I reject it?
+
+    {:chardelay 33 00}No sir!
+
+    {:chardelay 0A 00}I need more rest.
+- id: 4107
+  en: >-
+    Your mission is to secure the path over
+
+    the summit so our company can pass.{:clear }I´ve authorized you to be let through
+
+    to the summit. Don´t let me down!
+- id: 4108
+  en: >-
+    On the way to the mountain, you´ll come to a
+
+    checkpoint. Beyond that is the mountain trail.{:clear }The whole place is swarming with
+
+    enemies. For what it´s worth, be careful.
+- id: 4109
+  en: >-
+    A whirlwind came and blew me to
+
+    the top of the turret.{:clear }If it did that to me, imagine what
+
+    it could do to the others.
+- id: 4110
+  en: >-
+    There are explosives inside
+
+    the tent, so be careful.{:clear }If you mess around too much next to
+
+    the tent...KA-BOOM!!! Got the picture?
+- id: 4111
+  en: >-
+    All´s quiet here. You´d better take
+
+    your mission seriously.{:clear }If you don´t do it quickly, Captain
+
+    Shang´s going to have your hide.
+- id: 4113
+  en: >-
+    We don´t know where the enemy
+
+    is, or what traps they´ve set.{:clear }Be prepared for anything.
+- id: 4114
+  en: >-
+    You can reach the summit by
+
+    climbing up here.{:clear }I don´t see why anyone would want to
+
+    go there, though, unless they had to.
+- id: 4115
+  en: >-
+    It´s so quiet around here
+
+    that it makes me hungry...
+- id: 4116
+  en: >-
+    See that cave back there?{:clear }It looks pretty creepy, kinda like
+
+    something might jump right out!
+- id: 4117
+  en: >-
+    The entire country´s terrified
+
+    of Shan-Yu´s brutality.{:clear }I know I have my orders, but why
+
+    do I have to be put in danger?
+- id: 4119
+  en: >-
+    I´ll be okay. It´s just a
+
+    flesh wound.{:clear }Don´t let the enemy get away. They´re headed
+
+    for the summit. Be careful--they´re strong!
+- id: 4120
+  en: >-
+    Look at what they did to this village.
+
+    How could anyone be so brutal...?{:clear }We can´t let them get away with this.
+
+    Let´s show them what we´re made of!
+- id: 4121
+  en: >-
+    Shan-Yu attacked the village with some
+
+    creatures I´ve never seen before.{:clear }A falcon even captured some of us...
+- id: 4122
+  en: >-
+    I saw Shan-Yu with my own eyes! A falcon
+
+    was on his shoulder, and he was laughing.{:clear }He had a beast-like glow in his eyes
+
+    that made my hair stand on end!
+- id: 4123
+  en: >-
+    Shan-Yu has a falcon that´s
+
+    rumored to look ferocious.{:clear }Did you see that burnt village?
+
+    Imagine what he´ll do to us!
+- id: 4125
+  en: >-
+    Each time I see this village, I
+
+    remember that invasion like it was yesterday.{:clear }I´m just glad we could save our country.
+
+    Not bad, for a bunch of ragtag soldiers!
+- id: 4126
+  en: >-
+    I had no idea Ping, er,
+
+    Mulan was a girl.{:clear }I don´t know which surprised me
+
+    more--that, or that she beat Shan-Yu!
+- id: 4127
+  en: >-
+    Our company was thrown together to
+
+    help defend against Shan-Yu´s invasion.{:clear }We never would have accomplished so
+
+    much if it wasn´t for the Captain.
+- id: 4130
+  en: >-
+    What was that huge shadow?
+
+    It seemed to be heading toward the {:theme 0A}palace{:reset}.{:clear }To get there, follow the path out
+
+    of the checkpoint as it curves right.
+- id: 4131
+  en: >-
+    Be careful, anything can
+
+    happen in battle.{:clear }Be aware of your surroundings, and
+
+    use anything that can give you an advantage.
+- id: 4132
+  en: >-
+    Hmm... To combat a flying opponent,
+
+    one must fly himself.{:clear }Birds know that height means dominancy.
+
+    Fly high, and maybe you´ll spot a weakness.
+- id: 4133
+  en: >-
+    Thank you for saving
+
+    the Emperor.
+- id: 4134
+  en: >-
+    We will guard the Emperor
+
+    with our lives.{:clear }Rest assured on your journey.
+- id: 4135
+  en: >-
+    We´re actually supposed to be patrolling
+
+    the {:theme 0A}mountain{:reset}, but it´s so cold and windy!{:clear }Well, we CAN see the mountain
+
+    from here.
+- id: 4136
+  en: >-
+    Oh no! A giant monster is flying
+
+    toward the capital!{:clear }Sure, I was sleeping on duty,
+
+    but this wasn´t a dream! No, really!
+- id: 4137
+  en: >-
+    The Captain´s gone, so we´re
+
+    running whenever the enemy comes.{:clear }They don´t chase us too far.
+
+    Better to live and fight another day, right?
+- id: 4138
+  en: >-
+    Did you hear? A flying monster has been
+
+    spotted. I think he just dreamt it up, though.{:clear }The palace? Just go down to
+
+    the checkpoint. The gate´s downriver.
+- id: 4166
+  en: Attack!
+- id: 4167
+  en: ''
+- id: 4168
+  en: Stand back!
+- id: 4169
+  en: We'll handle this!
+- id: 4170
+  en: Sorry!{:delay 3C 00}
+- id: 4171
+  en: Yes!{:delay 3C 00}
+- id: 4172
+  en: Captain?
+- id: 4173
+  en: Look out!{:delay 2D 00}
+- id: 4174
+  en: '{:delay 2D 00}Thanks, Ping.{:delay 2D 00}'
+- id: 4175
+  en: It...was nothing.
+- id: 4176
+  en: I should never have doubted you.{:delay 5A 00}{:clear }{:delay 1E 00}From now on, you have my trust.
+- id: 4178
+  en: Thank you, Captain.
+- id: 4180
+  en: >-
+    {:delay 2F 00}{:clear }First she uses me as
+
+    a lighter,{:delay 5A 00}{:clear }then she turns me into
+
+    a cannon ball.{:delay 6C 00}{:clear }The head ancestor´s gonna
+
+    hear about this.
+- id: 4181
+  en: >-
+    You know, that´s it!
+
+    I give up!{:delay 3C 00}{:clear }{:delay 14 00}I can´t take this no more.{:delay 46 00}{:clear }{:delay 14 00}C´mon, Mulan.{:delay 1E 00}{:clear }Let´s quit this charade and
+
+    go home, girl.
+- id: 4183
+  en: Mushu!
+- id: 4184
+  en: ''
+- id: 4185
+  en: Mulan?{:delay 28 00}{:clear }A woman?{:delay 3C 00}{:clear }{:delay 28 00}It can´t be!
+- id: 4186
+  en: Ping! Captain!
+- id: 4187
+  en: Oh boy, you´re okay!
+- id: 4188
+  en: >-
+    You all knew, didn´t you?{:delay 73 00}{:clear }You knew Ping was really a
+
+    woman in disguise.
+- id: 4191
+  en: I can´t believe you lied to me.
+- id: 4192
+  en: >-
+    {:delay 14 00}The punishment for high treason
+
+    and dishonoring the Army...{:delay 8C 00}{:clear }{:delay 3C 00}is death.{:delay 1E 00}
+- id: 4193
+  en: Get out of my sight...now.{:delay 78 00}{:clear }{:delay 3C 00}{:clear }You´re all dismissed.
+- id: 4195
+  en: But Captain...
+- id: 4196
+  en: My debt is repaid.
+- id: 4197
+  en: The Emperor is waiting!{:delay 4B 00}{:clear }{:delay 28 00}{:clear }Move out!
+- id: 4198
+  en: Mulan... I blew it.
+- id: 4199
+  en: Thank you, everyone.{:delay 55 00}{:clear }{:delay 23 00}{:clear }Sorry I got you in trouble.
+- id: 4201
+  en: It´s no big deal.
+- id: 4202
+  en: >-
+    So Ping...{:delay 28 00}{:clear }{:delay 28 00}{:clear }I mean, uh, Mulan...what´re
+
+    you gonna do now?
+- id: 4203
+  en: Go back home.
+- id: 4204
+  en: >-
+    Your daddy´s gonna be steamed
+
+    as a chicken dumpling.{:delay 1E 00}
+- id: 4205
+  en: >-
+    Relax, we´ll take our share
+
+    of the blame.
+- id: 4206
+  en: Thanks.{:delay 1E 00}{:clear }You´re all wonderful friends.
+- id: 4207
+  en: ''
+- id: 4208
+  en: ''
+- id: 4209
+  en: '{:delay 1E 00}You´re going the wrong way!'
+- id: 4210
+  en: ''
+- id: 4211
+  en: Mulan!
+- id: 4212
+  en: Way to go!
+- id: 4213
+  en: >-
+    See that, Mulan? It´s Shan-Yu,
+
+    leader of the Hun army!
+- id: 4214
+  en: C´mon, girl. This is your big chance!
+- id: 4215
+  en: >-
+    I can see it now: "Fa Mulan
+
+    whups public enemy number one!"{:delay 96 00}{:clear }You gonna be famous! I´m talkin´ A-list!
+- id: 4216
+  en: Mushu, I´m not sure...
+- id: 4217
+  en: >-
+    I haven´t even joined the army yet.{:delay 64 00}{:clear }I have to take my father´s place
+
+    to preserve the Fa family honor.
+- id: 4218
+  en: I just hope I don´t get discovered.
+- id: 4219
+  en: Whatever. You just scared--admit it.
+- id: 4220
+  en: Aren´t you?
+- id: 4221
+  en: ''
+- id: 4222
+  en: ''
+- id: 4223
+  en: A Heartless?
+- id: 4224
+  en: Let´s get the jump on ´im!
+- id: 4225
+  en: >-
+    Gawrsh, maybe we better
+
+    look before we leap.
+- id: 4226
+  en: Is that Mushu?
+- id: 4227
+  en: That´s right, I know you heard of me!{:delay 6C 00}{:clear }I´m little, lethal, and legendary!
+- id: 4228
+  en: >-
+    Now y´all scram before I
+
+    get my dragon dander up!
+- id: 4229
+  en: Hey, Mushu! We missed you!
+- id: 4230
+  en: >-
+    Well you better HOPE I miss
+
+    YOU, or else you´re--{:delay 9C 00}{:clear }you´re...
+- id: 4231
+  en: '...Sora! Donald! Goofy!'
+- id: 4232
+  en: Do you know them?
+- id: 4233
+  en: >-
+    KNOW them!?{:delay 32 00}{:clear }Man, we used to kick all kinds
+
+    of bad guy butt together!
+- id: 4234
+  en: >-
+    Yeah, you know, I helped these guys
+
+    out of a lot of tight spots.{:delay 84 00}{:clear }´Cause I´m a mighty dragon! Right?
+- id: 4235
+  en: Something like that.{:delay 6E 00}{:clear }And...you are?
+- id: 4236
+  en: I´m Mulan.{:delay 5C 00}{:clear }Um, no, I-I mean...
+- id: 4237
+  en: Ping!
+- id: 4238
+  en: Mulan Ping?
+- id: 4239
+  en: >-
+    Just...Ping.
+
+    I am Ping, son of Fa Zhou.
+- id: 4240
+  en: You know Mushu?
+- id: 4241
+  en: Mushu´s one of my family´s guardians.
+- id: 4242
+  en: >-
+    We didn´t know we were borrowin´ somebody
+
+    as important as a family guardian.
+- id: 4243
+  en: Yeah, that´s right!
+- id: 4244
+  en: >-
+    And that puts you three up to your
+
+    eyeballs in debt to Ping here.{:delay D2 00}{:clear }Well, guess what, kiddies?
+
+    It´s payback time!
+- id: 4245
+  en: Mushu...
+- id: 4246
+  en: Ah, they don´t mind. Ain´t that right?
+- id: 4247
+  en: Hmm, sounds fair.
+- id: 4248
+  en: >-
+    See, Ping here was just on his
+
+    way to join the Imperial army.
+- id: 4249
+  en: >-
+    We gotta go find the other
+
+    recruits over at the training camp.
+- id: 4250
+  en: >-
+    Would you join us?{:delay 5E 00}{:clear }It´ll be easier to fit in
+
+    if I´m with guys, like you.
+- id: 4251
+  en: What do you mean, "fit in"?
+- id: 4252
+  en: >-
+    Well, um, uh, don´t--
+
+    don´t worry about that.
+- id: 4253
+  en: You´re pretendin´ to be a boy, aren´t ya?
+- id: 4254
+  en: You´re a...girl?
+- id: 4255
+  en: You didn´t notice?
+- id: 4256
+  en: Not me.
+- id: 4257
+  en: I think it´s working.
+- id: 4258
+  en: >-
+    I don´t know--those two
+
+    would fall for anything.
+- id: 4259
+  en: I´m right here!
+- id: 4260
+  en: Remember, girl--man-ly!
+- id: 4261
+  en: ´Bout time we got some grub.
+- id: 4262
+  en: Hey, no cutting!
+- id: 4263
+  en: Get out!
+- id: 4264
+  en: ''
+- id: 4265
+  en: Back off!
+- id: 4266
+  en: Hey, a space in line!
+- id: 4267
+  en: >-
+    I wonder what they´re
+
+    serving for lunch today.
+- id: 4268
+  en: Knuckle sandwiches!
+- id: 4269
+  en: That does it!
+- id: 4270
+  en: Please!
+- id: 4271
+  en: Please!?
+- id: 4272
+  en: What a girl!
+- id: 4273
+  en: Uh...knock it off!
+- id: 4274
+  en: Knock what off?
+- id: 4275
+  en: Cutting in line!
+- id: 4276
+  en: You punched me!
+- id: 4277
+  en: What a shrimp!
+- id: 4278
+  en: >-
+    Who you callin´ a shrimp, panda lips?
+
+    I´m a bona fide guardian dragon!
+- id: 4279
+  en: L-let´s just get back in line, okay?
+- id: 4280
+  en: >-
+    Whose side are you on?
+
+    I just got slugged!
+- id: 4281
+  en: Want some more?
+- id: 4282
+  en: Soldiers! Get back in line!
+- id: 4283
+  en: The Captain!
+- id: 4285
+  en: What are they?
+- id: 4286
+  en: Heartless!
+- id: 4288
+  en: Oh yeah?
+- id: 4289
+  en: Ping, I hope you´re ready!
+- id: 4290
+  en: '{:unk13 34 01 35 00}{:unk08 01 00 05}You three. What are your names?'
+- id: 4291
+  en: '{:unk13 52 01 67 00}{:unk08 01 00 06}Sora.'
+- id: 4292
+  en: '{:unk13 E6 00 D1 00}{:unk08 01 01 05}Donald.'
+- id: 4293
+  en: '{:unk13 BB 01 7D 00}{:unk08 01 00 05}Goofy.'
+- id: 4294
+  en: >-
+    {:unk13 4F 01 39 00}{:unk08 01 00 05}You´re welcome in my troop.{:clear }Your battle skills
+
+    are encouraging.
+- id: 4295
+  en: '{:unk13 F0 00 E6 00}{:unk08 01 00 01}I am the son of Fa Zhou--'
+- id: 4296
+  en: >-
+    {:unk13 5E 01 3C 00}{:unk08 01 00 05}You should
+
+    return home.
+- id: 4297
+  en: >-
+    {:unk13 09 01 FA 00}{:unk08 01 00 00}B-but...{:clear }That would dishonor
+
+    my family!
+- id: 4298
+  en: >-
+    {:unk13 68 01 3C 00}{:unk08 01 00 05}You´d rather
+
+    dishonor my troops?
+- id: 4299
+  en: '{:unk13 78 00 FA 00}{:unk08 01 01 01}Don´t make me--!'
+- id: 4300
+  en: >-
+    {:unk13 0B 01 4C 00}{:unk08 01 00 06}If Ping trains hard
+
+    and does his best,{:clear }he´ll get stronger
+
+    in no time.
+- id: 4301
+  en: '{:unk13 D2 00 3C 00}{:unk08 01 00 06}Hmm...'
+- id: 4302
+  en: >-
+    {:unk13 BE 00 69 00}{:unk08 01 00 06}Just give us an assignment!{:clear }We´ll show you how well
+
+    we can work together.
+- id: 4303
+  en: '{:unk13 31 01 2D 00}{:unk08 01 00 05}So...you want to be tested?'
+- id: 4304
+  en: >-
+    {:unk13 3F 01 32 00}{:unk08 01 00 05}Our orders are to
+
+    ambush Shan-Yu´s army{:clear }on their way here.{:clear }They should be coming
+
+    through the mountain pass.
+- id: 4305
+  en: '{:unk13 01 01 6E 00}{:unk06 02}{:unk08 03 01 06}We´ll smash them!'
+- id: 4306
+  en: >-
+    {:unk13 22 01 46 00}{:unk08 01 00 04}I doubt that.
+
+    You four will be
+
+    the advance party.{:clear }Scout out the mountain
+
+    for my troops.
+- id: 4307
+  en: '{:unk13 D7 00 69 00}{:unk08 01 00 06}That´s it? No problem.'
+- id: 4308
+  en: '{:unk13 F0 00 64 00}{:unk08 01 00 06}Right?'
+- id: 4309
+  en: '{:unk13 01 01 5A 00}{:unk08 01 01 06}R-right.'
+- id: 4310
+  en: >-
+    {:unk13 58 01 3F 00}{:unk08 01 00 05}I´ll brief you on
+
+    the details later.{:clear }Return when you´re
+
+    ready to depart.{:clear }Remember, the smallest
+
+    mission may have the
+
+    greatest purpose.{:clear }Stay alert!
+- id: 4311
+  en: '{:unk13 4A 01 8C 00}{:unk06 02}{:unk08 03 00 06}Sir!'
+- id: 4312
+  en: '{:unk13 DC 00 0E 01}{:unk06 02}{:unk08 03 00 06}Sir!'
+- id: 4313
+  en: '{:unk13 B8 01 96 00}{:unk06 02}{:unk08 03 00 06}Sir!'
+- id: 4314
+  en: '{:unk13 96 00 6E 00}{:unk06 02}{:unk08 03 00 06}Sir!'
+- id: 4315
+  en: '{:unk13 4A 01 32 00}{:unk08 01 00 05}You did well.'
+- id: 4316
+  en: '{:unk13 72 01 6E 00}{:unk08 01 00 07}I knew it!'
+- id: 4317
+  en: '{:unk13 C8 00 E6 00}{:unk08 01 00 00}Captain...'
+- id: 4318
+  en: >-
+    {:unk13 4A 01 32 00}{:unk08 01 00 05}I suppose you´ve made a
+
+    little progress...
+- id: 4319
+  en: >-
+    {:unk13 E1 00 BE 00}{:unk08 01 01 04}Not a little--
+
+    a lot!
+- id: 4320
+  en: >-
+    {:unk13 0E 01 36 01}{:unk08 01 01 02}No. You´re right, Captain.{:clear }Please give me one
+
+    more assignment.{:clear }This time I´ll show you
+
+    what I´m truly made of!
+- id: 4321
+  en: '{:unk13 C8 00 D1 00}{:unk08 01 00 01}I´ll give you one more chance.'
+- id: 4322
+  en: >-
+    {:unk13 5C 01 43 00}{:unk08 01 00 05}See me when you´re
+
+    ready to depart.{:clear }Remember, this may be
+
+    a test, but it´s still
+
+    an important mission.{:clear }Be alert!
+- id: 4323
+  en: '{:unk13 4A 01 8C 00}{:unk06 02}{:unk08 03 00 06}Sir!'
+- id: 4324
+  en: '{:unk13 C8 00 0E 01}{:unk06 02}{:unk08 03 00 06}Sir!'
+- id: 4325
+  en: '{:unk13 B8 01 96 00}{:unk06 02}{:unk08 03 01 05}Sir!'
+- id: 4326
+  en: '{:unk13 78 00 64 00}{:unk06 02}{:unk08 03 00 06}Sir!'
+- id: 4327
+  en: '{:unk13 54 01 6E 00}{:unk08 01 00 06}Hey, you ain´t half bad.'
+- id: 4328
+  en: '{:unk13 96 00 32 00}{:unk08 01 01 06}A man among men!'
+- id: 4329
+  en: '{:unk13 F0 00 3C 00}{:unk08 01 01 06}Thanks!'
+- id: 4330
+  en: '{:unk13 60 00 74 00}{:unk08 01 01 06}Captain!'
+- id: 4331
+  en: '{:unk13 40 01 3C 00}{:unk08 01 01 06}Ping sure did great!'
+- id: 4332
+  en: '{:unk13 C8 00 78 00}{:unk08 01 01 05}You bet he did!'
+- id: 4333
+  en: >-
+    {:unk13 09 01 54 01}{:unk08 01 00 01}Hmm... Fine. I´ll let
+
+    you join my troops...{:clear }But I´m still not convinced
+
+    you have what it takes{:clear }to be a worthy soldier.
+- id: 4334
+  en: '{:unk06 02}{:unk13 FA 00 46 00}{:unk08 03 01 06}Why not!?'
+- id: 4335
+  en: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}It´s all right, Sora.{:clear }I´ll find a way to show
+
+    him what I´m made of.{:clear }Just give me a chance.
+- id: 4336
+  en: '{:unk13 09 01 54 01}{:unk08 01 00 01}That´s the spirit, Ping.'
+- id: 4337
+  en: '{:unk06 02}{:unk13 22 01 3C 00}{:unk08 03 01 06}Sir!'
+- id: 4338
+  en: '{:unk13 01 01 50 00}{:unk08 01 01 06}Good going, Ping!'
+- id: 4339
+  en: '{:unk13 DC 00 50 00}{:unk08 01 00 05}Thanks!'
+- id: 4341
+  en: '{:unk13 C8 00 D1 00}{:unk08 01 00 05}Okay, girl! Here´s your chance!{:clear }I just saw this real shady guy.{:clear }And I know it´s Shan-Yu.'
+- id: 4342
+  en: '{:unk13 78 00 50 00}{:unk06 02}{:unk08 03 01 06}Shan-Yu!?'
+- id: 4343
+  en: '{:unk13 36 01 41 00}{:unk08 01 01 06}That´s the Hun leader!{:clear }We´ve got to tell the Captain!'
+- id: 4344
+  en: '{:unk13 78 00 3C 00}{:unk08 01 01 06}Right!'
+- id: 4345
+  en: '{:unk13 00 01 CA 00}{:unk06 02}{:unk08 03 00 06}Waaait wait-wait-wait WAIT!{:clear }Everybody use their heads a sec.'
+- id: 4346
+  en: >-
+    {:unk13 07 01 B5 00}{:unk08 01 00 06}Now, why are we here?{:clear }To make the Captain
+
+    see Mulan´s--I mean,
+
+    Ping´s talents{:clear }and bring honor to her family.
+- id: 4347
+  en: >-
+    {:unk13 C8 00 D2 00}{:unk08 01 00 05}So, let´s go find out where
+
+    Shan-Yu is, by ourselves.{:clear }Then, if we´re lucky, we can
+
+    fry him up good!{:clear }Though just tracking the guy
+
+    down should earn us our stars...{:clear }Captain Musclehead will
+
+    have to notice my girl!
+- id: 4348
+  en: '{:unk13 0F 01 2F 00}{:unk08 01 00 06}Okay. Let´s go.'
+- id: 4349
+  en: '{:unk13 14 01 31 00}{:unk08 01 01 06}We´ll help out.'
+- id: 4350
+  en: '{:unk13 96 00 D1 00}{:unk06 02}{:unk08 03 00 06}Now we´re cookin´!'
+- id: 4351
+  en: >-
+    {:unk13 AA 00 6E 00}{:unk08 01 01 05}Shan-Yu is in a cave
+
+    outside the village!
+- id: 4352
+  en: '{:unk13 2C 01 78 00}Dead end.'
+- id: 4353
+  en: '{:unk13 22 01 DC 00}{:unk08 01 00 05}There´s nobody here...'
+- id: 4354
+  en: '{:unk13 C8 00 5A 00}{:unk08 01 00 05}You´re crazy. Check again!'
+- id: 4355
+  en: '{:unk13 22 01 DC 00}{:unk08 01 00 05}Oh, well...'
+- id: 4356
+  en: '{:unk13 9A 00 92 00}{:unk08 01 00 05}Wait for me, Donald!'
+- id: 4357
+  en: '{:unk13 4A 01 8C 00}{:unk08 01 00 06}Hey, wait up!'
+- id: 4358
+  en: '{:unk13 19 01 7D 00}{:unk08 01 00 05}Huh?'
+- id: 4359
+  en: '{:unk13 83 00 36 00}{:unk08 01 01 05}What? What is it?'
+- id: 4360
+  en: '{:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Sora!'
+- id: 4361
+  en: '{:unk06 02}{:unk13 5E 01 64 00}{:unk08 03 00 05}Ping!'
+- id: 4362
+  en: '{:unk06 02}{:unk13 18 01 64 00}{:unk08 03 01 05}Just great!'
+- id: 4363
+  en: >-
+    {:unk13 0E 01 5A 00}{:unk08 01 01 06}Nice fighting, Ping!
+
+    You were amazing.
+- id: 4364
+  en: '{:unk13 C8 00 5A 00}{:unk08 01 00 05}You okay?'
+- id: 4365
+  en: '{:unk13 18 01 18 01}{:unk08 01 01 02}Yeah, thanks to Ping.'
+- id: 4366
+  en: >-
+    {:unk13 DB 00 33 00}{:unk08 01 01 06}C´mon! Time to report
+
+    to the Captain!
+- id: 4367
+  en: >-
+    {:unk13 09 01 DC 00}{:unk08 01 01 02}But Shan-Yu
+
+    wasn´t here.
+- id: 4368
+  en: >-
+    {:unk13 D1 00 37 00}{:unk08 01 01 06}Please! That Hun is old news!{:clear }We´re gonna tell the Captain
+
+    how thousands of Heartless{:clear }stormed the cave, and Ping
+
+    took out almost every one of ´em!
+- id: 4369
+  en: Captain!
+- id: 4370
+  en: Don´t overdo it, Captain!
+- id: 4371
+  en: It´s just a scratch.
+- id: 4372
+  en: Captain, the enemy! Where did they go?
+- id: 4373
+  en: They went toward the summit...
+- id: 4374
+  en: We´ll stop them!
+- id: 4375
+  en: It kinda is our fault.
+- id: 4376
+  en: Right.
+- id: 4377
+  en: You mean MY fault.
+- id: 4378
+  en: Uh-uh!
+- id: 4379
+  en: >-
+    Shan-Yu and the Heartless
+
+    did this, not us!
+- id: 4380
+  en: >-
+    Captain, if you track down the
+
+    villagers, we´ll handle this.
+- id: 4381
+  en: Let´s go.
+- id: 4382
+  en: Shan-Yu!?
+- id: 4383
+  en: He´s alive!
+- id: 4384
+  en: He´s heading for the Imperial City!{:delay 6E 00}{:clear }{:delay 0F 00}{:clear }We´ve got to warn Shang!
+- id: 4385
+  en: We´ve got to warn Shang!
+- id: 4386
+  en: --Shang!
+- id: 4387
+  en: >-
+    Shan-Yu is alive!
+
+    He´s headed this way!
+- id: 4388
+  en: And why should I believe you this time?
+- id: 4389
+  en: But...she´s telling you the truth!
+- id: 4390
+  en: ''
+- id: 4391
+  en: >-
+    Guard the palace! Do not let the
+
+    enemy get anywhere near the Emperor!
+- id: 4392
+  en: That´s an order!
+- id: 4393
+  en: >-
+    Captain!{:delay 47 00}{:clear }We´ll secure the courtyard,
+
+    and you can save the Emperor!
+- id: 4395
+  en: That´s an order!
+- id: 4396
+  en: '{:unk13 41 01 53 00}{:unk06 02}{:unk08 03 01 05}The Emperor´s in danger!'
+- id: 4397
+  en: '{:unk13 96 00 4E 00}{:unk06 02}{:unk08 03 01 06}No time to lose!'
+- id: 4398
+  en: Now you´ll bow to me.
+- id: 4399
+  en: It ends now!
+- id: 4400
+  en: Right now!
+- id: 4401
+  en: >-
+    Now that´s what I call burning some hunny-bun!
+
+    Aw, yeah! Mulan´s the best! Mulan´s the best!{:delay 72 01}{:clear }No, wait a minute--I´m the best!
+
+    Mushu´s the best! Mushu´s the best!
+- id: 4402
+  en: I´ve heard a great deal about you, Fa Mulan.
+- id: 4403
+  en: ''
+- id: 4404
+  en: >-
+    You stole your father´s armor, ran away
+
+    from home, impersonated an Imperial soldier.
+- id: 4405
+  en: >-
+    You deceived your commanding officer,
+
+    shamed the entire Chinese army,{:delay 54 01}{:clear }and dishonored your family name.
+- id: 4406
+  en: We get the picture...
+- id: 4407
+  en: You´re a young woman. And in the end...
+- id: 4409
+  en: you have saved us all.
+- id: 4410
+  en: Your Excellency!
+- id: 4411
+  en: Captain Li?
+- id: 4412
+  en: >-
+    Take this, so the world will know
+
+    what it is you have done for China.
+- id: 4413
+  en: Thank you.
+- id: 4414
+  en: Mulan.
+- id: 4415
+  en: Sora. Donald. Goofy.
+- id: 4416
+  en: Thank you.
+- id: 4417
+  en: >-
+    "Thank you"?
+
+    Is that all there is to say, Captain?
+- id: 4418
+  en: >-
+    If you wish to win the heart of
+
+    Fa Mulan, China´s bravest woman,{:delay F5 00} {:delay 37 00}{:clear }you´ll have to be a bit
+
+    more eloquent than that!
+- id: 4419
+  en: ''
+- id: 4420
+  en: Can I get an autograph?
+- id: 4421
+  en: Thanks for everything, Sora.
+- id: 4422
+  en: >-
+    Now they GOTTA let me go back to
+
+    bein´ a guardian! They GOTTA!
+- id: 4423
+  en: >-
+    But Mushu, I thought you already
+
+    WERE a family guardian!
+- id: 4424
+  en: >-
+    What? Oh, no, no--don´t even worry about that,
+
+    that´s just real technical. Just for us guardians.
+- id: 4425
+  en: You tricked us!
+- id: 4426
+  en: ''
+- id: 4427
+  en: Huh?
+- id: 4428
+  en: Okay!
+- id: 4429
+  en: Guess it´s about time to be movin´ on.
+- id: 4430
+  en: You shall be missed.
+- id: 4431
+  en: Is it okay if we come back to visit?
+- id: 4432
+  en: Of course!
+- id: 4433
+  en: We will look forward to your return.
+- id: 4434
+  en: You two play nice.
+- id: 4435
+  en: Whoa... Watch it, soldier!
+- id: 4436
+  en: Good-bye, Sora, Donald, Goofy!
+- id: 4437
+  en: ''
+- id: 4438
+  en: I wonder how everybody's doin'.
+- id: 4439
+  en: Look!
+- id: 4440
+  en: Wait!
+- id: 4441
+  en: Sora!
+- id: 4442
+  en: >-
+    Mulan, hey. No time to talk.
+
+    We gotta catch that guy!
+- id: 4444
+  en: I´m following him, too!
+- id: 4445
+  en: Then let´s go!
+- id: 4446
+  en: Looks like he got away.
+- id: 4447
+  en: >-
+    How come you´re after somebody
+
+    from Organization {XIII}?
+- id: 4448
+  en: What is that?
+- id: 4449
+  en: The guy in black.
+- id: 4450
+  en: One of the bad guys!
+- id: 4451
+  en: I knew it!
+- id: 4452
+  en: >-
+    There´s a rumor in the Imperial City about
+
+    a spy in black, lurking in the mountains.
+- id: 4453
+  en: >-
+    I´d been up here tracking him,
+
+    but when you arrived, I lost him.
+- id: 4455
+  en: ''
+- id: 4456
+  en: Sorry!
+- id: 4457
+  en: >-
+    Don´t apologize. But I
+
+    do wonder where he went.
+- id: 4459
+  en: Again?
+- id: 4461
+  en: Okay, first things first!
+- id: 4462
+  en: >-
+    Hey! You!
+
+    Quit sneaking around!
+- id: 4464
+  en: That guy...
+- id: 4465
+  en: No... Why...would he?
+- id: 4466
+  en: Riku?
+- id: 4467
+  en: Are you okay, Sora?
+- id: 4468
+  en: Did ya get ´im?
+- id: 4469
+  en: Hmm... Oh--he´s gone.
+- id: 4471
+  en: What!? You lost him?
+- id: 4472
+  en: Anyway... What now?
+- id: 4473
+  en: >-
+    I think that we better get rid
+
+    of all the Heartless first.
+- id: 4474
+  en: What was that?{:delay 64 00}{:clear } {:delay 46 00}{:clear }Come on, we better get off the mountain.
+- id: 4476
+  en: Okay.
+- id: 4477
+  en: It´s heading for the city!{:delay 52 00}{:clear }We´ve got to warn Shang!
+- id: 4478
+  en: We´ve got to warn Shang!
+- id: 4479
+  en: '{:unk13 B4 00 6E 00}{:unk08 01 01 05}Huh? Everything´s fine.'
+- id: 4480
+  en: '{:unk13 5A 00 B4 00}{:unk08 01 00 05}Well, now...'
+- id: 4481
+  en: '{:unk13 9E 00 F3 00}{:unk06 01}{:unk08 01 01 05}What? Is that a problem?'
+- id: 4482
+  en: '{:unk13 84 00 74 00}{:unk08 01 00 05}Nah!'
+- id: 4483
+  en: >-
+    {:unk13 40 01 32 00}{:unk08 01 00 05}We´re just glad you´re
+
+    not in black cloaks.
+- id: 4484
+  en: '{:unk13 5E 01 5A 00}{:unk06 02}{:unk08 03 01 06}You saw him?'
+- id: 4485
+  en: '{:unk13 AA 00 BE 00}{:unk08 01 00 06}Yeah--he´s in the palace.'
+- id: 4486
+  en: '{:unk13 F0 00 50 00}{:unk06 02}{:unk08 03 00 05}To the palace! Hurry!'
+- id: 4487
+  en: Open up!
+- id: 4488
+  en: Over here!
+- id: 4490
+  en: Wait!
+- id: 4491
+  en: '...Riku?'
+- id: 4492
+  en: No. Never heard of him.
+- id: 4493
+  en: '{:unk13 82 00 3C 00}{:unk08 01 01 05}Guess it wasn´t Riku.'
+- id: 4494
+  en: '{:unk13 64 00 64 00}{:unk08 01 00 05}Sorry, Sora.'
+- id: 4495
+  en: '{:unk13 4A 01 64 00}{:unk08 01 00 06}Oh! Right!'
+- id: 4496
+  en: >-
+    {:unk13 37 01 7A 00}{:unk06 02}{:unk08 03 01 05}Your Excellency! Shang!
+
+    Something terrible
+
+    has happened!
+- id: 4497
+  en: >-
+    {:unk13 0E 01 50 00}{:unk08 01 00 05}We saw a huge monster fly out of
+
+    the mountains and toward the city!
+- id: 4498
+  en: >-
+    {:unk13 B4 00 5A 00}{:unk06 01}{:unk08 01 01 06}Ahh. So it is as the
+
+    young man said.{:clear }Isn´t that right, Captain?
+- id: 4499
+  en: '{:unk13 A7 00 74 00}{:unk08 01 00 06}Y-yes, Your Excellency.'
+- id: 4500
+  en: >-
+    {:unk13 E6 00 5A 00}{:unk06 01}{:unk08 01 01 06}You see, a young stranger
+
+    visited us not long ago.
+- id: 4501
+  en: >-
+    {:unk13 01 01 55 00}{:unk06 01}{:unk08 01 01 06}The Captain fought the visitor,
+
+    but was quickly defeated.
+- id: 4502
+  en: '{:unk13 C8 00 64 00}{:unk08 01 00 05}To my dishonor.'
+- id: 4503
+  en: >-
+    {:unk13 F0 00 64 00}{:unk06 01}{:unk08 01 01 06}It seems that young man was the one in
+
+    black that I have heard whispers about.
+- id: 4504
+  en: '{:unk13 DC 00 96 00}{:unk08 01 00 05}Did he mention the name Riku?'
+- id: 4505
+  en: >-
+    {:unk13 96 00 64 00}{:unk06 01}{:unk08 01 01 06}He didn´t offer his name.
+
+    He was rather rude.
+- id: 4506
+  en: >-
+    {:unk13 8B 00 45 00}{:unk06 02}{:unk08 03 01 05}Rude?
+
+    Then it WAS Riku!
+- id: 4507
+  en: '{:unk13 01 01 DC 00}{:unk08 01 01 06}Riku´s in the Organization?'
+- id: 4508
+  en: '{:unk13 DC 00 FA 00}{:unk08 01 00 01}Gawrsh...'
+- id: 4509
+  en: '{:unk13 2C 01 50 00}{:unk08 01 00 05}But why would he come here?'
+- id: 4510
+  en: '{:unk13 54 01 50 00}{:unk08 01 00 05}I´ll check outside.'
+- id: 4511
+  en: '{:unk13 C8 00 64 00}{:unk06 02}{:unk08 03 01 06}Mulan!'
+- id: 4512
+  en: '{:unk13 B4 00 82 00}{:unk08 01 00 05}Shang--guard the Emperor!'
+- id: 4513
+  en: >-
+    {:unk13 2C 01 64 00}{:unk08 01 00 05}I´ll be fine--
+
+    with them!
+- id: 4514
+  en: '{:unk13 09 01 64 00}{:unk08 01 01 06}Th-that´s right!'
+- id: 4515
+  en: >-
+    {:unk13 01 01 64 00}{:unk06 01}{:unk08 01 01 05}Indeed.{:clear }That is true:
+
+    We need not worry
+
+    while you protect us.
+- id: 4516
+  en: '{:unk13 64 00 50 00}{:unk06 02}{:unk08 03 00 05}Hurry!'
+- id: 4517
+  en: Once again, you have served China well.{:delay B4 00}{:clear } {:delay 46 00}It would please me to reward you.{:delay AA 00}{:clear }What is it that you wish?
+- id: 4518
+  en: It would please me to reward you.
+- id: 4519
+  en: What is it that you wish?
+- id: 4520
+  en: Well...
+- id: 4521
+  en: >-
+    You say a guy in black came
+
+    to see you. What did he say?
+- id: 4522
+  en: That is all you request?
+- id: 4523
+  en: Yes.
+- id: 4524
+  en: >-
+    Dragons have crossed our land
+
+    and left a great web of paths.
+- id: 4525
+  en: >-
+    These dragons wield much power, and they are
+
+    the source of many gifts to both man and nature.
+- id: 4526
+  en: >-
+    But it would seem someone of evil
+
+    intent disturbed one of our dragons,{:delay 18 01}{:clear }and transformed it into what
+
+    you call a Heartless.
+- id: 4527
+  en: >-
+    and transformed it into what
+
+    you call a Heartless.
+- id: 4528
+  en: >-
+    It is my belief that this young man
+
+    came to warn me of that danger.{:delay 0E 01}{:clear }Then, I could alert and prepare my troops.
+- id: 4529
+  en: Then, I could alert and prepare my troops.
+- id: 4530
+  en: Did you?
+- id: 4531
+  en: >-
+    I was about to, but he told
+
+    me the situation had changed.
+- id: 4532
+  en: >-
+    He said three "wise guys" had arrived,
+
+    and they would take care of things.
+- id: 4533
+  en: and they would take care of things.
+- id: 4534
+  en: That´s gotta be Riku!
+- id: 4535
+  en: >-
+    But what´s he doin´ hangin´
+
+    out with Organization {XIII}?
+- id: 4536
+  en: >-
+    No idea. But at least I
+
+    finally know he´s okay.
+- id: 4537
+  en: That´s good enough.
+- id: 4538
+  en: Yeah, that´s good!
+- id: 4539
+  en: >-
+    Now then, Fa Mulan.
+
+    Do you have a request?
+- id: 4540
+  en: >-
+    I´d like Shang...I-I mean... well...
+
+    The Captain...
+- id: 4541
+  en: Yes, yes, my dear. What is it?
+- id: 4542
+  en: >-
+    Could the Captain have
+
+    a vacation, please?
+- id: 4543
+  en: I hardly expected such humble requests.
+- id: 4544
+  en: >-
+    In this case, I´m afraid I must refuse.{:delay DC 00}{:clear }Captain Li´s responsibility
+
+    is to protect the Emperor.
+- id: 4545
+  en: And yet, Mulan...
+- id: 4546
+  en: ''
+- id: 4547
+  en: >-
+    Would you like to serve
+
+    alongside him and protect me?
+- id: 4548
+  en: ''
+- id: 4549
+  en: Two reeds together are stronger than one.
+- id: 4550
+  en: But the choice is yours alone.
+- id: 4551
+  en: Thank you, your Excellency!
+- id: 4552
+  en: Untranslated
+- id: 4553
+  en: Untranslated
+- id: 4554
+  en: Untranslated
+- id: 4555
+  en: Untranslated
+- id: 4556
+  en: Untranslated
+- id: 4557
+  en: Untranslated
+- id: 4558
+  en: Untranslated
+- id: 4559
+  en: Untranslated
+- id: 4560
+  en: Untranslated
+- id: 4561
+  en: Untranslated
+- id: 4562
+  en: Untranslated
+- id: 4563
+  en: Untranslated
+- id: 4564
+  en: Untranslated
+- id: 4565
+  en: Untranslated
+- id: 4566
+  en: Untranslated
+- id: 4567
+  en: Untranslated
+- id: 4568
+  en: Untranslated
+- id: 4569
+  en: Untranslated
+- id: 4570
+  en: Untranslated
+- id: 4571
+  en: Untranslated
+- id: 4572
+  en: Untranslated
+- id: 4573
+  en: Untranslated
+- id: 4574
+  en: Untranslated
+- id: 4575
+  en: Untranslated
+- id: 4576
+  en: Untranslated
+- id: 4577
+  en: Untranslated
+- id: 4578
+  en: Untranslated
+- id: 4579
+  en: Untranslated
+- id: 4580
+  en: Untranslated
+- id: 4581
+  en: Untranslated
+- id: 4582
+  en: Untranslated
+- id: 4583
+  en: Untranslated
+- id: 4584
+  en: Untranslated
+- id: 4585
+  en: ' '
+- id: 4586
+  en: The First Battle
+- id: 4587
+  en: The Surprise Attack
+- id: 4588
+  en: The Ambush
+- id: 4589
+  en: The Search
+- id: 4590
+  en: The Invasion
+- id: 4591
+  en: 〜 Encampment 〜
+- id: 4592
+  en: >-
+    The upper left gauge determines your survival!
+
+    You´ll fail your mission if it gets full!
+
+    I´m counting on you!
+- id: 4593
+  en: Defeat the Heartless in the Encampment!
+- id: 4594
+  en: 〜 Checkpoint 〜
+- id: 4595
+  en: >-
+    A strange figure was seen at
+
+    the Checkpoint!
+
+    Head there quickly and defeat
+
+    the enemy!
+- id: 4596
+  en: >-
+    Defeat the Heartless at 
+
+    the Checkpoint!
+- id: 4597
+  en: 〜 Checkpoint 〜
+- id: 4598
+  en: >-
+    A mob is heading for the
+
+    Checkpoint.
+
+    Stop them while keeping an eye
+
+    out for strange enemies!
+- id: 4599
+  en: >-
+    Defeat the Heartless at 
+
+    the Checkpoint!
+- id: 4600
+  en: 〜 Encampment 〜
+- id: 4601
+  en: >-
+    It seems the enemy has 
+
+    invaded the camp.
+
+    Defeat every enemy 
+
+    you encounter!
+- id: 4602
+  en: Defeat the hidden Heartless!
+- id: 4603
+  en: 〜 Mountain Trail 〜
+- id: 4604
+  en: >-
+    You and Ping must make your way to the end of the Mountain Trail.
+
+    Defeat any enemies you may encounter and watch each others backs!
+- id: 4605
+  en: Head towards the end of the Mountain Trail!
+- id: 4606
+  en: Yes
+- id: 4607
+  en: No
+- id: 4608
+  en: Select a Mission.
+- id: 4609
+  en: Start this Mission.
+- id: 7657
+  en: >-
+    It´s barred from the inside.
+
+    You can´t pass at this time.
+- id: 7757
+  en: '{:unk13 01 01 64 00}{:unk08 01 00 05}Look who decided to show up.'
+- id: 7944
+  en: Defeat all of the Heartless!
+- id: 7945
+  en: >-
+    Defeat all of the Heartless!
+
+    Fight alongside Ping!
+- id: 7946
+  en: Defeat all of the Heartless! {:theme 07}⭑{:reset}Don´t let the morale gauge run out!{:theme 07}⭑{:reset}
+- id: 7947
+  en: >-
+    Defeat all of the Heartless!
+
+    Don´t let the morale gauge run out!
+
+    The morale gauge will drop each time Ping is hit!
+- id: 7948
+  en: Defeat all of the Heartless! {:theme 07}⭑{:reset}Don´t let the morale gauge run out!{:theme 07}⭑{:reset}
+- id: 7949
+  en: >-
+    Defeat all of the Heartless!
+
+    The morale gauge is linked to the timer.
+
+    As time runs out, so will the morale gauge!
+- id: 7950
+  en: Defeat all of the Heartless! {:theme 07}⭑{:reset}Don´t let the morale gauge run out!{:theme 07}⭑{:reset}
+- id: 7951
+  en: >-
+    Defeat all of the Heartless!
+
+    Don´t let the morale gauge run out!
+
+    The morale gauge will drop
+
+    when attacked by the Giant Heartless!
+- id: 7952
+  en: Defeat all of the hidden enemies! {:theme 07}⭑{:reset}Don´t let the morale gauge run out!{:theme 07}⭑{:reset}
+- id: 7953
+  en: >-
+    Defeat all of the Heartless!
+
+    The morale gauge is linked to the timer.
+
+    As time runs out, so will the morale gauge!
+- id: 7954
+  en: Hurry to the mountain summit! {:theme 07}⭑{:reset}Don´t let the morale gauge run out!{:theme 07}⭑{:reset}
+- id: 7955
+  en: >-
+    Hurry to the mountain summit!
+
+    Don´t let the morale gauge run out!
+
+    What will make the morale gauge drop?
+
+    It´s a surprise!
+- id: 7956
+  en: The path is open! Keep moving!
+- id: 7957
+  en: Defeat all of the Heartless!
+- id: 7958
+  en: >-
+    Defeat all of the Heartless!
+
+    Fight alongside Ping!
+- id: 7959
+  en: Defeat all of the Heartless!
+- id: 7960
+  en: >-
+    Defeat all of the Heartless!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 7961
+  en: Defeat all of the Heartless!
+- id: 7962
+  en: Defeat all of the Heartless!
+- id: 7963
+  en: Defeat Shan-Yu while guarding the gates!
+- id: 7964
+  en: >-
+    Defeat Shan-Yu while guarding the gates!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 7965
+  en: Defeat the mysterious man!
+- id: 7966
+  en: Defeat the mysterious man!
+- id: 7967
+  en: Defeat all of the Heartless!
+- id: 7968
+  en: >-
+    Defeat all of the Heartless!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 7969
+  en: Defeat all of the Nobodies!
+- id: 7970
+  en: >-
+    Defeat all of the Nobodies!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 7971
+  en: '{:theme 07}ₓₓ{:reset}ₓ ₓₓₓₓₓₓₓₓ'
+- id: 7972
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 8042
+  en: '{:theme 07}ₓₓ{:reset}ₓ ₓₓₓₓₓₓₓₓₓₓₓₓ'
+- id: 8043
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 8057
+  en: '{:unk13 0F 01 55 00}{:unk08 01 00 05}I can´t stay. I´m worried about Shang.'
+- id: 10377
+  en: >-
+    Look at how much we´ve
+
+    restored that burnt village.{:clear }Even if there may always be war,
+
+    there will also always be hope.
+- id: 13867
+  en: '{:unk13 B4 00 3C 00}{:unk08 01 01 06}But the Captain...'
+- id: 13964
+  en: >-
+    You may be strong, but don´t
+
+    neglect your daily training.{:clear }Just as we´re growing in strength,
+
+    so, too, is the enemy.
+- id: 14071
+  en: >-
+    I bet all the others are receiving a warm
+
+    welcome at the palace right about now.{:clear }Guard duty is so boring. I think I´ll go
+
+    look at the palace from the checkpoint.
+- id: 15224
+  en: >-
+    There´s talk of suspicious people
+
+    up at the {:theme 0A}summit {:reset}lately.{:clear }I hope the patrols aren´t slacking off,
+
+    but they probably are.
+- id: 16944
+  en: Have you decided you´re up for a mission?
+- id: 16945
+  en: >-
+    Shan-Yu has invaded our country.
+
+    We must stop him at all costs.
+- id: 16946
+  en: >-
+    Our objective is to defeat Shan-Yu.
+
+    Do not fail your mission.
+- id: 16947
+  en: >-
+    This is the first time I ever saw Ping
+
+    as a girl...or rather, Mulan.{:clear }No one saw through her disguise, but
+
+    seeing her now, she doesn´t look boyish at all.
+- id: 16948
+  en: >-
+    I don´t see how any man could
+
+    have survived an avalanche like that.{:clear }We have to find Shan-Yu quickly.
+
+    He´s probably headed for the palace.
+- id: 16949
+  en: >-
+    Shan-Yu is supposed to be a
+
+    master swordsman, but so are you, Sora.{:clear }If you can parry his attack, I´m sure
+
+    you´ll have a chance to strike back.
+- id: 16950
+  en: >-
+    Several companies have already been
+
+    attacked by Shan-Yu. We´re out of time.
+- id: 16995
+  en: You saw Mushu´s shadow on this rock.
+- id: 16996
+  en: An arrow sticks out of the top.
+- id: 17049
+  en: Ping is getting tired!
+- id: 17092
+  en: >-
+    Hmm? Oh, uh, heh heh, you know, {:delay AA 00}{:clear } {:delay 58 00}{:clear }I didn´t want to bog you down with all the guardianese.
+
+    See, there´s a lot to it... {:delay B1 00}{:clear }Did I mention it´s just for us guardians?
+- id: 17096
+  en: The door is locked.
+- id: 17436
+  en: >-
+    The path to the summit is a dangerous
+
+    one. Many boulders block the way.{:clear }You´ll have to figure out a way to
+
+    move those boulders so you can pass.
+- id: 17437
+  en: >-
+    A smart soldier is prepared
+
+    for anything.{:clear }Don´t forget to take enough
+
+    items with you.
+- id: 17438
+  en: >-
+    You´ll have to take the mountain trail
+
+    to the summit.{:clear }Go well armed.
+
+    There are lots of enemies.
+- id: 17629
+  en: >-
+    {:unk0f 03 0F 00 6D 01}{:color #00F0F080}The Party Command has been added.{:reset}
+
+    This Command allows a quick exchange of Party Members.{:clear }{:unk0f 00 00 00 00 00}Use this Command to switch Party Members
+
+    during battles where menus can´t be opened.
+- id: 17630
+  en: >-
+    {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:unk16 02} to show the Limit, then select it.{:clear }{:unk0f 00 00 00 00 00}Limits are Abilities that consume Sora´s MP
+
+    and are executed with Party Members.
+- id: 17699
+  en: >-
+    Mulan joined the army on her
+
+    own free will, in place of her father.{:clear }Even so, I´d hate to think what would
+
+    happen if her secret got out.
+- id: 17700
+  en: >-
+    Just when I was about to destroy those
+
+    creepy things, they got scared and took flight!{:clear }This is a strange company.
+- id: 17701
+  en: >-
+    I'm Chien-Po. That short one there's
+
+    Yao, and the skinny guy's Ling.{:clear }Say, what were those things earlier?
+
+    Is that what we're up against?
+- id: 17702
+  en: >-
+    There´s a path leading to the palace from
+
+    the checkpoint, but it´s closed now.{:clear }Maybe after we finish a few
+
+    missions, though, they´ll let us through.
+- id: 17703
+  en: >-
+    Hey, how´ve you been? Say, when are
+
+    you going to grow as strong as we are?
+- id: 17704
+  en: >-
+    I´d much rather be training for
+
+    an eating contest.
+- id: 17705
+  en: >-
+    Mulan´s been really busy
+
+    of late.{:clear }What can you expect, though?
+
+    She´s the hero of our nation.
+- id: 17706
+  en: >-
+    Sometimes a single soldier can
+
+    change the tide of battle.{:clear }That soldier is Mulan, of course
+
+    with the help of you, as well.
+- id: 17707
+  en: >-
+    You can see a burned-down village
+
+    from this thicket. Shan-Yu did that.{:clear }His army will stop at nothing
+
+    to invade our country.
+- id: 18745
+  en: >-
+    Defeat the Heartless boss!
+
+    Use the whirlwind to your advantage!
+- id: 18934
+  en: >-
+    Ping has gone back to being Mulan.
+
+    Mulan learned a new ability.
+- id: 19085
+  en: >-
+    It looks like this was built
+
+    as a symbol for peace.
+- id: 19155
+  en: >-
+    {:unk13 FF 00 50 00}{:unk0f 05 DD FF 32 00}The upper left gauge represents
+
+    the Party's morale. {:color #00F0F080}It is game over when
+
+    the gauge is empty{:reset}. The gauge can be
+
+    restored by the Orbs dropped by the enemy.{:clear }{:unk0f 00 00 00 00 00}Orbs influence the survival of the Party,
+
+    so make sure to gather as many Orbs
+
+    as possible, especially the rare ones.
+- id: 19338
+  en: >-
+    {:unk13 51 01 39 00}{:unk08 01 00 05}You´ve done a
+
+    passable job.{:clear }But stay alert!{:clear }This is just
+
+    the beginning.
+- id: 19339
+  en: >-
+    {:unk13 76 01 4A 00}{:unk08 01 00 04}Hmm, not bad.{:clear }Now brace yourself
+
+    for the rest of your
+
+    assignments.
+- id: 19340
+  en: >-
+    {:unk13 68 01 32 00}{:unk08 01 00 05}Yes, that´s exactly
+
+    what I need from you.{:clear }Now, you still have some
+
+    tasks to do. Stay sharp.
+- id: 19753
+  en: ''
+- id: 19868
+  en: ''
+- id: 19875
+  en: ''
+- id: 19876
+  en: ''
+- id: 20608
+  en: Press {:icon button-triangle} to begin the duel! Defeat the enemy without getting caught!
+- id: 21515
+  en: "{:delayandfade 07 B4} \nAlthough Ping's enlistment was initially\ndenied, she completes the tasks given to\nher, and quickly grows stronger.\n \nEverything seems to be on track, when\nMushu speaks up. It seems he's spotted\nthe infamous Shan-Yu, leader of the Hun\nArmy.\n \n \n"
+- id: 21516
+  en: "{:delayandfade 07 B4} \nSora and his friends head inside the cave\nto find the notorious warrior. Defeating\nShan-Yu will surely impress the captain!\n \nHowever, Shan-Yu is nowhere to be seen.\nThe whole thing was a trap laid out for\nPing and Sora.\n \n \n \n"
+- id: 21517
+  en: "{:delayandfade 07 B4} \n \n \n \n \n \n \n \n \n \n \n "
+- id: 21518
+  en: "{:delayandfade 07 B4} \nSora and his friends defeat the terror\nunleashed by Xigbar, all the while protecting\nthe Emperor and Captain Shang.\n \nThe two claim they've come across a young\nman in black. Could they be talking about\nRiku?\n \nBefore Sora can ask, the ground starts to\ntremble.\n"
+- id: 21519
+  en: "{:delayandfade 07 B4} \n \n \n \n \n \n \n \n \n \n \n "

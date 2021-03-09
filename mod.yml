@@ -1,0 +1,440 @@
+title: English language pack
+originalAuthor: OpenKH open-source assets
+description: Generate English game files. This mod is mainly useful to translate your PlayStation 2 copy of Kingdom Hearts II from any language to English.
+assets:
+  - name: msg/us/fontimage.bar
+    method: copy
+    source:
+    - name: msg/fontimage.bar
+  - name: msg/us/fontinfo.bar
+    method: copy
+    source:
+    - name: msg/fontinfo.bar
+  - name: msg/us/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/sys.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: copy
+        source:
+          - name: msg/md_m/dummy
+  - name: msg/us/title.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/title.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: copy
+        source:
+          - name: msg/md_m/dummy
+  - name: msg/us/al.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/al.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/al.png
+  - name: msg/us/bb.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/bb.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/bb.png
+  - name: msg/us/ca.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/ca.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/ca.png
+  - name: msg/us/dc.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/dc.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/dc.png
+  - name: msg/us/di.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/di.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/default.png
+  - name: msg/us/eh.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/eh.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/eh.png
+  - name: msg/us/es.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/es.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/default.png
+  - name: msg/us/gumi.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/gumi.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: copy
+        source:
+          - name: msg/md_m/dummy
+  - name: msg/us/hb.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/hb.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/hb.png
+  - name: msg/us/he.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/he.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/he.png
+  - name: msg/us/jm.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/jm.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: copy
+        source:
+          - name: msg/md_m/dummy
+  - name: msg/us/lk.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lk.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/lk.png
+  - name: msg/us/lm.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lm.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/lm.png
+  - name: msg/us/mu.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/mu.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/mu.png
+  - name: msg/us/nm.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/nm.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/nm.png
+  - name: msg/us/po.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/po.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/po.png
+  - name: msg/us/tr.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tr.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/tr.png
+  - name: msg/us/tt.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tt.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/tt.png
+  - name: msg/us/wi.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/wi.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/wi.png
+  - name: msg/us/wm.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/wm.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/wm.png
+  - name: menu/us/ab_010_o.bar
+    method: binarc
+    source:
+      - name: ab_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/ab_010_o.png
+  - name: menu/us/ab_010_r.bar
+    method: binarc
+    source:
+      - name: ab_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/ab_010_r.png
+  - name: menu/us/ab_010_s.bar
+    method: binarc
+    source:
+      - name: ab_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/ab_010_s.png
+  - name: menu/us/ab_020_r.bar
+    method: binarc
+    source:
+      - name: ab_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/ab_020_r.png
+  - name: menu/us/ab_020_s.bar
+    method: binarc
+    source:
+      - name: ab_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/ab_020_s.png
+  - name: menu/us/ab_040_s.bar
+    method: binarc
+    source:
+      - name: ab_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/ab_040_s.png
+  - name: menu/us/at_010_o.bar
+    method: binarc
+    source:
+      - name: at_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/at_010_o.png
+  - name: menu/us/at_010_r.bar
+    method: binarc
+    source:
+      - name: at_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/at_010_r.png
+  - name: menu/us/at_010_s.bar
+    method: binarc
+    source:
+      - name: at_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/at_010_s.png
+  - name: menu/us/at_020_r.bar
+    method: binarc
+    source:
+      - name: at_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/at_020_r.png
+  - name: menu/us/at_020_s.bar
+    method: binarc
+    source:
+      - name: at_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/at_020_s.png
+  - name: menu/us/mp_010_s.bar
+    method: binarc
+    source:
+      - name: mp_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/mp_010_s.png
+  - name: menu/us/mp_020_s.bar
+    method: binarc
+    source:
+      - name: mp_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/mp_020_s.png
+  - name: menu/us/sw_010_s.bar
+    method: binarc
+    source:
+      - name: sw_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/sw_010_s.png
+  - name: menu/us/sw_020_s.bar
+    method: binarc
+    source:
+      - name: sw_0
+        type: imgd
+        method: imgd
+        source:
+          - name: menu/sw_020_s.png

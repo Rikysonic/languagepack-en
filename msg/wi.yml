@@ -1,0 +1,931 @@
+﻿- id: 5517
+  en: >-
+    Huh? I just saw Pete go by, and then he
+
+    went by all over again!{:clear }What´s going on here!?
+- id: 5518
+  en: >-
+    You can often find Pete at the {:theme 0A}pier {:reset}up ahead.{:clear }If he´s not there, he´s probably out on his
+
+    boat. That´s his pride and joy!
+- id: 5519
+  en: >-
+    What´s this? It looks like a window, but it´s
+
+    got a strange mark written on it...{:clear }I´d like to take a peek, but it´s
+
+    kinda creepy.
+- id: 5520
+  en: >-
+    Oh, my achin´ head...
+
+    Why did you gang up on me like that?{:clear }If you feel bad about it, then hurry up and
+
+    catch the guy who stole my boat!
+- id: 5521
+  en: >-
+    There´s a room through that window,
+
+    but that isn´t all.{:clear }The furniture´s being sucked away.
+
+    At this rate, it´ll soon be an empty room.
+- id: 5522
+  en: Hey, look! There´s the Cornerstone of Light!
+- id: 5523
+  en: What´s going on? Everything´s black and white.
+- id: 5524
+  en: Hey, this is kinda like...um...uh...
+- id: 5525
+  en: Déjà vu?
+- id: 5526
+  en: Yeah, that´s it!
+- id: 5527
+  en: Really? Have you been here before?
+- id: 5528
+  en: Hey you! Seen any bad guys around here?
+- id: 5529
+  en: Why I oughta...
+- id: 5530
+  en: >-
+    Bah! I don´t have time to waste
+
+    on punks like you.{:delay B4 00}{:clear }So, I guess I´ll go easy on ya!
+- id: 5531
+  en: Well, there´s our villain.
+- id: 5532
+  en: >-
+    What´s with you squirts?
+
+    You got some kinda bone to pick with me?
+- id: 5533
+  en: More than one!
+- id: 5534
+  en: Them´s fighting words!
+- id: 5535
+  en: Huh?
+- id: 5536
+  en: Not so fast!
+- id: 5537
+  en: Yeah!
+- id: 5538
+  en: What´s you punks´ beef with me anyway?
+- id: 5539
+  en: Who are ya? You new around here?
+- id: 5540
+  en: Cut the act.
+- id: 5541
+  en: Whoa!
+- id: 5542
+  en: Ooh, ow!
+- id: 5543
+  en: You know, {:delay 36 00}{:clear }somethin´ doesn´t seem quite right here.{:delay C6 00}{:clear }Are you sure you´re Pete?
+- id: 5544
+  en: >-
+    Well, of COURSE I´m Pete. I´m the
+
+    captain of the steamboat. {:delay DC 00}{:clear }So stop botherin´ me, see?
+- id: 5545
+  en: So hit the road!
+- id: 5546
+  en: Gawrsh, maybe we made a mistake.
+- id: 5547
+  en: >-
+    I´m starting to think the same thing.
+
+    He hasn´t even called any Heartless.
+- id: 5548
+  en: Sorry we attacked ya like that, Capt´n Pete.
+- id: 5549
+  en: >-
+    Oh yeah? Well, if you´re really sorry,
+
+    then go find my steamboat.
+- id: 5550
+  en: Y-yes sir!
+- id: 5551
+  en: Ooh, my achin´ back.
+- id: 5552
+  en: >-
+    {:unk13 6F 01 72 00}{:unk06 00}{:unk08 01 00 06}I thought for sure
+
+    Pete was the bad guy.
+- id: 5553
+  en: >-
+    {:unk13 76 00 14 01}{:unk06 00}{:unk08 01 01 05}Aw, that would
+
+    be too easy.
+- id: 5554
+  en: >-
+    {:unk13 D8 00 69 00}{:unk06 00}{:unk08 01 00 05}C´mon, fellas. Let´s try
+
+    to find that steamboat.
+- id: 5555
+  en: >-
+    {:unk13 8F 01 6E 00}{:unk06 00}{:unk08 01 00 05}I guess we DID
+
+    say we would...
+- id: 5556
+  en: >-
+    {:unk13 7A 00 F6 00}{:unk06 00}{:unk08 01 01 05}Hey! We´ve got a
+
+    door to find!
+- id: 5557
+  en: '{:unk13 8F 01 90 00}{:unk06 00}{:unk08 01 00 05}Oh, yeah!'
+- id: 5558
+  en: '{:unk13 AF 00 C8 00}{:unk06 00}{:unk08 01 01 06}I don´t see any doors.'
+- id: 5559
+  en: '{:unk13 51 01 7D 00}{:unk06 00}{:unk08 01 01 05}Huh? What´s this?'
+- id: 5560
+  en: '{:unk13 75 01 9E 00}{:unk06 00}{:unk08 01 00 05}I can´t see a thing...'
+- id: 5561
+  en: Hey, look! There´s the Cornerstone of Light!
+- id: 5562
+  en: What´s going on? Everything´s black and white.
+- id: 5563
+  en: Hey, this is kinda like...um...uh...
+- id: 5564
+  en: Déjà vu?
+- id: 5565
+  en: Yeah, that´s it!
+- id: 5566
+  en: Really? Have you been here before?
+- id: 5567
+  en: '{:unk13 E1 00 C2 00}{:unk06 00}{:unk08 01 01 05}What was that?'
+- id: 5568
+  en: >-
+    {:unk13 8E 01 82 00}{:unk06 00}{:unk08 01 01 05}Heartless,
+
+    goin´ out...
+- id: 5569
+  en: '{:unk13 18 01 F5 00}{:unk06 00}{:unk08 01 01 07}...and us, coming in.'
+- id: 5570
+  en: '{:unk13 31 01 A5 00}{:unk06 00}{:unk08 01 01 05}What does it mean?'
+- id: 5571
+  en: '{:unk13 B3 01 85 00}{:unk06 00}{:unk08 01 00 05}Huh?'
+- id: 5572
+  en: '{:unk13 3B 01 40 00}{:unk06 00}{:unk08 01 01 06}Let´s get rid of those Heartless!'
+- id: 5573
+  en: '{:unk13 9D 00 6D 00}{:unk06 00}{:unk08 01 01 06}Then what´ll we do?'
+- id: 5574
+  en: '{:unk13 4A 01 43 00}{:unk06 00}{:unk08 01 01 06}We´ll worry about that later!'
+- id: 5575
+  en: The King!
+- id: 5576
+  en: Gee, he seems kinda different somehow...
+- id: 5577
+  en: Cmon! We´ve gotta help him!
+- id: 5578
+  en: C´mon, he needs our help!
+- id: 5579
+  en: Whew!
+- id: 5580
+  en: Huh?
+- id: 5581
+  en: Fire!
+- id: 5582
+  en: The King!
+- id: 5583
+  en: Gee, he seems kinda different somehow...
+- id: 5584
+  en: Cmon! We´ve gotta help him!
+- id: 5585
+  en: Fire!
+- id: 5586
+  en: C´mon, he needs our help!
+- id: 5587
+  en: Majesty!
+- id: 5588
+  en: Well, that takes care of that!
+- id: 5589
+  en: Hey!
+- id: 5590
+  en: ''
+- id: 5591
+  en: The town´s shrunk!
+- id: 5592
+  en: Or do ya think maybe we got bigger?
+- id: 5593
+  en: Hey! Look at the toy cannons!
+- id: 5594
+  en: Ouch!
+- id: 5595
+  en: The King!
+- id: 5596
+  en: Gee, he seems kinda different somehow...
+- id: 5597
+  en: What do you think he´s trying to tell us?
+- id: 5598
+  en: Hey! There´re Heartless!
+- id: 5599
+  en: ''
+- id: 5600
+  en: The town´s shrunk!
+- id: 5601
+  en: Or do ya think maybe we got bigger?
+- id: 5602
+  en: Hey! Look at the toy cannons!
+- id: 5603
+  en: Ouch!
+- id: 5604
+  en: What´s he saying?
+- id: 5605
+  en: Hey! There´re Heartless!
+- id: 5606
+  en: Man, that was weird!
+- id: 5607
+  en: Look, Sora! Over there!
+- id: 5608
+  en: What´re they building?
+- id: 5609
+  en: ''
+- id: 5610
+  en: Look out!
+- id: 5611
+  en: Heartless! I knew it!
+- id: 5612
+  en: The King!
+- id: 5613
+  en: Gee, he seems kinda different somehow...
+- id: 5614
+  en: You really saved the day!
+- id: 5615
+  en: Now, let´s get those Heartless!
+- id: 5616
+  en: What´re they building?
+- id: 5617
+  en: ''
+- id: 5618
+  en: Look out!
+- id: 5619
+  en: Heartless! I knew it!
+- id: 5620
+  en: Thanks, Your Majesty!
+- id: 5621
+  en: Now, let´s get those Heartless!
+- id: 5622
+  en: How do you like that!
+- id: 5623
+  en: Hey, look!
+- id: 5624
+  en: You absolute idiot!{:delay 8C 00}{:clear }You´ve managed to fail at everything!
+- id: 5625
+  en: >-
+    And what´s more...you foolishly thought
+
+    you could take my place while I was away.
+- id: 5626
+  en: >-
+    Well, as of now, you´re finished.{:delay 84 00}{:clear }{:delay 24 00}{:clear }Mark my words, there´ll be no place
+
+    for you when our time comes!
+- id: 5627
+  en: Useless imbecile...
+- id: 5628
+  en: But-but...but I...
+- id: 5629
+  en: >-
+    Aw, for cryin´ out loud...
+
+    she didn´t have to go and say that.
+- id: 5630
+  en: >-
+    Okay, I mighta messed up
+
+    every now and then.{:delay B4 00}{:clear }But I´m a lot more things than useless...
+- id: 5631
+  en: Why, when I was startin´ out...
+- id: 5632
+  en: Oh...I miss those good ol´ days...{:delay B4 00}{:clear }What I wouldn´t give to go back in time...
+- id: 5633
+  en: What I wouldn´t give...
+- id: 5634
+  en: '{:delay 78 00}{:clear }Huh?'
+- id: 5635
+  en: ''
+- id: 5636
+  en: Fascinating...{:delay 78 00}{:clear }This appears to be a portal to the past!
+- id: 5637
+  en: Yeah, it was the strangest thing!
+- id: 5638
+  en: >-
+    Stop gawking!{:delay 54 00}{:clear }{:delay 36 00}{:clear }And start thinking of a way we
+
+    can use it to our advantage!
+- id: 5639
+  en: Okay.
+- id: 5640
+  en: >-
+    Now, perhaps I could give you one
+
+    more chance to redeem yourself.
+- id: 5641
+  en: >-
+    Oh, thank you, thank you!
+
+    You can count on me...!{:delay C6 00}{:clear }So, what do I do?
+- id: 5642
+  en: Patience, my dear...
+- id: 5643
+  en: >-
+    What have we here?
+
+    Well, if it isn´t the Cornerstone of Light...
+- id: 5644
+  en: >-
+    Mmm... Now we can take the
+
+    castle from those fools--{:delay FC 00}{:clear }but we´ll have to proceed with
+
+    the utmost of care...
+- id: 5645
+  en: Listen well.
+- id: 5646
+  en: >-
+    On the other side of this portal, they´re about to
+
+    begin construction on that wretched castle.
+- id: 5647
+  en: >-
+    But until then, their treasured
+
+    Cornerstone of Light{:delay F0 00}{:clear }lies unguarded, with all of
+
+    its power still contained!
+- id: 5648
+  en: The Cornerstone...of Light?
+- id: 5649
+  en: >-
+    Yes! That cursed sphere is the very thing
+
+    that prevents us from entering the castle.
+- id: 5650
+  en: Oh.
+- id: 5651
+  en: You know what must be done?
+- id: 5652
+  en: Uh...
+- id: 5653
+  en: >-
+    Go then. Time to prove your worth!
+
+    And don´t dare to fail me again!
+- id: 5654
+  en: Don´t fail her again...let´s see...
+- id: 5655
+  en: >-
+    That´s it!{:delay 3C 00}{:clear }I just gotta smash that
+
+    Cornerstone to smithereens!
+- id: 5656
+  en: >-
+    But first...
+
+    I gotta go get my old boat back.
+- id: 5657
+  en: '{:unk13 B3 01 85 00}{:unk06 00}{:unk08 01 00 05}What--?'
+- id: 5658
+  en: >-
+    {:unk13 D4 00 5B 00}{:unk06 00}{:unk08 01 01 05}Somebody sure
+
+    was angry.
+- id: 5659
+  en: '{:unk13 7B 00 C1 00}{:unk06 00}{:unk08 01 01 05}I don´t understand.'
+- id: 5660
+  en: >-
+    {:unk13 49 01 63 00}{:unk06 00}{:unk08 01 00 07}Let´s just try to clear
+
+    out the Heartless first.{:clear }This place is okay, but we´ve
+
+    got three more spots to check.
+- id: 5661
+  en: '{:unk13 67 00 6D 00}{:unk06 00}{:unk08 01 01 05}A door?'
+- id: 5662
+  en: '{:unk13 02 01 26 01}{:unk06 00}{:unk08 01 00 05}It looks familiar...'
+- id: 5663
+  en: >-
+    {:unk13 63 01 59 00}{:unk06 00}{:unk08 01 01 05}Yup--it´s the door
+
+    Merlin magic´d up!
+- id: 5664
+  en: >-
+    {:unk13 97 00 52 00}{:unk06 00}{:unk08 01 01 05}So it should come
+
+    straight here, right?
+- id: 5665
+  en: '{:unk13 6A 01 67 00}{:unk06 00}{:unk08 01 01 05}Sure! I think...'
+- id: 5666
+  en: '{:unk13 99 00 54 00}{:unk06 00}{:unk08 01 01 05}Let´s check it out!'
+- id: 5667
+  en: '{:unk13 E5 00 E5 00}{:unk06 02}{:unk08 03 01 06}Maleficent!'
+- id: 5668
+  en: '{:unk13 42 01 45 00}{:unk06 00}{:unk08 01 01 05}She must have known all along!'
+- id: 5669
+  en: >-
+    {:unk13 D0 00 60 00}{:unk06 00}{:unk08 01 00 05}Let´s see...if that door´s
+
+    connected to the past...
+- id: 5670
+  en: >-
+    {:unk13 24 01 DC 00}{:unk06 01}{:unk08 01 01 05}No, no, no! It
+
+    comes here.
+- id: 5671
+  en: '{:unk13 4B 01 3F 00}{:unk06 00}{:unk08 01 01 06}Huh?'
+- id: 5672
+  en: >-
+    {:unk13 FA 00 5D 00}{:unk06 00}{:unk08 01 00 05}Then that means
+
+    we´re in the past!
+- id: 5673
+  en: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}Wha-at?!'
+- id: 5674
+  en: '{:unk13 1A 01 45 00}{:unk06 00}{:unk08 01 01 06}Wow.'
+- id: 5675
+  en: >-
+    {:unk13 F9 00 41 00}{:unk06 00}{:unk08 01 01 06}If we´re in
+
+    the past...
+- id: 5676
+  en: >-
+    {:unk13 6E 01 D9 00}{:unk06 00}{:unk08 01 00 05}...we can change
+
+    the future!
+- id: 5677
+  en: >-
+    {:unk13 CD 00 42 00}{:unk06 00}{:unk08 01 00 06}Hold on, fellas!
+
+    Remember what Merlin said?{:clear }He´s got faith in us.{:clear }And we have to resist
+
+    temptation no matter what!
+- id: 5678
+  en: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}'
+- id: 5679
+  en: '{:unk13 5E 01 64 00}{:unk06 00}{:unk08 01 00 05}'
+- id: 5680
+  en: '{:unk13 DE 00 5D 01}{:unk06 00}{:unk08 01 01 03}Aw, I was only joking.'
+- id: 5681
+  en: >-
+    {:unk13 FF 00 69 00}{:unk06 00}{:unk08 01 01 05}Who´d want to change
+
+    the future, anyway?
+- id: 5682
+  en: '{:unk13 39 01 71 00}{:unk06 00}{:unk08 01 01 05}So...what are we gonna do?'
+- id: 5683
+  en: >-
+    {:unk13 E8 00 48 00}{:unk06 00}{:unk08 01 00 05}Doors, bad guys...
+
+    Gawrsh, my brain hurts!
+- id: 5684
+  en: >-
+    {:unk13 DC 00 1B 01}{:unk06 00}{:unk08 01 01 07}Well, we know we´re
+
+    on the right track!
+- id: 5685
+  en: It was Pete after all!
+- id: 5686
+  en: Why, he tricked us!
+- id: 5687
+  en: Still, something doesn´t seem right.
+- id: 5688
+  en: ''
+- id: 5689
+  en: >-
+    The Pete we met here had kind of an attitude,
+
+    but he didn´t seem like a bad guy...
+- id: 5690
+  en: Look!
+- id: 5691
+  en: '{:delay D2 00}{:clear }Now that castle´s as good as ours!'
+- id: 5692
+  en: That´s the Pete we know!
+- id: 5693
+  en: Bad, bad, bad!
+- id: 5694
+  en: Oh, no!
+- id: 5695
+  en: The Cornerstone´s gone!
+- id: 5696
+  en: But that means...
+- id: 5697
+  en: >-
+    They´re gonna fill the castle with darkness!
+
+    We gotta hurry!
+- id: 5698
+  en: Hey, hold it right there!
+- id: 5699
+  en: >-
+    No way, small fry!{:delay 78 00}{:clear }I finally found the pip-squeak
+
+    what stole my steamboat!
+- id: 5700
+  en: Yeah! It was you!
+- id: 5701
+  en: >-
+    Right, me!{:delay 64 00}{:clear }No! No! It wasn´t me!
+
+    It´s just somebody who looks like me!
+- id: 5702
+  en: Aw, which is it!?
+- id: 5703
+  en: Waaaait!
+- id: 5704
+  en: Shuddup!
+- id: 5705
+  en: >-
+    Your future´s on the line, pallie,
+
+    so back off and give me the boat!
+- id: 5706
+  en: The Cornerstone!
+- id: 5707
+  en: After him!
+- id: 5708
+  en: Yes!
+- id: 5709
+  en: You´ll pay for this!
+- id: 5710
+  en: It´s the Cornerstone!
+- id: 5711
+  en: Donald, we´ll come back for it later!
+- id: 5712
+  en: Pete´s headin´ for the doorway!
+- id: 5713
+  en: Ow, ow, ow, ow, ow!
+- id: 5714
+  en: Ha! You´re still wet behind the ears!
+- id: 5715
+  en: Then try us!
+- id: 5716
+  en: ''
+- id: 5717
+  en: It serves ya right!
+- id: 5718
+  en: Hmph!
+- id: 5719
+  en: The door!
+- id: 5720
+  en: Yeah...Annnd stay out!
+- id: 5721
+  en: Sora!
+- id: 5722
+  en: Yeah, I know!
+- id: 5723
+  en: >-
+    Would somebody tell me what´s been goin´ on
+
+    here? Who was that creep, anyways?
+- id: 5724
+  en: >-
+    Hello?
+
+    That creep was you from the future!
+- id: 5725
+  en: Sora, that´s a secret!
+- id: 5726
+  en: Secret? What kinda secret? Oh, never mind.{:delay F0 00}{:clear }Sorry I put you guys through all that trouble.
+- id: 5727
+  en: Yeah, well, just don´t make a habit out of it!
+- id: 5728
+  en: >-
+    And to show ya my appreciation,{:delay 8A 00}{:clear }I´ll let you pilot my steamboat.
+
+    Best little craft on the river!
+- id: 5729
+  en: My deck hand Mickey´s late anyways.
+- id: 5730
+  en: ''
+- id: 5731
+  en: I betcha the castle´s safe now.
+- id: 5732
+  en: Guess we should head back.
+- id: 5733
+  en: Wait! As long as we´re here...
+- id: 5734
+  en: Donald!
+- id: 5735
+  en: ''
+- id: 5736
+  en: ₓₓₓₓₓ
+- id: 5737
+  en: ₓₓₓₓₓₓ
+- id: 5738
+  en: ₓₓₓₓₓₓ
+- id: 5739
+  en: ₓₓₓ
+- id: 5740
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5741
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ２
+- id: 5742
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5743
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5744
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ２
+- id: 5745
+  en: ₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5746
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5747
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓₓ２
+- id: 5748
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5749
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5750
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓₓ２
+- id: 5751
+  en: ₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5752
+  en: ₓₓₓₓₓₓ１
+- id: 5753
+  en: ₓₓₓₓₓₓ２
+- id: 5754
+  en: ₓₓₓₓₓₓ３
+- id: 5755
+  en: ₓₓₓₓₓₓₓₓ
+- id: 5756
+  en: ₓₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5757
+  en: ₓₓₓₓₓₓₓₓₓ
+- id: 5758
+  en: ₓₓₓₓₓₓₓ
+- id: 5759
+  en: ₓₓₓₓₓ
+- id: 5760
+  en: ₓₓₓₓₓₓₓₓₓₓₓ
+- id: 5761
+  en: ₓₓₓₓₓ
+- id: 5762
+  en: ₓₓₓₓ１
+- id: 5763
+  en: ₓₓₓₓ２
+- id: 5764
+  en: ₓₓₓₓ３
+- id: 5765
+  en: ₓₓₓₓ４
+- id: 8097
+  en: Defeat all of the Heartless while defending the furniture!
+- id: 8098
+  en: >-
+    Defeat all of the Heartless
+
+    while defending the furniture!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 8099
+  en: Defeat all of the Heartless while protecting the building from catching on fire!
+- id: 8100
+  en: >-
+    Defeat all of the Heartless while protecting
+
+    the building from catching on fire!
+- id: 8101
+  en: Defeat all of the Heartless while protecting the town!
+- id: 8102
+  en: >-
+    Defeat all of the Heartless
+
+    while protecting the town!
+
+    Use the cannon for added firepower!
+- id: 8103
+  en: Defeat all of the Heartless before the scaffolding falls!
+- id: 8104
+  en: >-
+    Defeat all of the Heartless
+
+    before the scaffolding falls!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 10376
+  en: >-
+    I gotta go find the little runt
+
+    what stole my boat!
+- id: 13138
+  en: A wire has snapped!
+- id: 15223
+  en: >-
+    That guy had some nerve to steal my
+
+    boat. It´s strange, though...{:clear }He somehow seemed
+
+    familiar...
+- id: 16032
+  en: Break the cage before Pete escapes!
+- id: 16033
+  en: >-
+    Break the cage before Pete escapes
+
+    and retrieve the Cornerstone of Light!
+
+    Using reaction commands with {:icon button-triangle}
+
+    will make the battle easier!
+- id: 16839
+  en: >-
+    Word is, Pete´s boat
+
+    has been stolen.{:clear }What I wanna know is, what´s someone
+
+    gonna do with a stolen boat?
+- id: 16840
+  en: >-
+    I´m glad Pete´s got his boat back. It´s good
+
+    to see him back to his old self.{:clear }Things just aren´t the same without
+
+    hearing that steam whistle.
+- id: 16841
+  en: >-
+    Oh no! There´s a fire through the window!
+
+    We have to put it out!{:clear }How do we do that, though? Should we
+
+    just throw water at the window?
+- id: 16842
+  en: >-
+    You can get to the pier, the wharf, or the
+
+    waterway from this hill.{:clear }This place is great for walks. No matter
+
+    where you are, you´ll eventually wind up here.
+- id: 16843
+  en: >-
+    I´m excited a castle´s being built, but I´m
+
+    going to miss this walking course.{:clear }Maybe I should ask them to build a garden
+
+    to take walks in at the castle.
+- id: 16844
+  en: >-
+    This is where "Disney Castle" is gonna
+
+    be built.{:clear }It´s nothing but an empty field now, but I
+
+    bet it´s gonna be a huge castle!
+- id: 16845
+  en: >-
+    You sure come here a lot. Well, if you´re
+
+    looking to buy property, now´s the time.{:clear }Once the castle´s built, land prices
+
+    are gonna skyrocket!
+- id: 16846
+  en: >-
+    I don´t know what world this is,
+
+    but we can´t let Pete get away!{:clear }Still, it´s kind of strange with the
+
+    Cornerstone of Light and all...
+- id: 16847
+  en: >-
+    There´s a town through that window.
+
+    What kind of gimmick is this?{:clear }There´s a cannon in the middle of town. If the
+
+    enemy comes, we could blast them with that!
+- id: 16848
+  en: >-
+    I want to catch up with Captain Pete´s
+
+    boat, too, but the Heartless come first.
+- id: 16852
+  en: >-
+    I just saw Pete chasing
+
+    himself again!{:clear }Mysterious windows, multiple Petes...
+
+    What´s the world coming to!?
+- id: 16853
+  en: >-
+    I´m tired of looking at this strange window.
+
+    Maybe I should find something else to do.{:clear }Say, I saw Pete running toward the waterway.
+
+    Is something happening down there?
+- id: 16854
+  en: >-
+    Now Pete went running toward
+
+    the {:theme 0A}wharf{:reset}.{:clear }I´ve never seen anyone run so fast.
+
+    Is he training for a race?
+- id: 16855
+  en: >-
+    Whoa, what´s the hurry?
+
+    You´re looking a little worn out.{:clear }If you don´t take time to rest now and
+
+    then, you may wind up in trouble.
+- id: 16992
+  en: A radiant light shines forth.
+- id: 16993
+  en: Construction site for Disney Castle.
+- id: 16994
+  en: Pete´s boat, Willy.
+- id: 18487
+  en: >-
+    That was Pete, wasn´t it?{:clear }Is it just me, or did he somehow
+
+    seem different?
+- id: 18488
+  en: >-
+    You can see a construction site through
+
+    that window. It sure is strange.{:clear }It looks pretty unstable, too. If that
+
+    rope breaks, it´s gonna fall!
+- id: 18489
+  en: >-
+    It seems like we can see events
+
+    in the near past after we solve{:clear }the problems in the windows.{:clear }Let´s go fix all the problems in the
+
+    windows, and see what else we can learn.
+- id: 18748
+  en: Eliminate Pete!
+- id: 18749
+  en: >-
+    Eliminate Pete!
+
+    The other Pete will help you in battle!
+- id: 19086
+  en: The cornerstone is gone.
+- id: 19087
+  en: The ticket counter for boats.
+- id: 19088
+  en: A small port.
+- id: 19089
+  en: It´s securely fastened with metal fixtures.
+- id: 19090
+  en: >-
+    No entry allowed due to
+
+    the fire.
+- id: 19091
+  en: >-
+    It looks like these were thrown out
+
+    in a hurry.
+- id: 19092
+  en: >-
+    This is the fire truck that rushed
+
+    to the scene.
+- id: 19093
+  en: >-
+    It must keep the master warm
+
+    when he´s home.
+- id: 19094
+  en: >-
+    It´s fixed securely so it
+
+    won´t move.
+- id: 19095
+  en: >-
+    A beautifully adorned Christmas tree.
+
+    Who decorated it?
+- id: 19758
+  en: ''
+- id: 19861
+  en: ''
+- id: 20610
+  en: Press {:icon button-triangle} to begin the duel! Keep attacking until the number counts down to 0!
+- id: 21365
+  en: Don't let the furniture get sucked away!
+- id: 21366
+  en: There's not much furniture left!
+- id: 21367
+  en: Don't let the fire reach the building!
+- id: 21368
+  en: The building won't last much longer!
+- id: 21369
+  en: They're destroying the town! Use Stomp Bomb to stop them!
+- id: 21370
+  en: There will be nothing left of the town soon!
+- id: 21371
+  en: A wire has snapped! The scaffolding won't hold much longer!
+- id: 21372
+  en: The scaffolding will fall if one more wire snaps!
+- id: 21373
+  en: All of the wires have snapped...
+- id: 21536
+  en: "{:delayandfade 07 B4} \nMerlin spoke of the enchanted doors they\nwould encounter in this world.\n \nHowever, instead of a door, Sora and his\nfriends find a strange window. As they\npeer through it, they see themselves from\nthe past.\n \n \n \n"
+- id: 21537
+  en: "{:delayandfade 07 B4} \nSuddenly, out of nowhere, four more\nwindows appear. The gang doesn't quite\nknow what's going on, but they decide to\njump through one of them, hoping for\nsome sort of clue.\n \n \n \n \n \n"
+- id: 21538
+  en: "{:delayandfade 07 B4} \nSora and his friends hear someone getting\nscolded. What's going on on the other side?\n \nThey continue on through the next window\nin hopes of uncovering some useful\ninformation.\n \n \n \n \n"
+- id: 21539
+  en: "{:delayandfade 07 B4} \nThey see a door before them. It looks\nexactly like the one conjured by Merlin\nin Disney Castle.\n \nStill hoping to get their hands on some\nmore clues, they make their way through\nthe third window.\n \n \n \n"
+- id: 21540
+  en: "{:delayandfade 07 B4} \nHow is this possible?\n \nThe gang finds themselves in the past,\nduring a time when Maleficent was trying\nto take over Disney Castle.\n \nIn an attempt to find some clues, they\nstep through the last window.\n \n \n"

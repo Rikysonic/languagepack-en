@@ -1,0 +1,646 @@
+﻿- id: 6179
+  en: >-
+    Use the left stick to fly the Gummi Ship. Try approaching
+
+    Hollow Bastion in the direction the arrow is pointing.
+
+    When you arrive at your destination, press {:unk16 08} to land.
+- id: 7682
+  en: The beginning of an adventure!
+- id: 7683
+  en: >-
+    {:width 95}I wonder if Hollow Bastion is peaceful
+
+    now without the Heartless...
+- id: 7684
+  en: Old Friends
+- id: 7685
+  en: >-
+    Let´s go to Merlin´s house
+
+    and look for Pooh´s lost pages!
+- id: 7686
+  en: The World of Programs
+- id: 7687
+  en: Let´s get access from Ansem´s Lab!
+- id: 7688
+  en: Return to the World of Programs!
+- id: 7689
+  en: >-
+    Let´s go to the World of Programs
+
+    from Ansem´s Lab!
+- id: 7690
+  en: Returning the page! 1
+- id: 7691
+  en: >-
+    Let´s return the page to the book
+
+    in Merlin´s house!
+- id: 7692
+  en: Returning the page! 2
+- id: 7693
+  en: >-
+    Let´s return the page to the book
+
+    in Merlin´s house!
+- id: 7694
+  en: Returning the page! 3
+- id: 7695
+  en: >-
+    Let´s return the page to the book
+
+    in Merlin´s house!
+- id: 7696
+  en: Returning the page! 4
+- id: 7697
+  en: >-
+    Let´s return the page to the book
+
+    in Merlin´s house!
+- id: 7698
+  en: Returning the page! 5
+- id: 7699
+  en: >-
+    Let´s return the page to the book
+
+    in Merlin´s house!
+- id: 7700
+  en: Let´s begin a new adventure!
+- id: 7701
+  en: >-
+    Let´s go check out
+
+    the Land of Dragons!
+- id: 7702
+  en: Let´s go see Mulan!
+- id: 7703
+  en: >-
+    We should see how the town in
+
+    the Land of Dragons is doing!
+- id: 7704
+  en: To the old castle in the forest!
+- id: 7705
+  en: >-
+    Let´s check out the old castle in
+
+    the forest.
+- id: 7706
+  en: Why don´t we go see everyone?
+- id: 7707
+  en: >-
+    I wonder if Belle and the Beast have
+
+    made up...
+- id: 7708
+  en: Olympus Coliseum
+- id: 7709
+  en: >-
+    Let´s test our skills at
+
+    the Olympus Coliseum!
+- id: 7710
+  en: I wonder how the hero's doing.
+- id: 7711
+  en: >-
+    We should say hi to Hercules and
+
+    Auron!
+- id: 7712
+  en: Save the kingdom!
+- id: 7713
+  en: Disney Castle´s in danger!?
+- id: 7714
+  en: To the kingdom under the sea!
+- id: 7715
+  en: Let´s swim in the Atlantica ocean!
+- id: 7716
+  en: We should try to move the statue!
+- id: 7717
+  en: Maybe we should talk to Flounder?
+- id: 7718
+  en: Let´s participate in the musical!
+- id: 7719
+  en: We need to talk with Sebastian!
+- id: 7720
+  en: Let´s go find the lost object!
+- id: 7721
+  en: Let´s talk to Ariel!
+- id: 7722
+  en: The greatest musical ever!
+- id: 7723
+  en: Let´s talk to Sebastian!
+- id: 7724
+  en: A swashbuckling adventure!
+- id: 7725
+  en: >-
+    Let´s go to Port Royal where there
+
+    are tons of ships!
+- id: 7726
+  en: Let´s go see Will!
+- id: 7727
+  en: >-
+    Is it peaceful there now that
+
+    Barbossa has been defeated?
+- id: 7728
+  en: Let´s go to Halloween Town!
+- id: 7729
+  en: >-
+    Let´s celebrate with all of the
+
+    townspeople!
+- id: 7730
+  en: Isn´t it almost Christmas?
+- id: 7731
+  en: >-
+    It looks like Jack gave up
+
+    on Christmas, but...
+- id: 7732
+  en: To the desert palace!
+- id: 7733
+  en: Let´s see what´s going on in Agrabah!
+- id: 7734
+  en: Let´s check out Agrabah!
+- id: 7735
+  en: >-
+    I wonder how Aladdin and Genie
+
+    are doing...
+- id: 7736
+  en: To the wild kingdom!
+- id: 7737
+  en: >-
+    Let´s visit the wilderness
+
+    of the Pride Lands!
+- id: 7738
+  en: Why don´t we go see Simba, the king?
+- id: 7739
+  en: >-
+    I wonder how Simba´s doing
+
+    as king of the Pride Lands...
+- id: 7740
+  en: To the final battle!
+- id: 7741
+  en: >-
+    End it once and for all with
+
+    Organization {XIII}!
+- id: 7840
+  en: '{:unk08 01 01 06}Howdy, Sora! How ya doin´?'
+- id: 7841
+  en: '{:unk08 01 00 05}Hey! What happened to Twilight Town?'
+- id: 7850
+  en: '{:unk08 01 00 05}Huh?'
+- id: 7859
+  en: '{:unk08 01 00 05}Looky there! Twilight Town!'
+- id: 7862
+  en: >-
+    {:unk08 01 01 06}The King, Riku--and now
+
+    I´ve lost Kairi again, too.
+- id: 13852
+  en: Level up!
+- id: 13854
+  en: ₓₓ {:unk0d }
+- id: 18082
+  en: Lock on
+- id: 18083
+  en: Dash
+- id: 18084
+  en: Warp
+- id: 18085
+  en: Land
+- id: 18086
+  en: Proceed
+- id: 18107
+  en: Release
+- id: 18410
+  en: >-
+    {:unk08 01 00 05}It´s your favorite Gummi engineers
+
+    here, ready for duty: Chip...
+- id: 18411
+  en: '{:unk08 01 01 06}...and Dale!'
+- id: 18412
+  en: Happy flying!
+- id: 18413
+  en: '{:unk08 01 01 06}It´s gone!'
+- id: 18414
+  en: '{:unk08 01 01 06}Don´t be sad!'
+- id: 18415
+  en: >-
+    {:unk08 01 00 05}Donald´s right, you know! Why, you´re
+
+    the key that connects everything!
+- id: 18416
+  en: '{:unk08 01 01 06}So it´s all MY fault.'
+- id: 18417
+  en: >-
+    {:unk08 01 00 05}Gawrsh, I didn´t mean that. Just do
+
+    what comes natural to ya and we´re
+
+    sure to find ´em.
+- id: 18418
+  en: '{:unk08 01 01 06}You said it!'
+- id: 18426
+  en: >-
+    {:unk08 01 00 05}Hey, everybody! I´m picking
+
+    up a strange reading.
+- id: 18427
+  en: >-
+    {:unk08 01 00 05}It´s that weird reading from before.
+
+    See, I knew it wasn´t a glitch.
+- id: 18428
+  en: '{:unk08 01 00 05}What´s that? That big...thing?'
+- id: 18429
+  en: >-
+    {:unk08 01 01 06}Maybe that´s the source of the weird
+
+    reading we picked up before!
+- id: 18545
+  en: Land in ZZ
+- id: 18546
+  en: Land in End of Sea
+- id: 18547
+  en: Land in Twilight Town
+- id: 18548
+  en: Land in Destiny Islands
+- id: 18549
+  en: Land in Hollow Bastion
+- id: 18550
+  en: Land in Beast´s Castle
+- id: 18551
+  en: Land in Olympus Coliseum
+- id: 18552
+  en: Land in Agrabah
+- id: 18553
+  en: Land in the Land of Dragons
+- id: 18554
+  en: Land in 100 Acre Wood
+- id: 18555
+  en: Land in Pride Lands
+- id: 18556
+  en: Land in Atlantica
+- id: 18557
+  en: Land in Disney Castle
+- id: 18558
+  en: Land in Timeless River
+- id: 18559
+  en: Land in Halloween Town
+- id: 18560
+  en: Land in FA
+- id: 18561
+  en: Land in Port Royal
+- id: 18562
+  en: Land in Space Paranoids
+- id: 18563
+  en: Land in the World that Never Was
+- id: 18564
+  en: Maybe later...
+- id: 18817
+  en: '{:unk08 01 01 05}Only one?'
+- id: 18818
+  en: '{:unk08 01 01 06}That´s no good!'
+- id: 18819
+  en: '{:unk08 01 00 05}Wait! I think it´s a world we know!'
+- id: 18820
+  en: >-
+    Use the left stick to fly the Gummi Ship. Try approaching
+
+    the door-shaped Gummi Route on the screen. When you
+
+    arrive at your destination, press {:unk16 08} to land.{:clear }You can´t land on worlds not connected by Gummi Routes.
+
+    Clear Gummi Routes to connect the worlds.
+- id: 18821
+  en: '{:unk08 01 01 06}Yep, I can see it! It´s back again!'
+- id: 18822
+  en: '{:unk08 01 01 05}Thanks, guys.'
+- id: 18823
+  en: >-
+    {:unk08 01 00 05}Oh no! Hollow Bastion!
+
+    It´s all covered in darkness!
+- id: 18824
+  en: >-
+    {:unk08 01 01 06}You're right, Chipper!
+
+    I wonder what's goin' on.
+- id: 18825
+  en: >-
+    {:unk08 01 00 05}Sora! We better hurry and
+
+    check it out right away!
+- id: 18830
+  en: '{:unk08 01 01 06}Are you sure? Let me see!'
+- id: 18831
+  en: '{:unk08 01 00 05}Look--it´s all cloudy and kinda fuzzy.'
+- id: 18832
+  en: '{:unk08 01 01 06}Yeah! But it´s still all cloudy and kinda fuzzy.'
+- id: 18833
+  en: '{:unk08 01 00 05}Hmm... Well, we know one thing for sure.'
+- id: 18834
+  en: >-
+    {:unk08 01 00 05}And there´s something funny about
+
+    Twilight Town. I´m seeing two of ´em!
+- id: 18835
+  en: >-
+    {:unk08 01 01 06}Look! It´s another huge energy reading!
+
+    And it´s coming from someplace near the town.
+- id: 18865
+  en: >-
+    {:unk08 01 01 06}Hey, wait a minute... Is the
+
+    ship moving all on its own?
+- id: 18885
+  en: >-
+    Use the left stick to fly the Gummi Ship. Try approaching
+
+    the world at the bottom of the screen. When you
+
+    arrive at your destination, press {:unk16 08} to land.
+- id: 18886
+  en: >-
+    {:unk08 01 00 05}Yup! Looks like we´re headed
+
+    toward Hollow Bastion.
+- id: 18890
+  en: '{:unk08 01 01 06}Prob´ly just a glitch.'
+- id: 18891
+  en: '{:unk08 01 00 05}I don´t know...'
+- id: 18892
+  en: '{:unk08 01 01 06}What´s that?'
+- id: 18893
+  en: >-
+    {:unk08 01 00 05}Whenever Sora, Donald, and Goofy go out
+
+    and help folks, the reading gets stronger!
+- id: 18894
+  en: '{:unk08 01 01 06}Gee, I wonder why.'
+- id: 18895
+  en: >-
+    {:unk08 01 00 05}Hey, Sora. We´re gonna try to
+
+    find out more about this reading.
+- id: 18896
+  en: >-
+    {:unk08 01 01 06}And while we do,
+
+    you fellahs just keep on questin´!
+- id: 18897
+  en: '{:unk08 01 00 05}We really are countin´ on you, guys!'
+- id: 18898
+  en: >-
+    {:unk08 01 00 05}I dunno what´s going on, fellas, but it
+
+    sure looks like there´s some big trouble
+
+    brewing around Twilight Town!
+- id: 19021
+  en: Proceed through Asteroid Sweep
+- id: 19022
+  en: Proceed through Stardust Sweep
+- id: 19023
+  en: Proceed through Broken Highway
+- id: 19024
+  en: Proceed through Ancient Highway
+- id: 19025
+  en: Proceed through Phantom Storm
+- id: 19026
+  en: Proceed through Sunlight Storm
+- id: 19027
+  en: Proceed through Splash Island
+- id: 19028
+  en: Proceed through Floating Island
+- id: 19029
+  en: '{:width 90}Proceed through Assault of the Dreadnought'
+- id: 19329
+  en: >-
+    {:unk08 01 00 05}I guess sometimes help comes
+
+    from unexpected places.
+- id: 19330
+  en: '{:unk08 01 01 06}Sure does!'
+- id: 19331
+  en: >-
+    {:unk08 01 00 05}A photo and some ice cream? Hmm.
+
+    Wonder if they're some sorta clue.
+
+    And who woulda left 'em for us, anyway?
+- id: 19332
+  en: '{:unk08 01 01 06}Riku?'
+- id: 19333
+  en: '{:unk08 01 00 05}Ya think?'
+- id: 19334
+  en: '{:unk08 01 01 06}Just this feeling I got.'
+- id: 19335
+  en: '{:unk08 01 01 06}Look! We´re almost there!'
+- id: 19336
+  en: >-
+    {:unk08 01 01 06}Hey, what if the Heartless are back again?
+
+    I can´t use the Keyblade--that would
+
+    only help the Organization.
+- id: 19337
+  en: >-
+    {:unk08 01 00 05}But Sora, I think ya have to use it.
+
+    If we don´t fight ´em, the Heartless´ll
+
+    keep on hurtin´ folks.
+- id: 19382
+  en: '{:unk08 01 01 06}Uh-oh. Looks like a no go.'
+- id: 19383
+  en: >-
+    {:unk08 01 00 05}Gawrsh, maybe the gate got
+
+    stuck or somethin´.
+- id: 19384
+  en: '{:unk08 01 00 05}Huh? You want to go back to Twilight Town?'
+- id: 19385
+  en: '{:unk08 01 01 06}C´mon! We gotta get movin´ ahead!'
+- id: 19386
+  en: Huh? I don´t get it. It´s not letting us go there.
+- id: 19387
+  en: Is somethin´ broken?
+- id: 19469
+  en: It´s not accessible now.
+- id: 19472
+  en: '{:icon button-l1}{:width 90}Select destination'
+- id: 19473
+  en: '{:icon button-r1}Episode list'
+- id: 19474
+  en: Past events
+- id: 19475
+  en: Next objective
+- id: 19476
+  en: '{:icon button-triangle}Jiminy´s Journal'
+- id: 19477
+  en: Select destination
+- id: 19478
+  en: Episode list
+- id: 19498
+  en: >-
+    You need "Magnet" magic
+
+    to move the statue.
+- id: 19499
+  en: >-
+    To participate in the musical, you need
+
+    the Drive Gauge to be 5 or more.
+- id: 19500
+  en: >-
+    You need "Magnera" magic
+
+    to retrieve the lost item.
+- id: 19501
+  en: >-
+    You need "Thundaga" magic to
+
+    carry out Sebastian´s idea.
+- id: 19504
+  en: A new episode was added!
+- id: 19505
+  en: A new episode was added!
+- id: 19506
+  en: A new episode was added!
+- id: 19507
+  en: A new episode was added!
+- id: 19508
+  en: A new episode was added!
+- id: 19509
+  en: A new episode was added!
+- id: 19510
+  en: A new episode was added!
+- id: 19511
+  en: A new episode was added!
+- id: 19512
+  en: A new episode was added!
+- id: 19513
+  en: A new episode was added!
+- id: 19514
+  en: A new episode was added!
+- id: 19515
+  en: Twilight Town
+- id: 19516
+  en: Let´s go visit Twilight Town!
+- id: 19517
+  en: The twilight mystery!
+- id: 19518
+  en: >-
+    Let´s solve the mystery of
+
+    Twilight Town!
+- id: 19519
+  en: What happened in Hollow Bastion!?
+- id: 19520
+  en: >-
+    There´s something strange in
+
+    Hollow Bastion!
+- id: 19521
+  en: Let´s check out the town!
+- id: 19522
+  en: >-
+    I wonder how the town is...
+
+    Let´s check out Market Street!
+- id: 19523
+  en: HB Scenario 3
+- id: 19524
+  en: Hollow Bastion Scenario 3
+- id: 19525
+  en: The new coliseum?
+- id: 19526
+  en: >-
+    A strange tournament has begun.
+
+    {:width 90}Pain and Panic seem to know something...
+- id: 19527
+  en: The Cerberus Cup has begun!
+- id: 19528
+  en: >-
+    This tournament is filled with strong
+
+    fighters. Talk to Panic to sign up!
+- id: 19529
+  en: The Titan Cup has begun!
+- id: 19530
+  en: >-
+    This tournament is a little strange.
+
+    Talk to Panic to sign up!
+- id: 19531
+  en: The Goddess of Fate Cup has begun!
+- id: 19532
+  en: >-
+    This tournament tests your skills.
+
+    Talk to Panic to sign up!
+- id: 19533
+  en: '{:width 95}The Pain and Panic Paradox Cup has begun!'
+- id: 19534
+  en: >-
+    {:width 95}It seems there´s a secret tournament.
+
+    Talk to Hades to sign up!
+- id: 19535
+  en: The Cerberus Paradox Cup has begun!
+- id: 19536
+  en: >-
+    What kind of tournament is this...?
+
+    Talk to Hades to sign up!
+- id: 19537
+  en: The Titan Paradox Cup has begun!
+- id: 19538
+  en: >-
+    {:width 95}This tournament puts strength against
+
+    strength! Talk to Hades to sign up!
+- id: 19539
+  en: The Hades Paradox Cup has begun!
+- id: 19540
+  en: >-
+    This is the most severe tournament
+
+    of all. Talk to Hades to sign up!
+- id: 20527
+  en: '{:width 90}Investigate the Cavern of Remembrance!'
+- id: 20528
+  en: >-
+    Investigate the dungeon in front of
+
+    the castle!
+- id: 20529
+  en: Venture into the depths of the cavern!
+- id: 20530
+  en: Venture into the depths of the cavern!
+- id: 20531
+  en: Examine the monitor!
+- id: 20532
+  en: >-
+    Examine all the monitors
+
+    in the depths of the cavern!
+- id: 20533
+  en: There may be a new development!
+- id: 20534
+  en: >-
+    Head to Disney Castle and find out
+
+    what's going on!

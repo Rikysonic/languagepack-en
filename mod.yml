@@ -27,7 +27,7 @@ assets:
   - name: msg/us/title.bar
     method: binarc
     source:
-      - name: sys
+      - name: title
         type: list
         method: kh2msg
         source:
@@ -41,7 +41,7 @@ assets:
   - name: msg/us/al.bar
     method: binarc
     source:
-      - name: sys
+      - name: al
         type: list
         method: kh2msg
         source:
@@ -55,7 +55,7 @@ assets:
   - name: msg/us/bb.bar
     method: binarc
     source:
-      - name: sys
+      - name: bb
         type: list
         method: kh2msg
         source:
@@ -69,7 +69,7 @@ assets:
   - name: msg/us/ca.bar
     method: binarc
     source:
-      - name: sys
+      - name: ca
         type: list
         method: kh2msg
         source:
@@ -83,7 +83,7 @@ assets:
   - name: msg/us/dc.bar
     method: binarc
     source:
-      - name: sys
+      - name: dc
         type: list
         method: kh2msg
         source:
@@ -97,7 +97,7 @@ assets:
   - name: msg/us/di.bar
     method: binarc
     source:
-      - name: sys
+      - name: di
         type: list
         method: kh2msg
         source:
@@ -111,7 +111,7 @@ assets:
   - name: msg/us/eh.bar
     method: binarc
     source:
-      - name: sys
+      - name: eh
         type: list
         method: kh2msg
         source:
@@ -125,7 +125,7 @@ assets:
   - name: msg/us/es.bar
     method: binarc
     source:
-      - name: sys
+      - name: es
         type: list
         method: kh2msg
         source:
@@ -139,7 +139,7 @@ assets:
   - name: msg/us/gumi.bar
     method: binarc
     source:
-      - name: sys
+      - name: gumi
         type: list
         method: kh2msg
         source:
@@ -153,7 +153,7 @@ assets:
   - name: msg/us/hb.bar
     method: binarc
     source:
-      - name: sys
+      - name: hb
         type: list
         method: kh2msg
         source:
@@ -167,7 +167,7 @@ assets:
   - name: msg/us/he.bar
     method: binarc
     source:
-      - name: sys
+      - name: he
         type: list
         method: kh2msg
         source:
@@ -181,7 +181,7 @@ assets:
   - name: msg/us/jm.bar
     method: binarc
     source:
-      - name: sys
+      - name: jm
         type: list
         method: kh2msg
         source:
@@ -195,7 +195,7 @@ assets:
   - name: msg/us/lk.bar
     method: binarc
     source:
-      - name: sys
+      - name: lk
         type: list
         method: kh2msg
         source:
@@ -209,7 +209,7 @@ assets:
   - name: msg/us/lm.bar
     method: binarc
     source:
-      - name: sys
+      - name: lm
         type: list
         method: kh2msg
         source:
@@ -223,7 +223,7 @@ assets:
   - name: msg/us/mu.bar
     method: binarc
     source:
-      - name: sys
+      - name: mu
         type: list
         method: kh2msg
         source:
@@ -237,7 +237,7 @@ assets:
   - name: msg/us/nm.bar
     method: binarc
     source:
-      - name: sys
+      - name: nm
         type: list
         method: kh2msg
         source:
@@ -251,7 +251,7 @@ assets:
   - name: msg/us/po.bar
     method: binarc
     source:
-      - name: sys
+      - name: po
         type: list
         method: kh2msg
         source:
@@ -265,7 +265,7 @@ assets:
   - name: msg/us/tr.bar
     method: binarc
     source:
-      - name: sys
+      - name: tr
         type: list
         method: kh2msg
         source:
@@ -279,7 +279,7 @@ assets:
   - name: msg/us/tt.bar
     method: binarc
     source:
-      - name: sys
+      - name: tt
         type: list
         method: kh2msg
         source:
@@ -293,7 +293,7 @@ assets:
   - name: msg/us/wi.bar
     method: binarc
     source:
-      - name: sys
+      - name: wi
         type: list
         method: kh2msg
         source:
@@ -307,7 +307,7 @@ assets:
   - name: msg/us/wm.bar
     method: binarc
     source:
-      - name: sys
+      - name: wm
         type: list
         method: kh2msg
         source:

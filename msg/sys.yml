@@ -19,7 +19,7 @@
 - id: 488
   en: Final Form
 - id: 489
-  en: Antiform
+  en: Anti Form
 - id: 490
   en: Talk
 - id: 491
@@ -1594,11 +1594,21 @@
 - id: 1608
   en: Final Form
 - id: 1609
-  en: Dummy
+  en: >-
+    Using the Keyblade's true power,
+
+    use the Drive Command to change
+
+    into Final Form.
 - id: 1610
-  en: Antiform
+  en: Anti Form
 - id: 1611
-  en: Dummy
+  en: >-
+    Using the darkness in Sora's heart,
+
+    use the Drive Command to change
+
+    into Anti Form.
 - id: 1612
   en: High Jump LV1
 - id: 1613
@@ -8258,7 +8268,7 @@
 
     of friends faraway.
 - id: 20099
-  en: Dodge Roll LV 1
+  en: Dodge Roll LV1
 - id: 20100
   en: >-
     Dodge enemy attacks by tilting
@@ -8267,7 +8277,7 @@
 
     More efficient at higher Levels.
 - id: 20101
-  en: Dodge Roll LV 2
+  en: Dodge Roll LV2
 - id: 20102
   en: >-
     Dodge enemy attacks by tilting
@@ -8276,7 +8286,7 @@
 
     More efficient at higher Levels.
 - id: 20103
-  en: Dodge Roll LV 3
+  en: Dodge Roll LV3
 - id: 20104
   en: >-
     Dodge enemy attacks by tilting
@@ -8303,7 +8313,7 @@
 
     Limit Form is usable.
 - id: 20109
-  en: Sonic Rave
+  en: Sonic Blade
 - id: 20110
   en: >-
     A Limit Command that unleashes an attack
@@ -8312,7 +8322,7 @@
 
     the right tempo for a combo. {:color #F0F00080}MP Cost:{:width 100} 60{:reset}
 - id: 20111
-  en: Last Arcanum
+  en: Ars Arcanum
 - id: 20112
   en: >-
     A Limit Command that unleashes
@@ -8394,7 +8404,7 @@
 
     A form specializing in Limit attacks.
 
-    {:color #F0F00080}Cost: 4{:reset}
+    {:color #F0F00080}Drive points consumed: 4{:reset}
 - id: 20129
   en: >-
     Limit Form Level. Time spent
@@ -8521,13 +8531,13 @@
 - id: 20221
   en: Access
 - id: 20222
-  en: Sonic Rave
+  en: Sonic Blade
 - id: 20223
   en: Rave
 - id: 20224
   en: Finish
 - id: 20225
-  en: Last Arcanum
+  en: Ars Arcanum
 - id: 20226
   en: Bash
 - id: 20227

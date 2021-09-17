@@ -20,7 +20,7 @@ assets:
     method: copy
     source:
       - name: msg/jp/fontinfo.bar
-  #Texts
+#Texts (US only)
   - name: msg/us/sys.bar
     method: binarc
     source:
@@ -30,6 +30,306 @@ assets:
         source:
           - name: msg/sys.yml
             language: en
+      - name: md_m
+        type: imgd
+        method: copy
+        source:
+          - name: msg/md_m/dummy
+  - name: msg/us/title.bar
+    method: binarc
+    source:
+      - name: title
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/title.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: copy
+        source:
+          - name: msg/md_m/dummy
+  - name: msg/us/al.bar
+    method: binarc
+    source:
+      - name: al
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/al.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/al.png
+  - name: msg/us/bb.bar
+    method: binarc
+    source:
+      - name: bb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/bb.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/bb.png
+  - name: msg/us/ca.bar
+    method: binarc
+    source:
+      - name: ca
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/ca.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/ca.png
+  - name: msg/us/dc.bar
+    method: binarc
+    source:
+      - name: dc
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/dc.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/dc.png
+  - name: msg/us/di.bar
+    method: binarc
+    source:
+      - name: di
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/di.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/default.png
+  - name: msg/us/eh.bar
+    method: binarc
+    source:
+      - name: eh
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/eh.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/eh.png
+  - name: msg/us/es.bar
+    method: binarc
+    source:
+      - name: es
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/es.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/default.png
+  - name: msg/us/gumi.bar
+    method: binarc
+    source:
+      - name: gumi
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/gumi.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: copy
+        source:
+          - name: msg/md_m/dummy
+  - name: msg/us/hb.bar
+    method: binarc
+    source:
+      - name: hb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/hb.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/hb.png
+  - name: msg/us/he.bar
+    method: binarc
+    source:
+      - name: he
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/he.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/he.png
+  - name: msg/us/jm.bar
+    method: binarc
+    source:
+      - name: jm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/jm.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: copy
+        source:
+          - name: msg/md_m/dummy
+  - name: msg/us/lk.bar
+    method: binarc
+    source:
+      - name: lk
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lk.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/lk.png
+  - name: msg/us/lm.bar
+    method: binarc
+    source:
+      - name: lm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lm.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/lm.png
+  - name: msg/us/mu.bar
+    method: binarc
+    source:
+      - name: mu
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/mu.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/mu.png
+  - name: msg/us/nm.bar
+    method: binarc
+    source:
+      - name: nm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/nm.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/nm.png
+  - name: msg/us/po.bar
+    method: binarc
+    source:
+      - name: po
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/po.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/po.png
+  - name: msg/us/tr.bar
+    method: binarc
+    source:
+      - name: tr
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tr.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/tr.png
+  - name: msg/us/tt.bar
+    method: binarc
+    source:
+      - name: tt
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tt.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/tt.png
+  - name: msg/us/wi.bar
+    method: binarc
+    source:
+      - name: wi
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/wi.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/wi.png
+  - name: msg/us/wm.bar
+    method: binarc
+    source:
+      - name: wm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/wm.yml
+            language: en
+      - name: md_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msg/md_m/wm.png
+  #Texts (JP Only)
   - name: msg/jp/sys.bar
     method: binarc
     source:
@@ -39,9 +339,7 @@ assets:
         source:
           - name: msg/jp/sys.yml
             language: en
-  - name: msg/us/title.bar
-    multi:
-      - name: msg/jp/title.bar
+  - name: msg/jp/title.bar
     method: binarc
     source:
       - name: title
@@ -50,9 +348,7 @@ assets:
         source:
           - name: msg/title.yml
             language: en
-  - name: msg/us/al.bar
-    multi:
-      - name: msg/jp/al.bar
+  - name: msg/jp/al.bar
     method: binarc
     source:
       - name: al
@@ -61,9 +357,7 @@ assets:
         source:
           - name: msg/al.yml
             language: en
-  - name: msg/us/bb.bar
-    multi:
-      - name: msg/jp/bb.bar
+  - name: msg/jp/bb.bar
     method: binarc
     source:
       - name: bb
@@ -72,9 +366,7 @@ assets:
         source:
           - name: msg/bb.yml
             language: en
-  - name: msg/us/ca.bar
-    multi:
-      - name: msg/jp/ca.bar
+  - name: msg/jp/ca.bar
     method: binarc
     source:
       - name: ca
@@ -83,9 +375,7 @@ assets:
         source:
           - name: msg/ca.yml
             language: en
-  - name: msg/us/dc.bar
-    multi:
-      - name: msg/jp/dc.bar
+  - name: msg/jp/dc.bar
     method: binarc
     source:
       - name: dc
@@ -94,9 +384,7 @@ assets:
         source:
           - name: msg/dc.yml
             language: en
-  - name: msg/us/di.bar
-    multi:
-      - name: msg/jp/di.bar
+  - name: msg/jp/di.bar
     method: binarc
     source:
       - name: di
@@ -105,9 +393,7 @@ assets:
         source:
           - name: msg/di.yml
             language: en
-  - name: msg/us/eh.bar
-    multi:
-      - name: msg/jp/eh.bar
+  - name: msg/jp/eh.bar
     method: binarc
     source:
       - name: eh
@@ -116,9 +402,7 @@ assets:
         source:
           - name: msg/eh.yml
             language: en
-  - name: msg/us/es.bar
-    multi:
-      - name: msg/jp/es.bar
+  - name: msg/jp/es.bar
     method: binarc
     source:
       - name: es
@@ -127,9 +411,7 @@ assets:
         source:
           - name: msg/es.yml
             language: en
-  - name: msg/us/gumi.bar
-    multi:
-      - name: msg/jp/gumi.bar
+  - name: msg/jp/gumi.bar
     method: binarc
     source:
       - name: gumi
@@ -138,9 +420,7 @@ assets:
         source:
           - name: msg/gumi.yml
             language: en
-  - name: msg/us/hb.bar
-    multi:
-      - name: msg/jp/hb.bar
+  - name: msg/jp/hb.bar
     method: binarc
     source:
       - name: hb
@@ -149,9 +429,7 @@ assets:
         source:
           - name: msg/hb.yml
             language: en
-  - name: msg/us/he.bar
-    multi:
-      - name: msg/jp/he.bar
+  - name: msg/jp/he.bar
     method: binarc
     source:
       - name: he
@@ -160,9 +438,7 @@ assets:
         source:
           - name: msg/he.yml
             language: en
-  - name: msg/us/jm.bar
-    multi:
-      - name: msg/jp/jm.bar
+  - name: msg/jp/jm.bar
     method: binarc
     source:
       - name: jm
@@ -171,9 +447,7 @@ assets:
         source:
           - name: msg/jm.yml
             language: en
-  - name: msg/us/lk.bar
-    multi:
-      - name: msg/jp/lk.bar
+  - name: msg/jp/lk.bar
     method: binarc
     source:
       - name: lk
@@ -182,9 +456,7 @@ assets:
         source:
           - name: msg/lk.yml
             language: en
-  - name: msg/us/lm.bar
-    multi:
-      - name: msg/jp/lm.bar
+  - name: msg/jp/lm.bar
     method: binarc
     source:
       - name: lm
@@ -193,9 +465,7 @@ assets:
         source:
           - name: msg/lm.yml
             language: en
-  - name: msg/us/mu.bar
-    multi:
-      - name: msg/jp/mu.bar
+  - name: msg/jp/mu.bar
     method: binarc
     source:
       - name: mu
@@ -204,9 +474,7 @@ assets:
         source:
           - name: msg/mu.yml
             language: en
-  - name: msg/us/nm.bar
-    multi:
-      - name: msg/jp/nm.bar
+  - name: msg/jp/nm.bar
     method: binarc
     source:
       - name: nm
@@ -215,9 +483,7 @@ assets:
         source:
           - name: msg/nm.yml
             language: en
-  - name: msg/us/po.bar
-    multi:
-      - name: msg/jp/po.bar
+  - name: msg/jp/po.bar
     method: binarc
     source:
       - name: po
@@ -226,9 +492,7 @@ assets:
         source:
           - name: msg/po.yml
             language: en
-  - name: msg/us/tr.bar
-    multi:
-      - name: msg/jp/tr.bar
+  - name: msg/jp/tr.bar
     method: binarc
     source:
       - name: tr
@@ -237,9 +501,7 @@ assets:
         source:
           - name: msg/tr.yml
             language: en
-  - name: msg/us/tt.bar
-    multi:
-      - name: msg/jp/tt.bar
+  - name: msg/jp/tt.bar
     method: binarc
     source:
       - name: tt
@@ -248,9 +510,7 @@ assets:
         source:
           - name: msg/tt.yml
             language: en
-  - name: msg/us/wi.bar
-    multi:
-      - name: msg/jp/wi.bar
+  - name: msg/jp/wi.bar
     method: binarc
     source:
       - name: wi
@@ -259,9 +519,7 @@ assets:
         source:
           - name: msg/wi.yml
             language: en
-  - name: msg/us/wm.bar
-    multi:
-      - name: msg/jp/wm.bar
+  - name: msg/jp/wm.bar
     method: binarc
     source:
       - name: wm

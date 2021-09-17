@@ -453,3 +453,688 @@ assets:
     method: copy
     source:
       - name: gumimenu/gumiedit.bar
+  #FM-Exclusive Cutscenes
+  - name: voice/fm/event/eh13650sr.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13650sr.vag
+  - name: voice/fm/event/eh13651rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13651rk.vag
+  - name: voice/fm/event/eh13652sr_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13652sr_1.vag
+  - name: voice/fm/event/eh13652sr_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13652sr_2.vag
+  - name: voice/fm/event/eh13653rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13653rk.vag
+  - name: voice/fm/event/eh13654sr.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13654sr.vag
+  - name: voice/fm/event/eh13655sr.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13655sr.vag
+  - name: voice/fm/event/eh13656rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13656rk.vag
+  - name: voice/fm/event/eh50101x8_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50101x8_1.vag
+  - name: voice/fm/event/eh50101x8_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50101x8_2.vag
+  - name: voice/fm/event/eh50102x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50102x3.vag
+  - name: voice/fm/event/eh50103x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50103x8.vag
+  - name: voice/fm/event/eh50104x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50104x3.vag
+  - name: voice/fm/event/eh50105x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50105x8.vag
+  - name: voice/fm/event/eh50106x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50106x8.vag
+  - name: voice/fm/event/eh50201x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50201x3.vag
+  - name: voice/fm/event/eh50202x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50202x2.vag
+  - name: voice/fm/event/eh50203x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50203x7.vag
+  - name: voice/fm/event/eh50204x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50204x0.vag
+  - name: voice/fm/event/eh50205x9.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50205x9.vag
+  - name: voice/fm/event/eh50206x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50206x2.vag
+  - name: voice/fm/event/eh50207x9.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50207x9.vag
+  - name: voice/fm/event/eh50208x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50208x3.vag
+  - name: voice/fm/event/eh50209x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50209x0.vag
+  - name: voice/fm/event/eh50210x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50210x7.vag
+  - name: voice/fm/event/eh50211x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50211x1.vag
+  - name: voice/fm/event/eh50212x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50212x1.vag
+  - name: voice/fm/event/eh50301x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50301x7.vag
+  - name: voice/fm/event/eh50302x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50302x1.vag
+  - name: voice/fm/event/eh50303x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50303x1.vag
+  - name: voice/fm/event/eh50304x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50304x7.vag
+  - name: voice/fm/event/eh50305x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50305x1.vag
+  - name: voice/fm/event/eh50306x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50306x1.vag
+  - name: voice/fm/event/eh50307x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50307x1.vag
+  - name: voice/fm/event/eh50401x7_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50401x7_1.vag
+  - name: voice/fm/event/eh50401x7_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50401x7_2.vag
+  - name: voice/fm/event/eh50402x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50402x2.vag
+  - name: voice/fm/event/eh50403x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50403x0.vag
+  - name: voice/fm/event/eh50404x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50404x3.vag
+  - name: voice/fm/event/eh50405x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50405x0.vag
+  - name: voice/fm/event/eh50406x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50406x2.vag
+  - name: voice/fm/event/eh50407x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50407x1.vag
+  - name: voice/fm/event/eh50408x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50408x3.vag
+  - name: voice/fm/event/eh50501x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50501x2.vag
+  - name: voice/fm/event/eh50502x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50502x0.vag
+  - name: voice/fm/event/eh50503x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50503x2.vag
+  - name: voice/fm/event/eh50504x0_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50504x0_1.vag
+  - name: voice/fm/event/eh50504x0_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50504x0_2.vag
+  - name: voice/fm/event/eh50505x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50505x7.vag
+  - name: voice/fm/event/eh50506x7_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50506x7_1.vag
+  - name: voice/fm/event/eh50506x7_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50506x7_2.vag
+  - name: voice/fm/event/eh50507x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50507x1.vag
+  - name: voice/fm/event/eh50508x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50508x1.vag
+  - name: voice/fm/event/eh50601Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Ars.vag
+  - name: voice/fm/event/eh50601Brs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Brs.vag
+  - name: voice/fm/event/eh50601Crs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Crs.vag
+  - name: voice/fm/event/eh50601Drs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Drs.vag
+  - name: voice/fm/event/eh50601Ers.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Ers.vag
+  - name: voice/fm/event/eh50601Frk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Frk.vag
+  - name: voice/fm/event/eh50601Grk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Grk.vag
+  - name: voice/fm/event/eh50601Hrk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Hrk.vag
+  - name: voice/fm/event/eh50601Irk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Irk.vag
+  - name: voice/fm/event/eh50601Jrk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Jrk.vag
+  - name: voice/fm/event/eh50601rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601rs.vag
+  - name: voice/fm/event/eh50602rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50602rk.vag
+  - name: voice/fm/event/eh50603Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50603Ars.vag
+  - name: voice/fm/event/eh50603rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50603rs.vag
+  - name: voice/fm/event/eh50604Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50604Ars.vag
+  - name: voice/fm/event/eh50604rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50604rk.vag
+  - name: voice/fm/event/eh50605rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50605rs.vag
+  - name: voice/fm/event/eh50606rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50606rs.vag
+  - name: voice/fm/event/eh50607Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Ars.vag
+  - name: voice/fm/event/eh50607Brs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Brs.vag
+  - name: voice/fm/event/eh50607Crs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Crs.vag
+  - name: voice/fm/event/eh50607Drs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Drs.vag
+  - name: voice/fm/event/eh50607Erk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Erk.vag
+  - name: voice/fm/event/eh50607Frk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Frk.vag
+  - name: voice/fm/event/eh50607Grk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Grk.vag
+  - name: voice/fm/event/eh50607rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607rs.vag
+  - name: voice/fm/event/eh50608rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50608rk.vag
+  - name: voice/fm/event/eh50609rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50609rs.vag
+  - name: voice/fm/event/eh50610rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50610rk.vag
+  - name: voice/fm/event/eh50610rk_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50610rk_1.vag
+  - name: voice/fm/event/eh50610rk_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50610rk_2.vag
+  - name: voice/fm/event/eh50611rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50611rk.vag
+  - name: voice/fm/event/eh50612Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50612Ars.vag
+  - name: voice/fm/event/eh50612Brs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50612Brs.vag
+  - name: voice/fm/event/eh50612rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50612rs.vag
+  - name: voice/fm/event/eh50613an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50613an.vag
+  - name: voice/fm/event/eh50614an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50614an.vag
+  - name: voice/fm/event/eh50615dz_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50615dz_1.vag
+  - name: voice/fm/event/eh50615dz_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50615dz_2.vag
+  - name: voice/fm/event/eh50616an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50616an.vag
+  - name: voice/fm/event/eh50701x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50701x4.vag
+  - name: voice/fm/event/eh50702x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50702x6.vag
+  - name: voice/fm/event/eh50703x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50703x4.vag
+  - name: voice/fm/event/eh50704x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50704x6.vag
+  - name: voice/fm/event/eh50705x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50705x4.vag
+  - name: voice/fm/event/eh50706x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50706x6.vag
+  - name: voice/fm/event/eh50707x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50707x4.vag
+  - name: voice/fm/event/eh50708x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50708x4.vag
+  - name: voice/fm/event/eh50709Ax4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50709Ax4.vag
+  - name: voice/fm/event/eh50709x2_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50709x2_1.vag
+  - name: voice/fm/event/eh50709x2_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50709x2_2.vag
+  - name: voice/fm/event/eh50710x6_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50710x6_1.vag
+  - name: voice/fm/event/eh50710x6_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50710x6_2.vag
+  - name: voice/fm/event/eh50711x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50711x2.vag
+  - name: voice/fm/event/eh50712x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50712x6.vag
+  - name: voice/fm/event/eh50713x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50713x2.vag
+  - name: voice/fm/event/eh50714x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50714x2.vag
+  - name: voice/fm/event/eh50715x2_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50715x2_1.vag
+  - name: voice/fm/event/eh50715x2_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50715x2_2.vag
+  - name: voice/fm/event/eh50716x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50716x6.vag
+  - name: voice/fm/event/eh50717x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50717x2.vag
+  - name: voice/fm/event/eh50718x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50718x2.vag
+  - name: voice/fm/event/eh50719x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50719x6.vag
+  - name: voice/fm/event/eh50720x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50720x2.vag
+  - name: voice/fm/event/eh50721x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50721x6.vag
+  - name: voice/fm/event/eh50722x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50722x2.vag
+  - name: voice/fm/event/eh50723x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50723x6.vag
+  - name: voice/fm/event/eh50724x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50724x2.vag
+  - name: voice/fm/event/eh50725x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50725x2.vag
+  - name: voice/fm/event/eh50726x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50726x2.vag
+  - name: voice/fm/event/hb70101x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70101x1.vag
+  - name: voice/fm/event/hb70102xn.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70102xn.vag
+  - name: voice/fm/event/hb70103dz.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70103dz.vag
+  - name: voice/fm/event/hb70104xn.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70104xn.vag
+  - name: voice/fm/event/hb70105dz.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70105dz.vag
+  - name: voice/fm/event/tt05101x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05101x1.vag
+  - name: voice/fm/event/tt05102x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05102x1.vag
+  - name: voice/fm/event/tt05103x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05103x1.vag
+  - name: voice/fm/event/tt05104rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05104rs.vag
+  - name: voice/fm/event/tt05105x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05105x1.vag
+  - name: voice/fm/event/tt05201x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05201x8.vag
+  - name: voice/fm/event/tt05202an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05202an.vag
+  - name: voice/fm/event/tt05203x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05203x8.vag
+  - name: voice/fm/event/tt05204x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05204x8.vag
+  - name: voice/fm/event/tt05205na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05205na.vag
+  - name: voice/fm/event/tt05206na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05206na.vag
+  - name: voice/fm/event/tt05207x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05207x8.vag
+  - name: voice/fm/event/tt05208x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05208x8.vag
+  - name: voice/fm/event/tt05209na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05209na.vag
+  - name: voice/fm/event/tt05210an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05210an.vag
+  - name: voice/fm/event/tt05211x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05211x8.vag
+  - name: voice/fm/event/tt05212an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05212an.vag
+  - name: voice/fm/event/tt05213na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05213na.vag
+  - name: voice/fm/event/tt05214an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05214an.vag
+  - name: voice/fm/event/tt05215x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05215x8.vag
+  - name: voice/fm/event/tt05216na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05216na.vag
+  - name: voice/fm/event/tt05301x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05301x8.vag
+  - name: voice/fm/event/tt05302rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05302rs.vag
+  - name: voice/fm/event/tt05303rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05303rs.vag
+  - name: voice/fm/event/tt05304x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05304x8.vag
+  - name: voice/fm/event/tt05305rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05305rs.vag
+  - name: voice/fm/event/tt05306x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05306x8.vag
+  - name: voice/fm/event/tt05307rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05307rs.vag
+  - name: voice/fm/event/tt05308x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05308x8.vag
+  - name: voice/fm/event/tt05309rs_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05309rs_1.vag
+  - name: voice/fm/event/tt05309rs_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05309rs_2.vag
+  - name: voice/fm/event/tt05310x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05310x8.vag
+  - name: voice/fm/event/tt05311rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05311rs.vag
+  - name: voice/fm/event/tt05312x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05312x8.vag
+  - name: voice/fm/event/tt05313Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05313Ars.vag
+  - name: voice/fm/event/tt05313Brs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05313Brs.vag
+  - name: voice/fm/event/tt05313x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05313x8.vag
+  - name: voice/fm/event/tt05314rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05314rs.vag
+  - name: voice/fm/event/tt05315x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05315x8.vag
+  - name: voice/fm/event/tt05316rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05316rs.vag
+  - name: voice/fm/event/tt05317x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05317x8.vag
+  - name: voice/fm/event/tt05318rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05318rs.vag
+  - name: voice/fm/event/tt05319x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05319x8.vag

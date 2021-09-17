@@ -1,15 +1,26 @@
 title: English language pack
+game: kh2
 originalAuthor: OpenKH open-source assets
 description: Generate English game files. This mod is mainly useful to translate your PlayStation 2 copy of Kingdom Hearts II from any language to English.
 assets:
+  #Fonts
   - name: msg/us/fontimage.bar
     method: copy
     source:
-    - name: msg/fontimage.bar
+      - name: msg/fontimage.bar
   - name: msg/us/fontinfo.bar
     method: copy
     source:
-    - name: msg/fontinfo.bar
+      - name: msg/fontinfo.bar
+  - name: msg/jp/fontimage.bar
+    method: copy
+    source:
+      - name: msg/jp/fontimage.bar
+  - name: msg/jp/fontinfo.bar
+    method: copy
+    source:
+      - name: msg/jp/fontinfo.bar
+  #Texts
   - name: msg/us/sys.bar
     method: binarc
     source:
@@ -19,12 +30,18 @@ assets:
         source:
           - name: msg/sys.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: copy
+  - name: msg/jp/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
         source:
-          - name: msg/md_m/dummy
+          - name: msg/jp/sys.yml
+            language: en
   - name: msg/us/title.bar
+    multi:
+      - name: msg/jp/title.bar
     method: binarc
     source:
       - name: title
@@ -33,12 +50,9 @@ assets:
         source:
           - name: msg/title.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: copy
-        source:
-          - name: msg/md_m/dummy
   - name: msg/us/al.bar
+    multi:
+      - name: msg/jp/al.bar
     method: binarc
     source:
       - name: al
@@ -47,12 +61,9 @@ assets:
         source:
           - name: msg/al.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/al.png
   - name: msg/us/bb.bar
+    multi:
+      - name: msg/jp/bb.bar
     method: binarc
     source:
       - name: bb
@@ -61,12 +72,9 @@ assets:
         source:
           - name: msg/bb.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/bb.png
   - name: msg/us/ca.bar
+    multi:
+      - name: msg/jp/ca.bar
     method: binarc
     source:
       - name: ca
@@ -75,12 +83,9 @@ assets:
         source:
           - name: msg/ca.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/ca.png
   - name: msg/us/dc.bar
+    multi:
+      - name: msg/jp/dc.bar
     method: binarc
     source:
       - name: dc
@@ -89,12 +94,9 @@ assets:
         source:
           - name: msg/dc.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/dc.png
   - name: msg/us/di.bar
+    multi:
+      - name: msg/jp/di.bar
     method: binarc
     source:
       - name: di
@@ -103,12 +105,9 @@ assets:
         source:
           - name: msg/di.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/default.png
   - name: msg/us/eh.bar
+    multi:
+      - name: msg/jp/eh.bar
     method: binarc
     source:
       - name: eh
@@ -117,12 +116,9 @@ assets:
         source:
           - name: msg/eh.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/eh.png
   - name: msg/us/es.bar
+    multi:
+      - name: msg/jp/es.bar
     method: binarc
     source:
       - name: es
@@ -131,12 +127,9 @@ assets:
         source:
           - name: msg/es.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/default.png
   - name: msg/us/gumi.bar
+    multi:
+      - name: msg/jp/gumi.bar
     method: binarc
     source:
       - name: gumi
@@ -145,12 +138,9 @@ assets:
         source:
           - name: msg/gumi.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: copy
-        source:
-          - name: msg/md_m/dummy
   - name: msg/us/hb.bar
+    multi:
+      - name: msg/jp/hb.bar
     method: binarc
     source:
       - name: hb
@@ -159,12 +149,9 @@ assets:
         source:
           - name: msg/hb.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/hb.png
   - name: msg/us/he.bar
+    multi:
+      - name: msg/jp/he.bar
     method: binarc
     source:
       - name: he
@@ -173,12 +160,9 @@ assets:
         source:
           - name: msg/he.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/he.png
   - name: msg/us/jm.bar
+    multi:
+      - name: msg/jp/jm.bar
     method: binarc
     source:
       - name: jm
@@ -187,12 +171,9 @@ assets:
         source:
           - name: msg/jm.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: copy
-        source:
-          - name: msg/md_m/dummy
   - name: msg/us/lk.bar
+    multi:
+      - name: msg/jp/lk.bar
     method: binarc
     source:
       - name: lk
@@ -201,12 +182,9 @@ assets:
         source:
           - name: msg/lk.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/lk.png
   - name: msg/us/lm.bar
+    multi:
+      - name: msg/jp/lm.bar
     method: binarc
     source:
       - name: lm
@@ -215,12 +193,9 @@ assets:
         source:
           - name: msg/lm.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/lm.png
   - name: msg/us/mu.bar
+    multi:
+      - name: msg/jp/mu.bar
     method: binarc
     source:
       - name: mu
@@ -229,12 +204,9 @@ assets:
         source:
           - name: msg/mu.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/mu.png
   - name: msg/us/nm.bar
+    multi:
+      - name: msg/jp/nm.bar
     method: binarc
     source:
       - name: nm
@@ -243,12 +215,9 @@ assets:
         source:
           - name: msg/nm.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/nm.png
   - name: msg/us/po.bar
+    multi:
+      - name: msg/jp/po.bar
     method: binarc
     source:
       - name: po
@@ -257,12 +226,9 @@ assets:
         source:
           - name: msg/po.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/po.png
   - name: msg/us/tr.bar
+    multi:
+      - name: msg/jp/tr.bar
     method: binarc
     source:
       - name: tr
@@ -271,12 +237,9 @@ assets:
         source:
           - name: msg/tr.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/tr.png
   - name: msg/us/tt.bar
+    multi:
+      - name: msg/jp/tt.bar
     method: binarc
     source:
       - name: tt
@@ -285,12 +248,9 @@ assets:
         source:
           - name: msg/tt.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/tt.png
   - name: msg/us/wi.bar
+    multi:
+      - name: msg/jp/wi.bar
     method: binarc
     source:
       - name: wi
@@ -299,12 +259,9 @@ assets:
         source:
           - name: msg/wi.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/wi.png
   - name: msg/us/wm.bar
+    multi:
+      - name: msg/jp/wm.bar
     method: binarc
     source:
       - name: wm
@@ -313,12 +270,8 @@ assets:
         source:
           - name: msg/wm.yml
             language: en
-      - name: md_m
-        type: imgd
-        method: imgd
-        source:
-          - name: msg/md_m/wm.png
-  - name: menu/us/ab_010_o.bar
+  #Menu Tutorial Slides
+  - name: menu/fm/ab_010_o.bar
     method: binarc
     source:
       - name: ab_0
@@ -326,7 +279,7 @@ assets:
         method: imgd
         source:
           - name: menu/ab_010_o.png
-  - name: menu/us/ab_010_r.bar
+  - name: menu/fm/ab_010_r.bar
     method: binarc
     source:
       - name: ab_0
@@ -334,7 +287,7 @@ assets:
         method: imgd
         source:
           - name: menu/ab_010_r.png
-  - name: menu/us/ab_010_s.bar
+  - name: menu/fm/ab_010_s.bar
     method: binarc
     source:
       - name: ab_0
@@ -342,7 +295,7 @@ assets:
         method: imgd
         source:
           - name: menu/ab_010_s.png
-  - name: menu/us/ab_020_r.bar
+  - name: menu/fm/ab_020_r.bar
     method: binarc
     source:
       - name: ab_0
@@ -350,7 +303,7 @@ assets:
         method: imgd
         source:
           - name: menu/ab_020_r.png
-  - name: menu/us/ab_020_s.bar
+  - name: menu/fm/ab_020_s.bar
     method: binarc
     source:
       - name: ab_0
@@ -358,7 +311,7 @@ assets:
         method: imgd
         source:
           - name: menu/ab_020_s.png
-  - name: menu/us/ab_040_s.bar
+  - name: menu/fm/ab_040_s.bar
     method: binarc
     source:
       - name: ab_0
@@ -366,7 +319,7 @@ assets:
         method: imgd
         source:
           - name: menu/ab_040_s.png
-  - name: menu/us/at_010_o.bar
+  - name: menu/fm/at_010_o.bar
     method: binarc
     source:
       - name: at_0
@@ -374,7 +327,7 @@ assets:
         method: imgd
         source:
           - name: menu/at_010_o.png
-  - name: menu/us/at_010_r.bar
+  - name: menu/fm/at_010_r.bar
     method: binarc
     source:
       - name: at_0
@@ -382,7 +335,7 @@ assets:
         method: imgd
         source:
           - name: menu/at_010_r.png
-  - name: menu/us/at_010_s.bar
+  - name: menu/fm/at_010_s.bar
     method: binarc
     source:
       - name: at_0
@@ -390,7 +343,7 @@ assets:
         method: imgd
         source:
           - name: menu/at_010_s.png
-  - name: menu/us/at_020_r.bar
+  - name: menu/fm/at_020_r.bar
     method: binarc
     source:
       - name: at_0
@@ -398,7 +351,7 @@ assets:
         method: imgd
         source:
           - name: menu/at_020_r.png
-  - name: menu/us/at_020_s.bar
+  - name: menu/fm/at_020_s.bar
     method: binarc
     source:
       - name: at_0
@@ -406,7 +359,7 @@ assets:
         method: imgd
         source:
           - name: menu/at_020_s.png
-  - name: menu/us/mp_010_s.bar
+  - name: menu/fm/mp_010_s.bar
     method: binarc
     source:
       - name: mp_0
@@ -414,7 +367,7 @@ assets:
         method: imgd
         source:
           - name: menu/mp_010_s.png
-  - name: menu/us/mp_020_s.bar
+  - name: menu/fm/mp_020_s.bar
     method: binarc
     source:
       - name: mp_0
@@ -422,7 +375,7 @@ assets:
         method: imgd
         source:
           - name: menu/mp_020_s.png
-  - name: menu/us/sw_010_s.bar
+  - name: menu/fm/sw_010_s.bar
     method: binarc
     source:
       - name: sw_0
@@ -430,7 +383,7 @@ assets:
         method: imgd
         source:
           - name: menu/sw_010_s.png
-  - name: menu/us/sw_020_s.bar
+  - name: menu/fm/sw_020_s.bar
     method: binarc
     source:
       - name: sw_0
@@ -438,3 +391,865 @@ assets:
         method: imgd
         source:
           - name: menu/sw_020_s.png
+  #Gummi Tutorial Slides
+  - name: gumibattle/advice/jp/advice_000.imz
+    multi:
+      - name: gumibattle/advice/us/advice_000.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_000.imz
+  - name: gumibattle/advice/jp/advice_001.imz
+    multi:
+      - name: gumibattle/advice/us/advice_001.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_001.imz
+  - name: gumibattle/advice/jp/advice_002.imz
+    multi:
+      - name: gumibattle/advice/us/advice_002.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_002.imz
+  - name: gumibattle/advice/jp/advice_003.imz
+    multi:
+      - name: gumibattle/advice/us/advice_003.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_003.imz
+  - name: gumibattle/advice/jp/advice_004.imz
+    multi:
+      - name: gumibattle/advice/us/advice_004.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_004.imz
+  - name: gumibattle/advice/jp/advice_005.imz
+    multi:
+      - name: gumibattle/advice/us/advice_005.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_005.imz
+  - name: gumibattle/advice/jp/advice_006.imz
+    multi:
+      - name: gumibattle/advice/us/advice_006.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_006.imz
+  - name: gumibattle/advice/jp/advice_007.imz
+    multi:
+      - name: gumibattle/advice/us/advice_007.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_007.imz
+  - name: gumibattle/advice/jp/advice_008.imz
+    multi:
+      - name: gumibattle/advice/us/advice_008.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_008.imz
+  - name: gumibattle/advice/jp/advice_009.imz
+    multi:
+      - name: gumibattle/advice/us/advice_009.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_009.imz
+  - name: gumibattle/advice/jp/advice_010.imz
+    multi:
+      - name: gumibattle/advice/us/advice_010.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_010.imz
+  - name: gumibattle/advice/jp/advice_011.imz
+    multi:
+      - name: gumibattle/advice/us/advice_011.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_011.imz
+  - name: gumibattle/advice/jp/advice_012.imz
+    multi:
+      - name: gumibattle/advice/us/advice_012.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_012.imz
+  - name: gumibattle/advice/jp/advice_013.imz
+    multi:
+      - name: gumibattle/advice/us/advice_013.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_013.imz
+  - name: gumibattle/advice/jp/advice_014.imz
+    multi:
+      - name: gumibattle/advice/us/advice_014.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_014.imz
+  - name: gumibattle/advice/jp/advice_015.imz
+    multi:
+      - name: gumibattle/advice/us/advice_015.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_015.imz
+  - name: gumibattle/advice/jp/advice_016.imz
+    multi:
+      - name: gumibattle/advice/us/advice_016.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_016.imz
+  - name: gumibattle/advice/jp/advice_017.imz
+    multi:
+      - name: gumibattle/advice/us/advice_017.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_017.imz
+  - name: gumibattle/advice/jp/advice_018.imz
+    multi:
+      - name: gumibattle/advice/us/advice_018.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_018.imz
+  - name: gumibattle/advice/jp/advice_019.imz
+    multi:
+      - name: gumibattle/advice/us/advice_019.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_019.imz
+  - name: gumibattle/advice/jp/advice_020.imz
+    multi:
+      - name: gumibattle/advice/us/advice_020.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_020.imz
+  - name: gumibattle/advice/jp/advice_021.imz
+    multi:
+      - name: gumibattle/advice/us/advice_021.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_021.imz
+  - name: gumibattle/advice/jp/advice_030.imz
+    multi:
+      - name: gumibattle/advice/us/advice_030.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_030.imz
+  - name: gumibattle/advice/jp/advice_031.imz
+    multi:
+      - name: gumibattle/advice/us/advice_031.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_031.imz
+  - name: gumibattle/advice/jp/advice_032.imz
+    multi:
+      - name: gumibattle/advice/us/advice_032.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_032.imz
+  - name: gumibattle/advice/jp/advice_033.imz
+    multi:
+      - name: gumibattle/advice/us/advice_033.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_033.imz
+  - name: gumibattle/advice/jp/advice_034.imz
+    multi:
+      - name: gumibattle/advice/us/advice_034.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_034.imz
+  - name: gumibattle/advice/jp/advice_040.imz
+    multi:
+      - name: gumibattle/advice/us/advice_040.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_040.imz
+  - name: gumimenu/fm/gumimenu.bar
+    method: copy
+    source:
+      - name: gumimenu/gumimenu.bar
+  - name: gumimenu/fm/gumiedit.bar
+    method: copy
+    source:
+      - name: gumimenu/gumiedit.bar
+  #FM-Exclusive Cutscenes
+  - name: voice/fm/event/eh13650sr.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13650sr.vag
+  - name: voice/fm/event/eh13651rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13651rk.vag
+  - name: voice/fm/event/eh13652sr_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13652sr_1.vag
+  - name: voice/fm/event/eh13652sr_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13652sr_2.vag
+  - name: voice/fm/event/eh13653rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13653rk.vag
+  - name: voice/fm/event/eh13654sr.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13654sr.vag
+  - name: voice/fm/event/eh13655sr.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13655sr.vag
+  - name: voice/fm/event/eh13656rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh13656rk.vag
+  - name: voice/fm/event/eh50101x8_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50101x8_1.vag
+  - name: voice/fm/event/eh50101x8_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50101x8_2.vag
+  - name: voice/fm/event/eh50102x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50102x3.vag
+  - name: voice/fm/event/eh50103x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50103x8.vag
+  - name: voice/fm/event/eh50104x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50104x3.vag
+  - name: voice/fm/event/eh50105x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50105x8.vag
+  - name: voice/fm/event/eh50106x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50106x8.vag
+  - name: voice/fm/event/eh50201x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50201x3.vag
+  - name: voice/fm/event/eh50202x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50202x2.vag
+  - name: voice/fm/event/eh50203x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50203x7.vag
+  - name: voice/fm/event/eh50204x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50204x0.vag
+  - name: voice/fm/event/eh50205x9.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50205x9.vag
+  - name: voice/fm/event/eh50206x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50206x2.vag
+  - name: voice/fm/event/eh50207x9.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50207x9.vag
+  - name: voice/fm/event/eh50208x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50208x3.vag
+  - name: voice/fm/event/eh50209x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50209x0.vag
+  - name: voice/fm/event/eh50210x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50210x7.vag
+  - name: voice/fm/event/eh50211x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50211x1.vag
+  - name: voice/fm/event/eh50212x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50212x1.vag
+  - name: voice/fm/event/eh50301x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50301x7.vag
+  - name: voice/fm/event/eh50302x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50302x1.vag
+  - name: voice/fm/event/eh50303x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50303x1.vag
+  - name: voice/fm/event/eh50304x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50304x7.vag
+  - name: voice/fm/event/eh50305x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50305x1.vag
+  - name: voice/fm/event/eh50306x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50306x1.vag
+  - name: voice/fm/event/eh50307x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50307x1.vag
+  - name: voice/fm/event/eh50401x7_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50401x7_1.vag
+  - name: voice/fm/event/eh50401x7_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50401x7_2.vag
+  - name: voice/fm/event/eh50402x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50402x2.vag
+  - name: voice/fm/event/eh50403x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50403x0.vag
+  - name: voice/fm/event/eh50404x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50404x3.vag
+  - name: voice/fm/event/eh50405x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50405x0.vag
+  - name: voice/fm/event/eh50406x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50406x2.vag
+  - name: voice/fm/event/eh50407x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50407x1.vag
+  - name: voice/fm/event/eh50408x3.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50408x3.vag
+  - name: voice/fm/event/eh50501x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50501x2.vag
+  - name: voice/fm/event/eh50502x0.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50502x0.vag
+  - name: voice/fm/event/eh50503x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50503x2.vag
+  - name: voice/fm/event/eh50504x0_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50504x0_1.vag
+  - name: voice/fm/event/eh50504x0_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50504x0_2.vag
+  - name: voice/fm/event/eh50505x7.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50505x7.vag
+  - name: voice/fm/event/eh50506x7_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50506x7_1.vag
+  - name: voice/fm/event/eh50506x7_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50506x7_2.vag
+  - name: voice/fm/event/eh50507x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50507x1.vag
+  - name: voice/fm/event/eh50508x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50508x1.vag
+  - name: voice/fm/event/eh50601Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Ars.vag
+  - name: voice/fm/event/eh50601Brs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Brs.vag
+  - name: voice/fm/event/eh50601Crs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Crs.vag
+  - name: voice/fm/event/eh50601Drs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Drs.vag
+  - name: voice/fm/event/eh50601Ers.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Ers.vag
+  - name: voice/fm/event/eh50601Frk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Frk.vag
+  - name: voice/fm/event/eh50601Grk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Grk.vag
+  - name: voice/fm/event/eh50601Hrk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Hrk.vag
+  - name: voice/fm/event/eh50601Irk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Irk.vag
+  - name: voice/fm/event/eh50601Jrk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601Jrk.vag
+  - name: voice/fm/event/eh50601rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50601rs.vag
+  - name: voice/fm/event/eh50602rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50602rk.vag
+  - name: voice/fm/event/eh50603Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50603Ars.vag
+  - name: voice/fm/event/eh50603rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50603rs.vag
+  - name: voice/fm/event/eh50604Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50604Ars.vag
+  - name: voice/fm/event/eh50604rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50604rk.vag
+  - name: voice/fm/event/eh50605rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50605rs.vag
+  - name: voice/fm/event/eh50606rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50606rs.vag
+  - name: voice/fm/event/eh50607Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Ars.vag
+  - name: voice/fm/event/eh50607Brs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Brs.vag
+  - name: voice/fm/event/eh50607Crs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Crs.vag
+  - name: voice/fm/event/eh50607Drs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Drs.vag
+  - name: voice/fm/event/eh50607Erk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Erk.vag
+  - name: voice/fm/event/eh50607Frk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Frk.vag
+  - name: voice/fm/event/eh50607Grk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607Grk.vag
+  - name: voice/fm/event/eh50607rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50607rs.vag
+  - name: voice/fm/event/eh50608rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50608rk.vag
+  - name: voice/fm/event/eh50609rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50609rs.vag
+  - name: voice/fm/event/eh50610rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50610rk.vag
+  - name: voice/fm/event/eh50610rk_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50610rk_1.vag
+  - name: voice/fm/event/eh50610rk_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50610rk_2.vag
+  - name: voice/fm/event/eh50611rk.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50611rk.vag
+  - name: voice/fm/event/eh50612Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50612Ars.vag
+  - name: voice/fm/event/eh50612Brs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50612Brs.vag
+  - name: voice/fm/event/eh50612rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50612rs.vag
+  - name: voice/fm/event/eh50613an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50613an.vag
+  - name: voice/fm/event/eh50614an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50614an.vag
+  - name: voice/fm/event/eh50615dz_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50615dz_1.vag
+  - name: voice/fm/event/eh50615dz_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50615dz_2.vag
+  - name: voice/fm/event/eh50616an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50616an.vag
+  - name: voice/fm/event/eh50701x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50701x4.vag
+  - name: voice/fm/event/eh50702x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50702x6.vag
+  - name: voice/fm/event/eh50703x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50703x4.vag
+  - name: voice/fm/event/eh50704x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50704x6.vag
+  - name: voice/fm/event/eh50705x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50705x4.vag
+  - name: voice/fm/event/eh50706x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50706x6.vag
+  - name: voice/fm/event/eh50707x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50707x4.vag
+  - name: voice/fm/event/eh50708x4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50708x4.vag
+  - name: voice/fm/event/eh50709Ax4.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50709Ax4.vag
+  - name: voice/fm/event/eh50709x2_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50709x2_1.vag
+  - name: voice/fm/event/eh50709x2_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50709x2_2.vag
+  - name: voice/fm/event/eh50710x6_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50710x6_1.vag
+  - name: voice/fm/event/eh50710x6_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50710x6_2.vag
+  - name: voice/fm/event/eh50711x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50711x2.vag
+  - name: voice/fm/event/eh50712x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50712x6.vag
+  - name: voice/fm/event/eh50713x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50713x2.vag
+  - name: voice/fm/event/eh50714x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50714x2.vag
+  - name: voice/fm/event/eh50715x2_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50715x2_1.vag
+  - name: voice/fm/event/eh50715x2_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50715x2_2.vag
+  - name: voice/fm/event/eh50716x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50716x6.vag
+  - name: voice/fm/event/eh50717x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50717x2.vag
+  - name: voice/fm/event/eh50718x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50718x2.vag
+  - name: voice/fm/event/eh50719x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50719x6.vag
+  - name: voice/fm/event/eh50720x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50720x2.vag
+  - name: voice/fm/event/eh50721x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50721x6.vag
+  - name: voice/fm/event/eh50722x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50722x2.vag
+  - name: voice/fm/event/eh50723x6.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50723x6.vag
+  - name: voice/fm/event/eh50724x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50724x2.vag
+  - name: voice/fm/event/eh50725x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50725x2.vag
+  - name: voice/fm/event/eh50726x2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/eh50726x2.vag
+  - name: voice/fm/event/hb70101x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70101x1.vag
+  - name: voice/fm/event/hb70102xn.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70102xn.vag
+  - name: voice/fm/event/hb70103dz.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70103dz.vag
+  - name: voice/fm/event/hb70104xn.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70104xn.vag
+  - name: voice/fm/event/hb70105dz.vag
+    method: copy
+    source:
+      - name: voice/fm/event/hb70105dz.vag
+  - name: voice/fm/event/tt05101x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05101x1.vag
+  - name: voice/fm/event/tt05102x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05102x1.vag
+  - name: voice/fm/event/tt05103x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05103x1.vag
+  - name: voice/fm/event/tt05104rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05104rs.vag
+  - name: voice/fm/event/tt05105x1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05105x1.vag
+  - name: voice/fm/event/tt05201x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05201x8.vag
+  - name: voice/fm/event/tt05202an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05202an.vag
+  - name: voice/fm/event/tt05203x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05203x8.vag
+  - name: voice/fm/event/tt05204x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05204x8.vag
+  - name: voice/fm/event/tt05205na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05205na.vag
+  - name: voice/fm/event/tt05206na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05206na.vag
+  - name: voice/fm/event/tt05207x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05207x8.vag
+  - name: voice/fm/event/tt05208x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05208x8.vag
+  - name: voice/fm/event/tt05209na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05209na.vag
+  - name: voice/fm/event/tt05210an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05210an.vag
+  - name: voice/fm/event/tt05211x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05211x8.vag
+  - name: voice/fm/event/tt05212an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05212an.vag
+  - name: voice/fm/event/tt05213na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05213na.vag
+  - name: voice/fm/event/tt05214an.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05214an.vag
+  - name: voice/fm/event/tt05215x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05215x8.vag
+  - name: voice/fm/event/tt05216na.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05216na.vag
+  - name: voice/fm/event/tt05301x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05301x8.vag
+  - name: voice/fm/event/tt05302rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05302rs.vag
+  - name: voice/fm/event/tt05303rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05303rs.vag
+  - name: voice/fm/event/tt05304x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05304x8.vag
+  - name: voice/fm/event/tt05305rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05305rs.vag
+  - name: voice/fm/event/tt05306x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05306x8.vag
+  - name: voice/fm/event/tt05307rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05307rs.vag
+  - name: voice/fm/event/tt05308x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05308x8.vag
+  - name: voice/fm/event/tt05309rs_1.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05309rs_1.vag
+  - name: voice/fm/event/tt05309rs_2.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05309rs_2.vag
+  - name: voice/fm/event/tt05310x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05310x8.vag
+  - name: voice/fm/event/tt05311rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05311rs.vag
+  - name: voice/fm/event/tt05312x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05312x8.vag
+  - name: voice/fm/event/tt05313Ars.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05313Ars.vag
+  - name: voice/fm/event/tt05313Brs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05313Brs.vag
+  - name: voice/fm/event/tt05313x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05313x8.vag
+  - name: voice/fm/event/tt05314rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05314rs.vag
+  - name: voice/fm/event/tt05315x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05315x8.vag
+  - name: voice/fm/event/tt05316rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05316rs.vag
+  - name: voice/fm/event/tt05317x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05317x8.vag
+  - name: voice/fm/event/tt05318rs.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05318rs.vag
+  - name: voice/fm/event/tt05319x8.vag
+    method: copy
+    source:
+      - name: voice/fm/event/tt05319x8.vag

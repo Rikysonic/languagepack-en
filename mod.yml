@@ -332,3 +332,124 @@ assets:
         method: imgd
         source:
           - name: menu/sw_020_s.png
+  #Gummi Tutorial Slides
+  - name: gumibattle/advice/us/advice_000.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_000.imz
+  - name: gumibattle/advice/us/advice_001.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_001.imz
+  - name: gumibattle/advice/us/advice_002.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_002.imz
+  - name: gumibattle/advice/us/advice_003.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_003.imz
+  - name: gumibattle/advice/us/advice_004.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_004.imz
+  - name: gumibattle/advice/us/advice_005.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_005.imz
+  - name: gumibattle/advice/us/advice_006.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_006.imz
+  - name: gumibattle/advice/us/advice_007.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_007.imz
+  - name: gumibattle/advice/us/advice_008.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_008.imz
+  - name: gumibattle/advice/us/advice_009.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_009.imz
+  - name: gumibattle/advice/us/advice_010.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_010.imz
+  - name: gumibattle/advice/us/advice_011.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_011.imz
+  - name: gumibattle/advice/us/advice_012.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_012.imz
+  - name: gumibattle/advice/us/advice_013.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_013.imz
+  - name: gumibattle/advice/us/advice_014.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_014.imz
+  - name: gumibattle/advice/us/advice_015.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_015.imz
+  - name: gumibattle/advice/us/advice_016.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_016.imz
+  - name: gumibattle/advice/us/advice_017.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_017.imz
+  - name: gumibattle/advice/us/advice_018.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_018.imz
+  - name: gumibattle/advice/us/advice_019.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_019.imz
+  - name: gumibattle/advice/us/advice_020.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_020.imz
+  - name: gumibattle/advice/us/advice_021.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_021.imz
+  - name: gumibattle/advice/us/advice_030.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_030.imz
+  - name: gumibattle/advice/us/advice_031.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_031.imz
+  - name: gumibattle/advice/us/advice_032.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_032.imz
+  - name: gumibattle/advice/us/advice_033.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_033.imz
+  - name: gumibattle/advice/us/advice_034.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_034.imz
+  - name: gumibattle/advice/us/advice_040.imz
+    method: copy
+    source:
+      - name: gumibattle/advice_040.imz
+  - name: gumimenu/fm/gumimenu.bar
+    method: copy
+    source:
+      - name: gumimenu/gumimenu.bar
+  - name: gumimenu/fm/gumiedit.bar
+    method: copy
+    source:
+      - name: gumimenu/gumiedit.bar

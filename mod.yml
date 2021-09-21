@@ -1,7 +1,7 @@
 title: English language pack
 game: kh2
 originalAuthor: OpenKH open-source assets
-description: Generate English game files. This mod is mainly useful to translate your PlayStation 2 copy of Kingdom Hearts II from any language to English.
+description: Generate English game files. This mod is mainly useful to translate your PlayStation 2 copy of Kingdom Hearts II from any language to English. It is now compatible with both US and JP regions, just set the preferred one in OpenKH wizard.
 assets:
   #Fonts
   - name: msg/us/fontimage.bar
@@ -12,7 +12,15 @@ assets:
     method: copy
     source:
       - name: msg/fontinfo.bar
-  #Texts
+  - name: msg/jp/fontimage.bar
+    method: copy
+    source:
+      - name: msg/jp/fontimage.bar
+  - name: msg/jp/fontinfo.bar
+    method: copy
+    source:
+      - name: msg/jp/fontinfo.bar
+#Texts (US only)
   - name: msg/us/sys.bar
     method: binarc
     source:
@@ -321,6 +329,205 @@ assets:
         method: imgd
         source:
           - name: msg/md_m/wm.png
+  #Texts (JP Only)
+  - name: msg/jp/sys.bar
+    method: binarc
+    source:
+      - name: sys
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/jp/sys.yml
+            language: en
+  - name: msg/jp/title.bar
+    method: binarc
+    source:
+      - name: title
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/title.yml
+            language: en
+  - name: msg/jp/al.bar
+    method: binarc
+    source:
+      - name: al
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/al.yml
+            language: en
+  - name: msg/jp/bb.bar
+    method: binarc
+    source:
+      - name: bb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/bb.yml
+            language: en
+  - name: msg/jp/ca.bar
+    method: binarc
+    source:
+      - name: ca
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/ca.yml
+            language: en
+  - name: msg/jp/dc.bar
+    method: binarc
+    source:
+      - name: dc
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/dc.yml
+            language: en
+  - name: msg/jp/di.bar
+    method: binarc
+    source:
+      - name: di
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/di.yml
+            language: en
+  - name: msg/jp/eh.bar
+    method: binarc
+    source:
+      - name: eh
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/eh.yml
+            language: en
+  - name: msg/jp/es.bar
+    method: binarc
+    source:
+      - name: es
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/es.yml
+            language: en
+  - name: msg/jp/gumi.bar
+    method: binarc
+    source:
+      - name: gumi
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/gumi.yml
+            language: en
+  - name: msg/jp/hb.bar
+    method: binarc
+    source:
+      - name: hb
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/hb.yml
+            language: en
+  - name: msg/jp/he.bar
+    method: binarc
+    source:
+      - name: he
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/he.yml
+            language: en
+  - name: msg/jp/jm.bar
+    method: binarc
+    source:
+      - name: jm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/jm.yml
+            language: en
+  - name: msg/jp/lk.bar
+    method: binarc
+    source:
+      - name: lk
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lk.yml
+            language: en
+  - name: msg/jp/lm.bar
+    method: binarc
+    source:
+      - name: lm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/lm.yml
+            language: en
+  - name: msg/jp/mu.bar
+    method: binarc
+    source:
+      - name: mu
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/mu.yml
+            language: en
+  - name: msg/jp/nm.bar
+    method: binarc
+    source:
+      - name: nm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/nm.yml
+            language: en
+  - name: msg/jp/po.bar
+    method: binarc
+    source:
+      - name: po
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/po.yml
+            language: en
+  - name: msg/jp/tr.bar
+    method: binarc
+    source:
+      - name: tr
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tr.yml
+            language: en
+  - name: msg/jp/tt.bar
+    method: binarc
+    source:
+      - name: tt
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/tt.yml
+            language: en
+  - name: msg/jp/wi.bar
+    method: binarc
+    source:
+      - name: wi
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/wi.yml
+            language: en
+  - name: msg/jp/wm.bar
+    method: binarc
+    source:
+      - name: wm
+        type: list
+        method: kh2msg
+        source:
+          - name: msg/wm.yml
+            language: en
   #Menu Tutorial Slides
   - name: menu/fm/ab_010_o.bar
     method: binarc
@@ -443,115 +650,171 @@ assets:
         source:
           - name: menu/sw_020_s.png
   #Gummi Tutorial Slides
-  - name: gumibattle/advice/us/advice_000.imz
+  - name: gumibattle/advice/jp/advice_000.imz
+    multi:
+      - name: gumibattle/advice/us/advice_000.imz
     method: copy
     source:
       - name: gumibattle/advice_000.imz
-  - name: gumibattle/advice/us/advice_001.imz
+  - name: gumibattle/advice/jp/advice_001.imz
+    multi:
+      - name: gumibattle/advice/us/advice_001.imz
     method: copy
     source:
       - name: gumibattle/advice_001.imz
-  - name: gumibattle/advice/us/advice_002.imz
+  - name: gumibattle/advice/jp/advice_002.imz
+    multi:
+      - name: gumibattle/advice/us/advice_002.imz
     method: copy
     source:
       - name: gumibattle/advice_002.imz
-  - name: gumibattle/advice/us/advice_003.imz
+  - name: gumibattle/advice/jp/advice_003.imz
+    multi:
+      - name: gumibattle/advice/us/advice_003.imz
     method: copy
     source:
       - name: gumibattle/advice_003.imz
-  - name: gumibattle/advice/us/advice_004.imz
+  - name: gumibattle/advice/jp/advice_004.imz
+    multi:
+      - name: gumibattle/advice/us/advice_004.imz
     method: copy
     source:
       - name: gumibattle/advice_004.imz
-  - name: gumibattle/advice/us/advice_005.imz
+  - name: gumibattle/advice/jp/advice_005.imz
+    multi:
+      - name: gumibattle/advice/us/advice_005.imz
     method: copy
     source:
       - name: gumibattle/advice_005.imz
-  - name: gumibattle/advice/us/advice_006.imz
+  - name: gumibattle/advice/jp/advice_006.imz
+    multi:
+      - name: gumibattle/advice/us/advice_006.imz
     method: copy
     source:
       - name: gumibattle/advice_006.imz
-  - name: gumibattle/advice/us/advice_007.imz
+  - name: gumibattle/advice/jp/advice_007.imz
+    multi:
+      - name: gumibattle/advice/us/advice_007.imz
     method: copy
     source:
       - name: gumibattle/advice_007.imz
-  - name: gumibattle/advice/us/advice_008.imz
+  - name: gumibattle/advice/jp/advice_008.imz
+    multi:
+      - name: gumibattle/advice/us/advice_008.imz
     method: copy
     source:
       - name: gumibattle/advice_008.imz
-  - name: gumibattle/advice/us/advice_009.imz
+  - name: gumibattle/advice/jp/advice_009.imz
+    multi:
+      - name: gumibattle/advice/us/advice_009.imz
     method: copy
     source:
       - name: gumibattle/advice_009.imz
-  - name: gumibattle/advice/us/advice_010.imz
+  - name: gumibattle/advice/jp/advice_010.imz
+    multi:
+      - name: gumibattle/advice/us/advice_010.imz
     method: copy
     source:
       - name: gumibattle/advice_010.imz
-  - name: gumibattle/advice/us/advice_011.imz
+  - name: gumibattle/advice/jp/advice_011.imz
+    multi:
+      - name: gumibattle/advice/us/advice_011.imz
     method: copy
     source:
       - name: gumibattle/advice_011.imz
-  - name: gumibattle/advice/us/advice_012.imz
+  - name: gumibattle/advice/jp/advice_012.imz
+    multi:
+      - name: gumibattle/advice/us/advice_012.imz
     method: copy
     source:
       - name: gumibattle/advice_012.imz
-  - name: gumibattle/advice/us/advice_013.imz
+  - name: gumibattle/advice/jp/advice_013.imz
+    multi:
+      - name: gumibattle/advice/us/advice_013.imz
     method: copy
     source:
       - name: gumibattle/advice_013.imz
-  - name: gumibattle/advice/us/advice_014.imz
+  - name: gumibattle/advice/jp/advice_014.imz
+    multi:
+      - name: gumibattle/advice/us/advice_014.imz
     method: copy
     source:
       - name: gumibattle/advice_014.imz
-  - name: gumibattle/advice/us/advice_015.imz
+  - name: gumibattle/advice/jp/advice_015.imz
+    multi:
+      - name: gumibattle/advice/us/advice_015.imz
     method: copy
     source:
       - name: gumibattle/advice_015.imz
-  - name: gumibattle/advice/us/advice_016.imz
+  - name: gumibattle/advice/jp/advice_016.imz
+    multi:
+      - name: gumibattle/advice/us/advice_016.imz
     method: copy
     source:
       - name: gumibattle/advice_016.imz
-  - name: gumibattle/advice/us/advice_017.imz
+  - name: gumibattle/advice/jp/advice_017.imz
+    multi:
+      - name: gumibattle/advice/us/advice_017.imz
     method: copy
     source:
       - name: gumibattle/advice_017.imz
-  - name: gumibattle/advice/us/advice_018.imz
+  - name: gumibattle/advice/jp/advice_018.imz
+    multi:
+      - name: gumibattle/advice/us/advice_018.imz
     method: copy
     source:
       - name: gumibattle/advice_018.imz
-  - name: gumibattle/advice/us/advice_019.imz
+  - name: gumibattle/advice/jp/advice_019.imz
+    multi:
+      - name: gumibattle/advice/us/advice_019.imz
     method: copy
     source:
       - name: gumibattle/advice_019.imz
-  - name: gumibattle/advice/us/advice_020.imz
+  - name: gumibattle/advice/jp/advice_020.imz
+    multi:
+      - name: gumibattle/advice/us/advice_020.imz
     method: copy
     source:
       - name: gumibattle/advice_020.imz
-  - name: gumibattle/advice/us/advice_021.imz
+  - name: gumibattle/advice/jp/advice_021.imz
+    multi:
+      - name: gumibattle/advice/us/advice_021.imz
     method: copy
     source:
       - name: gumibattle/advice_021.imz
-  - name: gumibattle/advice/us/advice_030.imz
+  - name: gumibattle/advice/jp/advice_030.imz
+    multi:
+      - name: gumibattle/advice/us/advice_030.imz
     method: copy
     source:
       - name: gumibattle/advice_030.imz
-  - name: gumibattle/advice/us/advice_031.imz
+  - name: gumibattle/advice/jp/advice_031.imz
+    multi:
+      - name: gumibattle/advice/us/advice_031.imz
     method: copy
     source:
       - name: gumibattle/advice_031.imz
-  - name: gumibattle/advice/us/advice_032.imz
+  - name: gumibattle/advice/jp/advice_032.imz
+    multi:
+      - name: gumibattle/advice/us/advice_032.imz
     method: copy
     source:
       - name: gumibattle/advice_032.imz
-  - name: gumibattle/advice/us/advice_033.imz
+  - name: gumibattle/advice/jp/advice_033.imz
+    multi:
+      - name: gumibattle/advice/us/advice_033.imz
     method: copy
     source:
       - name: gumibattle/advice_033.imz
-  - name: gumibattle/advice/us/advice_034.imz
+  - name: gumibattle/advice/jp/advice_034.imz
+    multi:
+      - name: gumibattle/advice/us/advice_034.imz
     method: copy
     source:
       - name: gumibattle/advice_034.imz
-  - name: gumibattle/advice/us/advice_040.imz
+  - name: gumibattle/advice/jp/advice_040.imz
+    multi:
+      - name: gumibattle/advice/us/advice_040.imz
     method: copy
     source:
       - name: gumibattle/advice_040.imz

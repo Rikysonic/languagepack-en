@@ -1666,7 +1666,7 @@ assets:
         type: imgz
         method: copy
         source:
-          - name: menu/lm_telop.imz
+          - name: lm_telop.imz
   #FM-Exclusive Cutscenes' VA
   - name: voice/fm/event/eh13650sr.vag
     method: copy

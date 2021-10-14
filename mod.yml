@@ -20,7 +20,7 @@ assets:
     method: copy
     source:
       - name: msg/jp/fontinfo.bar
-#Texts (US only)
+  #Texts (US only)
   - name: msg/us/sys.bar
     method: binarc
     source:
@@ -38,7 +38,7 @@ assets:
   - name: msg/us/title.bar
     method: binarc
     source:
-      - name: title
+      - name: titl
         type: list
         method: kh2msg
         source:
@@ -342,7 +342,7 @@ assets:
   - name: msg/jp/title.bar
     method: binarc
     source:
-      - name: title
+      - name: titl
         type: list
         method: kh2msg
         source:
@@ -528,6 +528,894 @@ assets:
         source:
           - name: msg/wm.yml
             language: en
+  #Mission Texts
+  - name: msn/jp/AL00_SKATE_01.bar
+    method: binarc
+    source:
+      - name: sk8_
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/AL00_SKATE_01.png
+  - name: msn/jp/AL14_MS_K.bar
+    method: binarc
+    source:
+      - name: gh_a
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/AL14_MS_K.png
+  - name: msn/jp/BB12_GIMMICK.bar
+    method: binarc
+    source:
+      - name: gg_b
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/BB12_GIMMICK.png
+  - name: msn/jp/CA02_SKATE_01.bar
+    method: binarc
+    source:
+      - name: sk8_
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/CA02_SKATE_01.png
+  - name: msn/jp/EH14_MS103.bar
+    method: binarc
+    source:
+      - name: gh_e
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/EH14_MS103.png
+  - name: msn/jp/HB09_SKATE_01.bar
+    method: binarc
+    source:
+      - name: sk8_
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HB09_SKATE_01.png
+  - name: msn/jp/HE_COL_1_8.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM.png
+  - name: msn/jp/HE_COL_1_10.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM.png
+  - name: msn/jp/HE_COL_2_10.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_2.png
+  - name: msn/jp/HE_COL_4_1.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_2.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_3.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_4.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_5.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_6.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_7.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_8.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_9.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_4_10.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_4.png
+  - name: msn/jp/HE_COL_5.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_5.png
+  - name: msn/jp/HE_COL_5_8.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_5.png
+  - name: msn/jp/HE_COL_5_10.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_5.png
+  - name: msn/jp/HE_COL_6_10.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_6.png
+  - name: msn/jp/HE_COL_8_5.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_6.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_10.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_25.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_30.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_31.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_35.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_40.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_45.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_49.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8_50.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8PP_BOSS.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COL_8TI_BOSS.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COLOSSEUM.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM.png
+  - name: msn/jp/HE_COLOSSEUM_2.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_2.png
+  - name: msn/jp/HE_COLOSSEUM_2_FOG.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_2.png
+  - name: msn/jp/HE_COLOSSEUM_3.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_3.png
+  - name: msn/jp/HE_COLOSSEUM_6.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_6.png
+  - name: msn/jp/HE_COLOSSEUM_6_FOG.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_6.png
+  - name: msn/jp/HE_COLOSSEUM_7.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_7.png
+  - name: msn/jp/HE_COLOSSEUM_8.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COLOSSEUM_8_CEL.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COLOSSEUM_8_ONLY.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COLOSSEUM_8_PP.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE_COLOSSEUM_8_TIT.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE_COLOSSEUM_8.png
+  - name: msn/jp/HE00_MS104A.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE00_MS104.png
+  - name: msn/jp/HE00_MS104B.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE00_MS104.png
+  - name: msn/jp/HE02_MS104D.bar
+    method: binarc
+    source:
+      - name: gh_h
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/HE00_MS104.png
+  - name: msn/jp/LM01_MS201.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM01_MS201.png
+  - name: msn/jp/LM01_MS201_FREE.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM01_MS201.png
+  - name: msn/jp/LM02_MS102.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM02_MS102.png
+  - name: msn/jp/LM03_MS301.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM03_MS301.png
+  - name: msn/jp/LM03_MS301_FREE.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM03_MS301.png
+  - name: msn/jp/LM04_MS103.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM04_MS103.png
+  - name: msn/jp/LM04_MS103_FREE.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM04_MS103.png
+  - name: msn/jp/LM04_MS501.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM04_MS501.png
+  - name: msn/jp/LM04_MS501_FREE.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM04_MS501.png
+  - name: msn/jp/LM09_MS401.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM09_MS401.png
+  - name: msn/jp/LM09_MS401_FREE.bar
+    method: binarc
+    source:
+      - name: gh_l
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/LM09_MS401.png
+  - name: msn/jp/MU01_MS102.bar
+    method: binarc
+    source:
+      - name: gg_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/MU01_MS102.png
+  - name: msn/jp/MU01_MS103C.bar
+    method: binarc
+    source:
+      - name: gg_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/MU01_MS102.png
+  - name: msn/jp/MU02_MS103A.bar
+    method: binarc
+    source:
+      - name: gg_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/MU01_MS102.png
+  - name: msn/jp/MU02_MS103B.bar
+    method: binarc
+    source:
+      - name: gg_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/MU01_MS102.png
+  - name: msn/jp/MU03_MS104.bar
+    method: binarc
+    source:
+      - name: gg_m
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/MU01_MS102.png
+  - name: msn/jp/NM09_SKATE_01.bar
+    method: binarc
+    source:
+      - name: sk8_
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/NM09_SKATE_01.png
+  - name: msn/jp/NM10_MS203.bar
+    method: binarc
+    source:
+      - name: gh_n
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/NM10_MS203.png
+  - name: msn/jp/NM10_MS203_FREE.bar
+    method: binarc
+    source:
+      - name: gh_n
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/NM10_MS203.png
+  - name: msn/jp/PO01_MS501.bar
+    method: binarc
+    source:
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO01_MS501.png
+  - name: msn/jp/PO01_MS501_FREE.bar
+    method: binarc
+    source:
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO01_MS501_FREE.png
+  - name: msn/jp/PO06_MS101.bar
+    method: binarc
+    source:
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO06_MS101.png
+  - name: msn/jp/PO06_MS101_FREE.bar
+    method: binarc
+    source:
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO06_MS101_FREE.png
+  - name: msn/jp/PO07_MS201.bar
+    method: binarc
+    source:
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO07_MS201.png
+  - name: msn/jp/PO07_MS201_FREE.bar
+    method: binarc
+    source:
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO07_MS201_FREE.png
+  - name: msn/jp/PO08_MS301.bar
+    method: binarc
+    source:
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO08_MS301.png
+  - name: msn/jp/PO08_MS301_FREE.bar #Still needs to fix ct_p (REST -> TRIES)
+    method: binarc
+    source:
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO08_MS301_FREE.png
+      - name: ct_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO08_MS301_FREE_2.png
+  - name: msn/jp/PO09_MS401.bar
+    method: binarc
+    source:
+      - name: gg_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO09_MS401_2.png
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO09_MS401.png
+  - name: msn/jp/PO09_MS401_FREE.bar
+    method: binarc
+    source:
+      - name: gg_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO09_MS401_2.png
+      - name: gh_p
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/PO09_MS401.png
+  - name: msn/jp/TR02_MS102_FREE.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TR02_MS102.png
+  - name: msn/jp/TR02_MS102A.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TR02_MS102.png
+  - name: msn/jp/TR02_MS102B.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TR02_MS102.png
+  - name: msn/jp/TT04_MS00.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT05_MS401.png
+  - name: msn/jp/TT04_MS01.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT05_MS401.png
+  - name: msn/jp/TT04_MS02.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT05_MS401.png
+  - name: msn/jp/TT05_MS401.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT05_MS401.png
+  - name: msn/jp/TT05_MS402.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT05_MS401.png
+  - name: msn/jp/TT05_MS405.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT05_MS401.png
+  - name: msn/jp/TT06_BAGGAGE_01.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_BAGGAGE.png
+  - name: msn/jp/TT06_BAGGAGE_02.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_BAGGAGE.png
+  - name: msn/jp/TT06_LETTER_01.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_LETTER.png
+  - name: msn/jp/TT06_LETTER_02.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_LETTER.png
+  - name: msn/jp/TT06_PERFORM_01.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_PERFORM.png
+  - name: msn/jp/TT06_PERFORM_02.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_PERFORM.png
+  - name: msn/jp/TT06_WORK_BAGGAGE.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_BAGGAGE.png
+  - name: msn/jp/TT06_WORK_LETTER.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_LETTER.png
+  - name: msn/jp/TT06_WORK_PERFORM.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT06_PERFORM.png
+  - name: msn/jp/TT07_CLEAN_01.bar #Still needs to fix ct_t (COUNT -> SWING)
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_CLEAN.png
+  - name: msn/jp/TT07_CLEAN_02.bar #Still needs to fix ct_t (COUNT -> SWING)
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_CLEAN.png
+  - name: msn/jp/TT07_POSTER_01.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_POSTER.png
+  - name: msn/jp/TT07_POSTER_02.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_POSTER.png
+  - name: msn/jp/TT07_SKATE_01.bar #Still needs to fix ct_e (REST -> TRIES)
+    method: binarc
+    source:
+      - name: sk8_
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_SKATE_01.png
+  - name: msn/jp/TT07_WORK_CLEAN.bar #Still needs to fix ct_t (COUNT -> SWING)
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_CLEAN.png
+  - name: msn/jp/TT07_WORK_POSTER.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_POSTER.png
+  - name: msn/jp/TT07_WORK_WORM.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_WORM.png
+  - name: msn/jp/TT07_WORM_01.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_WORM.png
+  - name: msn/jp/TT07_WORM_02.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT07_WORM.png
+  - name: msn/jp/TT12_WORK_BOX.bar
+    method: binarc
+    source:
+      - name: gh_t
+        type: imgd
+        method: imgd
+        source:
+          - name: msn/TT12_WORK_BOX.png
   #Menu Tutorial Slides
   - name: menu/fm/ab_010_o.bar
     method: binarc
@@ -651,170 +1539,114 @@ assets:
           - name: menu/sw_020_s.png
   #Gummi Tutorial Slides
   - name: gumibattle/advice/jp/advice_000.imz
-    multi:
-      - name: gumibattle/advice/us/advice_000.imz
     method: copy
     source:
       - name: gumibattle/advice_000.imz
   - name: gumibattle/advice/jp/advice_001.imz
-    multi:
-      - name: gumibattle/advice/us/advice_001.imz
     method: copy
     source:
       - name: gumibattle/advice_001.imz
   - name: gumibattle/advice/jp/advice_002.imz
-    multi:
-      - name: gumibattle/advice/us/advice_002.imz
     method: copy
     source:
       - name: gumibattle/advice_002.imz
   - name: gumibattle/advice/jp/advice_003.imz
-    multi:
-      - name: gumibattle/advice/us/advice_003.imz
     method: copy
     source:
       - name: gumibattle/advice_003.imz
   - name: gumibattle/advice/jp/advice_004.imz
-    multi:
-      - name: gumibattle/advice/us/advice_004.imz
     method: copy
     source:
       - name: gumibattle/advice_004.imz
   - name: gumibattle/advice/jp/advice_005.imz
-    multi:
-      - name: gumibattle/advice/us/advice_005.imz
     method: copy
     source:
       - name: gumibattle/advice_005.imz
   - name: gumibattle/advice/jp/advice_006.imz
-    multi:
-      - name: gumibattle/advice/us/advice_006.imz
     method: copy
     source:
       - name: gumibattle/advice_006.imz
   - name: gumibattle/advice/jp/advice_007.imz
-    multi:
-      - name: gumibattle/advice/us/advice_007.imz
     method: copy
     source:
       - name: gumibattle/advice_007.imz
   - name: gumibattle/advice/jp/advice_008.imz
-    multi:
-      - name: gumibattle/advice/us/advice_008.imz
     method: copy
     source:
       - name: gumibattle/advice_008.imz
   - name: gumibattle/advice/jp/advice_009.imz
-    multi:
-      - name: gumibattle/advice/us/advice_009.imz
     method: copy
     source:
       - name: gumibattle/advice_009.imz
   - name: gumibattle/advice/jp/advice_010.imz
-    multi:
-      - name: gumibattle/advice/us/advice_010.imz
     method: copy
     source:
       - name: gumibattle/advice_010.imz
   - name: gumibattle/advice/jp/advice_011.imz
-    multi:
-      - name: gumibattle/advice/us/advice_011.imz
     method: copy
     source:
       - name: gumibattle/advice_011.imz
   - name: gumibattle/advice/jp/advice_012.imz
-    multi:
-      - name: gumibattle/advice/us/advice_012.imz
     method: copy
     source:
       - name: gumibattle/advice_012.imz
   - name: gumibattle/advice/jp/advice_013.imz
-    multi:
-      - name: gumibattle/advice/us/advice_013.imz
     method: copy
     source:
       - name: gumibattle/advice_013.imz
   - name: gumibattle/advice/jp/advice_014.imz
-    multi:
-      - name: gumibattle/advice/us/advice_014.imz
     method: copy
     source:
       - name: gumibattle/advice_014.imz
   - name: gumibattle/advice/jp/advice_015.imz
-    multi:
-      - name: gumibattle/advice/us/advice_015.imz
     method: copy
     source:
       - name: gumibattle/advice_015.imz
   - name: gumibattle/advice/jp/advice_016.imz
-    multi:
-      - name: gumibattle/advice/us/advice_016.imz
     method: copy
     source:
       - name: gumibattle/advice_016.imz
   - name: gumibattle/advice/jp/advice_017.imz
-    multi:
-      - name: gumibattle/advice/us/advice_017.imz
     method: copy
     source:
       - name: gumibattle/advice_017.imz
   - name: gumibattle/advice/jp/advice_018.imz
-    multi:
-      - name: gumibattle/advice/us/advice_018.imz
     method: copy
     source:
       - name: gumibattle/advice_018.imz
   - name: gumibattle/advice/jp/advice_019.imz
-    multi:
-      - name: gumibattle/advice/us/advice_019.imz
     method: copy
     source:
       - name: gumibattle/advice_019.imz
   - name: gumibattle/advice/jp/advice_020.imz
-    multi:
-      - name: gumibattle/advice/us/advice_020.imz
     method: copy
     source:
       - name: gumibattle/advice_020.imz
   - name: gumibattle/advice/jp/advice_021.imz
-    multi:
-      - name: gumibattle/advice/us/advice_021.imz
     method: copy
     source:
       - name: gumibattle/advice_021.imz
   - name: gumibattle/advice/jp/advice_030.imz
-    multi:
-      - name: gumibattle/advice/us/advice_030.imz
     method: copy
     source:
       - name: gumibattle/advice_030.imz
   - name: gumibattle/advice/jp/advice_031.imz
-    multi:
-      - name: gumibattle/advice/us/advice_031.imz
     method: copy
     source:
       - name: gumibattle/advice_031.imz
   - name: gumibattle/advice/jp/advice_032.imz
-    multi:
-      - name: gumibattle/advice/us/advice_032.imz
     method: copy
     source:
       - name: gumibattle/advice_032.imz
   - name: gumibattle/advice/jp/advice_033.imz
-    multi:
-      - name: gumibattle/advice/us/advice_033.imz
     method: copy
     source:
       - name: gumibattle/advice_033.imz
   - name: gumibattle/advice/jp/advice_034.imz
-    multi:
-      - name: gumibattle/advice/us/advice_034.imz
     method: copy
     source:
       - name: gumibattle/advice_034.imz
   - name: gumibattle/advice/jp/advice_040.imz
-    multi:
-      - name: gumibattle/advice/us/advice_040.imz
     method: copy
     source:
       - name: gumibattle/advice_040.imz
@@ -826,7 +1658,16 @@ assets:
     method: copy
     source:
       - name: gumimenu/gumiedit.bar
-  #FM-Exclusive Cutscenes
+  #Other Texts
+  - name: event/layout/jp/lm_telop.2ld
+    method: binarc
+    source:
+      - name: lm_t
+        type: imgz
+        method: copy
+        source:
+          - name: lm_telop.imz
+  #FM-Exclusive Cutscenes' VA
   - name: voice/fm/event/eh13650sr.vag
     method: copy
     source:

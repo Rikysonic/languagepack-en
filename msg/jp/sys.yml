@@ -1954,7 +1954,7 @@
   en: Return to the title screen.
 - id: 2697
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Checking storage for save data...
@@ -1968,25 +1968,25 @@
     will be lost. Proceed?
 - id: 2699
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Failed to save.
 - id: 2700
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Failed to check storage.
 - id: 2701
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Failed to load save data.
 - id: 2702
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     MEMORY CARD in slot {:unk0d }
@@ -1994,43 +1994,43 @@
     is not formatted.
 - id: 2703
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Deleting previous data...
 - id: 2704
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Saving data..
 - id: 2705
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Loading data...
 - id: 2706
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Overwriting save data...
 - id: 2707
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Deleting previous data...
 - id: 2708
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Failed to check storage.
 - id: 2709
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Failed to delete previous data
@@ -2038,13 +2038,13 @@
     from storage.
 - id: 2710
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Failed to delete previous data.
 - id: 2711
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Insufficient free space on storage.
@@ -2076,25 +2076,25 @@
   en: Not Used
 - id: 2724
   en: >-
-    {:icon question-mark}{:color #FF000080}QUESTION{:reset}                                    
+    {:icon question-mark}{:color #FF000080}QUESTION{:reset}                  
 
 
     Overwrite existing file?
 - id: 2725
   en: >-
-    {:icon question-mark}{:color #FF000080}QUESTION{:reset}                                    
+    {:icon question-mark}{:color #FF000080}QUESTION{:reset}                  
 
 
     Load this file?
 - id: 2726
   en: >-
-    {:icon question-mark}{:color #FF000080}QUESTION{:reset}                                    
+    {:icon question-mark}{:color #FF000080}QUESTION{:reset}                  
 
 
     Delete selected file?
 - id: 2734
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     File system corrupted.
@@ -3505,13 +3505,13 @@
   en: Set the jewel!
 - id: 14284
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Checking storage...
 - id: 14285
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Insufficient free space on storage.
@@ -3519,7 +3519,7 @@
     Start game anyway?
 - id: 14286
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
     No storage found.
 
@@ -3534,7 +3534,7 @@
   en: 2
 - id: 14298
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Insufficient free space on storage.
@@ -3552,7 +3552,7 @@
   en: Load data from storage.
 - id: 14429
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     No storage found.
@@ -7494,7 +7494,7 @@
   en: Moves rapidly while pressing down {:icon button-square}.
 - id: 18120
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     Insufficient free space on storage.
@@ -8005,7 +8005,7 @@
     kegs?
 - id: 19857
   en: >-
-    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                                    
+    {:icon exclamation-mark}{:color #FF000080}INFORMATION{:reset}                  
 
 
     No input detected.
